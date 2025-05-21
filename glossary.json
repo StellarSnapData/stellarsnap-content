@@ -1,10 +1,555 @@
 [
+    {
+    "term": "New Horizons",
+    "definition": "A NASA spacecraft launched in 2006 to study Pluto, its moons, and other objects in the Kuiper Belt. It performed a historic flyby of Pluto on July 14, 2015, providing the first close-up images of the dwarf planet.",
+    "source": "https://www.nasa.gov/mission_pages/newhorizons/overview/index.html"
+  },
   {
-    "term": "Redshift",
-    "definition": "Redshift is the phenomenon where light from distant galaxies is stretched to longer wavelengths as the universe expands. It helps astronomers determine how far away and how fast celestial objects are moving."
+    "term": "Norgay Montes",
+    "definition": "A mountain range on Pluto named in honor of Tenzing Norgay, one of the first two individuals to reach the summit of Mount Everest. These mountains rise up to 3,500 meters (11,000 feet) and were discovered by the New Horizons mission.",
+    "source": "https://www.jpl.nasa.gov/images/pia21944-first-official-pluto-feature-names"
+  },
+  {
+    "term": "Hillary Montes",
+    "definition": "A mountain range on Pluto named after Sir Edmund Hillary, who, along with Tenzing Norgay, was among the first to summit Mount Everest. These icy peaks were identified by the New Horizons spacecraft.",
+    "source": "https://www.jpl.nasa.gov/images/pia21944-first-official-pluto-feature-names"
+  },
+  {
+    "term": "Sputnik Planum",
+    "definition": "A vast, icy plain on Pluto's surface, informally named after Earth's first artificial satellite, Sputnik. Characterized by its smooth, craterless terrain, it is believed to be composed primarily of nitrogen ice and exhibits signs of recent geological activity.",
+    "source": "https://www.nasa.gov/image-article/image-of-plutos-vast-icy-plain-informally-called-sputnik-planum/"
+  },  
+  {
+    "term": "Binary Star System",
+    "definition": "A system of two stars orbiting a common center of mass, bound together by gravitational forces.",
+    "source": "https://apod.nasa.gov/apod/ap250514.html"
+  },
+  {
+    "term": "Doubly Ionized Oxygen",
+    "definition": "Oxygen atoms that have lost two electrons, often found in planetary nebulae and responsible for characteristic blue-green emission lines.",
+    "source": "https://apod.nasa.gov/apod/ap250514.html"
+  },
+  {
+    "term": "Ultraviolet Radiation",
+    "definition": "Electromagnetic radiation with wavelengths shorter than visible light, capable of ionizing atoms and molecules.",
+    "source": "https://apod.nasa.gov/apod/ap250514.html"
+  },  {
+    "term": "Milky Way",
+    "definition": "The galaxy that contains our Solar System, characterized by its barred spiral structure with multiple spiral arms extending from a central bar.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+  },
+  {
+    "term": "Gaia Mission",
+    "definition": "A European Space Agency space observatory launched in 2013, designed to chart a three-dimensional map of the Milky Way by observing over a billion stars.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+  },
+  {
+    "term": "Spiral Arms",
+    "definition": "Regions of stars and interstellar matter that extend from the center of spiral galaxies, forming a spiral pattern; in the Milky Way, these include the Orion Arm where our Solar System resides.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+  },
+  {
+    "term": "Orion Arm",
+    "definition": "A minor spiral arm of the Milky Way Galaxy where our Solar System is located, situated between the larger Sagittarius and Perseus arms.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+  },
+  {
+    "term": "Emission Nebula",
+    "definition": "A cloud of ionized gas emitting light of various colors, often found in regions of active star formation and contributing to the reddish hues observed in galaxies.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
+  },
+{
+  "term": "Venera 14",
+  "definition": "A Soviet space probe launched on November 4, 1981, that successfully landed on Venus on March 5, 1982. It transmitted images and data from the Venusian surface, enduring extreme temperatures and pressures for 57 minutes.",
+  "source": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-110D"
+},
+  {
+    "term": "Phoebe Regio",
+    "definition": "A geologically complex highland region near Venus' equator. It was the landing site of Venera 14 and features ridges, plains, and evidence of tectonic activity.",
+    "source": "https://planetarynames.wr.usgs.gov/Feature/4729"
+  },
+  {
+    "term": "Penetrometer",
+    "definition": "A scientific instrument used to measure the physical properties of a surface by penetrating it. On Venus, Venera 14 used its penetrometer to assess the density and compressibility of the soil.",
+    "source": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-110D"
+  },
+  {
+    "term": "Venus Express",
+    "definition": "A European Space Agency mission that orbited Venus from 2006 to 2014, conducting detailed studies of the planet's atmosphere and surface, and providing evidence of possible active volcanism.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Venus_Express"
+  },
+    {
+    "term": "Mars Pathfinder",
+    "definition": "A NASA mission that landed on Mars in July 1997 and deployed the Sojourner rover. It was designed to demonstrate a low-cost method for delivering scientific instruments to the Martian surface and to explore Mars' atmosphere, climate, geology, and composition.",
+    "source": "https://mars.nasa.gov/MPF/"
+  },
+  {
+    "term": "Sojourner",
+    "definition": "The first rover to operate on another planet. Part of the Mars Pathfinder mission, Sojourner was a small, six-wheeled robotic vehicle that explored the Martian surface in 1997, analyzing rocks and soil using its onboard instruments.",
+    "source": "https://mars.nasa.gov/MPF/rover/"
+  },
+  {
+    "term": "Barnacle Bill",
+    "definition": "A rock near the Pathfinder landing site on Mars, named and studied by the Sojourner rover using its Alpha Proton X-Ray Spectrometer. It was the first rock on another planet to be analyzed by a rover.",
+    "source": "https://mars.nasa.gov/resources/8475/sojourner-barnacle-bill-yogi/"
+  },
+  {
+    "term": "Yogi Rock",
+    "definition": "A large, rounded boulder near the Mars Pathfinder landing site, analyzed by the Sojourner rover. Its unusual shape and size made it a key target for surface interaction and imaging.",
+    "source": "https://mars.nasa.gov/resources/8475/sojourner-barnacle-bill-yogi/"
+  },
+  {
+    "term": "Imager for Mars Pathfinder (IMP)",
+    "definition": "A stereo camera system onboard the Mars Pathfinder lander. It provided 3D and color imagery of the Martian surface and was also used to observe the Sun and Mars’ moons, making it the first astronomical observatory on another planet.",
+    "source": "https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=1996-068A-01"
+  },
+  {
+    "term": "Deimos",
+    "definition": "The smaller and outermost of Mars' two moons. It was observed by the Mars Pathfinder’s IMP camera during the mission, offering early insights into Martian moon dynamics.",
+    "source": "https://solarsystem.nasa.gov/moons/mars-moons/deimos/overview/"
+  },
+  {
+    "term": "Alpha Proton X-Ray Spectrometer (APXS)",
+    "definition": "An instrument on the Sojourner rover used to analyze the elemental composition of Martian rocks and soil. It operated by bombarding samples with radiation and measuring emitted particles.",
+    "source": "https://mars.nasa.gov/MPF/rover/apxs.html"
+  },
+  {
+    "term": "IXPE",
+    "definition": "Imaging X-ray Polarimetry Explorer. A NASA space observatory launched in December 2021, designed to measure the polarization of cosmic X-rays from sources such as black holes, neutron stars, and pulsars. IXPE provides insights into the magnetic fields and emission mechanisms of these high-energy objects.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "X-ray Polarization",
+    "definition": "A property of X-ray light that describes the orientation of its electric field vector. Measuring X-ray polarization helps astronomers understand the geometry and emission processes in high-energy astrophysical sources.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "BL Lac",
+    "definition": "A type of active galactic nucleus known as a blazar, characterized by rapid variability and strong polarization. BL Lacertae is the prototype of this class and is located in the constellation Lacerta.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "Accretion Disk",
+    "definition": "A rotating disk of gas, dust, and other matter that spirals into a central massive object like a black hole. The material heats up due to friction and gravitational forces, emitting radiation across various wavelengths.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "Jet (Astrophysical Jet)",
+    "definition": "A narrow, high-speed stream of plasma ejected from the regions surrounding compact objects like black holes. These jets can extend over vast distances and are often observed in radio and X-ray wavelengths.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "Compton Scattering",
+    "definition": "A quantum mechanical phenomenon where X-ray or gamma-ray photons scatter off charged particles, such as electrons, resulting in a change in the photon's energy and direction. This process is significant in high-energy astrophysical environments.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "Supermassive Black Hole",
+    "definition": "A black hole with a mass ranging from millions to billions of times that of the Sun, typically found at the centers of galaxies. These black holes influence the dynamics and evolution of their host galaxies.",
+    "source": "https://www.nasa.gov/missions/ixpe/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/"
+  },
+  {
+    "term": "Crab Nebula",
+    "definition": "Also known as Messier 1 (M1), the Crab Nebula is a supernova remnant resulting from a stellar explosion observed in 1054 CE. Located approximately 6,500 light-years away in the constellation Taurus, it spans about 10 light-years and is expanding at roughly 1,500 kilometers per second.",
+    "source": "https://apod.nasa.gov/apod/ap231115.html"
+  },
+  {
+    "term": "Messier 1 (M1)",
+    "definition": "The first object cataloged by French astronomer Charles Messier in his list of non-cometary celestial objects. M1 is the designation for the Crab Nebula, a supernova remnant in Taurus.",
+    "source": "https://apod.nasa.gov/apod/ap231115.html"
+  },
+  {
+    "term": "Supernova Remnant",
+    "definition": "The structure resulting from the explosion of a star in a supernova. It consists of ejected material expanding from the explosion and the shocked interstellar medium it sweeps up.",
+    "source": "https://apod.nasa.gov/apod/ap231115.html"
+  },
+  {
+    "term": "Hubble Space Telescope",
+    "definition": "A space-based observatory launched in 1990 by NASA and ESA, providing high-resolution images of astronomical objects in visible, ultraviolet, and near-infrared light.",
+    "source": "https://www.nasa.gov/mission_pages/hubble/main/index.html"
+  },
+  {
+    "term": "James Webb Space Telescope",
+    "definition": "Launched in 2021, JWST is a space telescope developed by NASA, ESA, and CSA, designed to observe the universe in infrared wavelengths, enabling the study of the early universe, star formation, and planetary systems.",
+    "source": "https://www.nasa.gov/mission_pages/webb/main/index.html"
+  },
+  {
+    "term": "Taurus",
+    "definition": "A prominent constellation in the northern sky, representing a bull. It contains notable astronomical objects, including the Crab Nebula and the Pleiades star cluster.",
+    "source": "https://apod.nasa.gov/apod/ap231115.html"
+  },{
+  "term": "Irregular Galaxy",
+  "definition": "A galaxy that lacks a distinct regular shape, unlike spiral or elliptical galaxies. Irregular galaxies often result from gravitational interactions or collisions, leading to chaotic appearances without a defined structure. They typically contain abundant gas and dust, facilitating active star formation.",
+  "source": "https://science.nasa.gov/universe/galaxies/types/"
+}
+,  {
+    "term": "Binary Black Hole",
+    "definition": "A system of two black holes in close orbit around each other, emitting gravitational waves as they spiral inward and eventually merge. These systems are key sources for gravitational wave detectors like LIGO and Virgo.",
+    "source": "https://www.nasa.gov/universe/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes/"
+  },
+  {
+    "term": "Photon Sphere",
+    "definition": "A region around a black hole where gravity is strong enough that photons (light particles) can orbit the black hole. This creates a bright ring-like structure in visualizations and images.",
+    "source": "https://svs.gsfc.nasa.gov/13326"
   },
   {
     "term": "Event Horizon",
-    "definition": "The event horizon is the boundary around a black hole beyond which nothing — not even light — can escape its gravitational pull."
+    "definition": "The boundary around a black hole beyond which nothing, not even light, can escape. It marks the point of no return for matter falling into the black hole.",
+    "source": "https://svs.gsfc.nasa.gov/13326"
+  },
+  {
+    "term": "Gravitational Waves",
+    "definition": "Ripples in the fabric of space-time caused by accelerating massive objects, such as merging black holes. These waves were first directly detected by LIGO in 2015.",
+    "source": "https://www.ligo.caltech.edu/page/what-are-gw"
+  },
+  {
+    "term": "False Color",
+    "definition": "A method of representing data where colors are assigned to specific ranges of values, often used in astronomical imaging to visualize wavelengths outside the visible spectrum.",
+    "source": "https://earthobservatory.nasa.gov/features/FalseColor"
+  },
+  {
+    "term": "Ultraviolet Light",
+    "definition": "Electromagnetic radiation with wavelengths shorter than visible light but longer than X-rays. Ultraviolet observations are crucial for studying hot astronomical objects like accretion disks around black holes.",
+    "source": "https://science.nasa.gov/ems/09_ultravioletwaves"
   }
+  ,  {
+    "term": "Venus",
+    "definition": "The second planet from the Sun and one of the brightest objects in Earth’s night sky. Venus is often visible near sunrise or sunset and is commonly referred to as the 'morning star' or 'evening star.'",
+    "source": "https://solarsystem.nasa.gov/planets/venus/overview/"
+  },
+  {
+    "term": "Saturn",
+    "definition": "The sixth planet from the Sun, known for its stunning ring system composed of ice particles, rock debris, and dust. Saturn is the second-largest planet in the Solar System and is visible to the naked eye under dark skies.",
+    "source": "https://solarsystem.nasa.gov/planets/saturn/overview/"
+  }
+,
+  {
+    "term": "Kerr Black Hole",
+    "definition": "A solution to Einstein's field equations that describes a rotating, uncharged black hole. Unlike non-rotating (Schwarzschild) black holes, Kerr black holes possess angular momentum, leading to unique features such as frame dragging and an ergosphere.",
+    "source": "https://www.nasa.gov/universe/black-holes/what-is-a-black-hole/"
+  },
+  {
+    "term": "Innermost Stable Circular Orbit (ISCO)",
+    "definition": "The smallest orbit in which matter can stably orbit a black hole without falling in. The radius of the ISCO depends on the black hole's spin; for rapidly spinning black holes, the ISCO is closer to the event horizon.",
+    "source": "https://www.nasa.gov/mission_pages/nustar/news/nustar20130227.html"
+  },
+  {
+    "term": "NuSTAR",
+    "definition": "NASA's Nuclear Spectroscopic Telescope Array, an X-ray space observatory launched in 2012, designed to observe high-energy X-rays from sources like black holes, neutron stars, and supernova remnants.",
+    "source": "https://science.nasa.gov/resource/nustar-nuclear-spectroscopic-telescope-array/"
+  },
+  {
+    "term": "XMM-Newton",
+    "definition": "The European Space Agency's X-ray Multi-Mirror Mission, launched in 1999, which observes high-energy phenomena in the universe, such as black holes, neutron stars, and active galactic nuclei.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton_overview"
+  },
+  {
+    "term": "NGC 1365",
+    "definition": "A barred spiral galaxy located approximately 56 million light-years away in the constellation Fornax. It hosts a supermassive black hole at its center, which has been observed to spin at nearly the maximum rate allowed by general relativity.",
+    "source": "https://www.nasa.gov/mission_pages/nustar/news/nustar20130227.html"
+  }
+,  {
+    "term": "Synchronous Rotation",
+    "definition": "A state in which an object's orbital period matches its rotational period, causing the same side to always face the object it orbits. Titan, like Earth's Moon, exhibits synchronous rotation with Saturn.",
+    "source": "https://science.nasa.gov/saturn/moons/titan/facts/"
+  },
+  {
+    "term": "Titan",
+    "definition": "Saturn's largest moon and the second-largest in the Solar System. Titan is unique for its dense nitrogen-rich atmosphere and the presence of liquid hydrocarbon lakes and rivers on its surface.",
+    "source": "https://science.nasa.gov/saturn/moons/titan/"
+  },
+  {
+    "term": "Shangri-La",
+    "definition": "A large, dark equatorial region on Titan characterized by extensive longitudinal dune fields composed of hydrocarbon particles. It was imaged by the Cassini spacecraft using radar and infrared instruments.",
+    "source": "https://science.nasa.gov/resource/in-shangri-la/"
+  },
+  {
+    "term": "Huygens Probe",
+    "definition": "A European Space Agency lander that separated from NASA's Cassini spacecraft and descended through Titan's atmosphere, landing on its surface in January 2005. It provided the first direct data from Titan's surface.",
+    "source": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+  },
+    {
+    "term": "NGC 346",
+    "definition": "A young, massive star cluster located within the Small Magellanic Cloud (SMC), approximately 210,000 light-years from Earth. NGC 346 is the most active star-forming region in the SMC, hosting thousands of young stars and embedded within the nebula N66.",
+    "source": "https://science.nasa.gov/asset/hubble/hubble-spots-stellar-sculptors-in-ngc-346/"
+  },
+  {
+    "term": "Small Magellanic Cloud",
+    "definition": "A dwarf irregular galaxy that is a satellite of the Milky Way, situated about 210,000 light-years away in the constellation Tucana. The SMC is characterized by its low metallicity and active star-forming regions like NGC 346.",
+    "source": "https://science.nasa.gov/asset/hubble/hubble-spots-stellar-sculptors-in-ngc-346/"
+  },
+  {
+    "term": "N66",
+    "definition": "The brightest H II region in the Small Magellanic Cloud, encompassing the star cluster NGC 346. N66 is illuminated by ultraviolet radiation from young, massive stars, causing the surrounding hydrogen gas to emit light.",
+    "source": "https://science.nasa.gov/asset/hubble/hubble-spots-stellar-sculptors-in-ngc-346/"
+  },
+  {
+    "term": "Pre-Main-Sequence Star",
+    "definition": "A young star that has not yet commenced hydrogen fusion in its core. These stars are in the process of contracting and heating up, eventually entering the main sequence phase of stellar evolution.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Star-forming_region_in_nebula_NGC_346"
+  },
+  {
+    "term": "Molecular Cloud",
+    "definition": "A dense and cold region of interstellar space composed primarily of molecular hydrogen, serving as the birthplace of stars. The molecular cloud associated with NGC 346 is actively forming new stars.",
+    "source": "https://science.nasa.gov/asset/hubble/hubble-spots-stellar-sculptors-in-ngc-346/"
+  },
+  {
+    "term": "NIRCam",
+    "definition": "The Near-Infrared Camera aboard the James Webb Space Telescope, capable of capturing high-resolution images in the near-infrared spectrum. NIRCam has been instrumental in studying star formation in regions like NGC 346.",
+    "source": "https://www.nasa.gov/universe/nasas-webb-uncovers-star-formation-in-clusters-dusty-ribbons/"
+  }
+,  {
+    "term": "MESSENGER",
+    "definition": "A NASA spacecraft that became the first to orbit Mercury. Launched in 2004, it entered Mercury’s orbit in 2011 and conducted detailed mapping and analysis of the planet’s surface, atmosphere, and magnetic field before its controlled crash in 2015.",
+    "source": "https://www.nasa.gov/mission_pages/messenger/main/index.html"
+  },
+  {
+    "term": "Shakespeare Basin",
+    "definition": "A large impact basin on Mercury filled with smooth volcanic plains. Named after William Shakespeare, it is one of Mercury’s many geologically significant multi-ring impact structures.",
+    "source": "https://messenger.jhuapl.edu/Explore/Geography.html"
+  },
+  {
+    "term": "Laser Altimeter",
+    "definition": "An instrument that measures surface elevation by timing the return of laser pulses reflected from a planet’s surface. MESSENGER’s altimeter was key to mapping Mercury’s topography.",
+    "source": "https://www.nasa.gov/mission_pages/messenger/spacecraft/Laser-Altimeter.html"
+  },
+  {
+    "term": "Janacek Crater",
+    "definition": "A 48-kilometer-wide impact crater on Mercury located near the northeastern rim of the Shakespeare Basin. It is named after Czech composer Leoš Janáček.",
+    "source": "https://planetarynames.wr.usgs.gov/Feature/7379"
+  },
+    {
+    "term": "Galileo Galilei",
+    "definition": "An Italian astronomer and physicist who, in 1610, was the first to observe Saturn’s rings using a telescope. He described them as 'ears' due to the limitations of his optical instrument.",
+    "source": "https://solarsystem.nasa.gov/people/9/galileo-galilei"
+  },
+    {
+    "term": "NGC 3572",
+    "definition": "A young open star cluster embedded in a glowing emission nebula located in the constellation Carina, about 9,000 light-years away. It contains numerous hot, massive stars that illuminate the surrounding gas and sculpt the surrounding interstellar material.",
+    "source": "https://www.eso.org/public/images/eso1310a/"
+  },
+  {
+    "term": "Gum 37",
+    "definition": "A cataloged emission nebula that is part of the same star-forming region as NGC 3572, located in the constellation Carina. It is part of the Gum catalog of southern nebulae compiled by Australian astronomer Colin Gum.",
+    "source": "https://www.eso.org/public/news/eso1310/"
+  },
+  {
+    "term": "Tadpoles of IC 410",
+    "definition": "Dense, comet-shaped pillars of gas and dust within the emission nebula IC 410 in the constellation Auriga. These 'tadpoles' are being shaped by stellar winds and radiation and are potential sites of new star formation.",
+    "source": "https://apod.nasa.gov/apod/ap110126.html"
+  },
+    {
+    "term": "IC 418",
+    "definition": "A planetary nebula approximately 2,000 light-years away in the constellation Lepus, known as the Spirograph Nebula due to its intricate filamentary patterns. It is the ejected outer shell of a dying low- to intermediate-mass star.",
+    "source": "https://hubblesite.org/contents/media/images/2000/27/1075-Image.html"
+  },
+  {
+    "term": "Spirograph Nebula",
+    "definition": "A nickname for IC 418, referencing its striking resemblance to patterns made by the spirograph drawing toy. The nebula's complex structure is thought to be shaped by variable stellar winds from its central star.",
+    "source": "https://www.nasa.gov/image-feature/goddard/2020/hubble-sees-the-spirograph-nebula"
+  },
+  {
+    "term": "Planetary Nebula",
+    "definition": "An expanding shell of ionized gas ejected from a red giant star in the late stages of stellar evolution. Despite the name, it has no connection to planets. The glowing gas is illuminated by the hot core of the dying star.",
+    "source": "https://science.nasa.gov/astrophysics/focus-areas/how-do-stars-live-and-die"
+  },
+  {
+    "term": "Red Giant",
+    "definition": "A late evolutionary stage of a medium-mass star where the outer layers expand and cool after hydrogen fusion in the core ceases. Red giants can eventually shed their outer envelopes, forming planetary nebulae.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Red_giants_help_shed_light_on_the_Milky_Way"
+  },
+  {
+    "term": "White Dwarf",
+    "definition": "The dense, hot core left behind after a low- or intermediate-mass star expels its outer layers. White dwarfs are composed mostly of electron-degenerate matter and no longer undergo fusion.",
+    "source": "https://chandra.harvard.edu/xray_sources/white_dwarfs.html"
+  },
+  {
+    "term": "False-Color Image",
+    "definition": "An image in which colors are assigned to represent specific wavelengths of light—often outside the visible range—to highlight physical processes or chemical compositions in astronomical objects.",
+    "source": "https://hubblesite.org/resource-gallery/learning-resources/astronomy-basics/false-color-images"
+  },
+    {
+    "term": "HiRISE",
+    "definition": "HiRISE (High Resolution Imaging Science Experiment) is a powerful camera aboard NASA's Mars Reconnaissance Orbiter. It captures high-resolution images of the Martian surface, allowing scientists to observe features as small as a kitchen table, aiding in the selection of landing sites and the study of Mars' geology.",
+    "source": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/science-instruments/"
+  },
+  {
+    "term": "Acidalia Planitia",
+    "definition": "Acidalia Planitia is a large, flat region in the northern lowlands of Mars. It's characterized by weathered craters and windblown deposits. The area has been studied for signs of ancient water activity and is notable in science fiction as the landing site of the fictional Ares 3 mission in 'The Martian.'",
+    "source": "https://themis.asu.edu/feature/2"
+  },
+  {
+    "term": "Carl Sagan Memorial Station",
+    "definition": "The Carl Sagan Memorial Station is the name given to the Mars Pathfinder lander after its successful touchdown on Mars in 1997. Named in honor of the late astronomer Carl Sagan, the station deployed the Sojourner rover to explore the Martian surface.",
+    "source": "https://science.nasa.gov/mission/mars-pathfinder/"
+  },  {
+    "term": "M101",
+    "definition": "Messier 101 (M101), also known as the Pinwheel Galaxy, is a face-on spiral galaxy approximately 25 million light-years away in the constellation Ursa Major. Spanning about 170,000 light-years, it is nearly twice the size of the Milky Way and is characterized by its grand design spiral structure.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-101/"
+  },
+  {
+    "term": "Leviathan of Parsonstown",
+    "definition": "The Leviathan of Parsonstown is a historic 72-inch reflecting telescope constructed in the 1840s by William Parsons, 3rd Earl of Rosse, at Birr Castle in Ireland. At the time, it was the largest telescope in the world and was instrumental in the discovery of spiral structures in galaxies, such as M51.",
+    "source": "https://appel.nasa.gov/2021/12/13/flagship-telescopes-reveal-the-unexpected/"
+  },
+  {
+    "term": "Ursa Major",
+    "definition": "Ursa Major, Latin for 'Great Bear,' is a prominent constellation in the northern sky. It is the third-largest constellation and contains the Big Dipper asterism, which is often used as a navigational aid due to its proximity to Polaris, the North Star.",
+    "source": "https://science.nasa.gov/asset/hubble/constellation-ursa-major/"
+  },
+    {
+    "term": "Galactic Center",
+    "definition": "The Galactic Center is the rotational center of the Milky Way galaxy, located approximately 25,000 light-years from Earth in the direction of the constellation Sagittarius. It is a densely populated region containing a supermassive black hole known as Sagittarius A*, surrounded by a high concentration of stars, gas, and dust.",
+    "source": "https://www.nasa.gov/missions/ixpe/milky-ways-central-black-hole-woke-up-200-years-ago-nasas-ixpe-finds/"
+  },
+  {
+    "term": "Galactic Plane",
+    "definition": "The Galactic Plane is the plane in which the majority of a disk-shaped galaxy's mass lies. In the case of the Milky Way, it is the plane of the galaxy's disk, encompassing the spiral arms, stars, gas, and dust. This plane is used as the reference for the galactic coordinate system.",
+    "source": "https://asd.gsfc.nasa.gov/archive/mwmw/mmw_define.html"
+  },
+  {
+    "term": "Sagittarius",
+    "definition": "Sagittarius is a constellation in the southern sky that lies in the direction of the center of the Milky Way galaxy. It is rich in deep-sky objects and is home to Sagittarius A*, the supermassive black hole at the Milky Way’s core.",
+    "source": "https://www.nasa.gov/feature/goddard/2020/constellations-sagittarius/"
+  },  {
+    "term": "Hubble's Variable Nebula",
+    "definition": "Hubble's Variable Nebula, also known as NGC 2261, is a reflection nebula located approximately 2,500 light-years away in the constellation Monoceros. It is illuminated by the young variable star R Monocerotis and is notable for its changing appearance over short periods, believed to be caused by shadows cast by moving dust clouds near the star.",
+    "source": "https://www.constellation-guide.com/hubbles-variable-nebula-ngc-2261/"
+  },
+  {
+    "term": "R Monocerotis",
+    "definition": "R Monocerotis is a young, massive Herbig Ae/Be star situated about 2,500 light-years from Earth in the constellation Monoceros. It is surrounded by a circumstellar disk of gas and dust and is the illuminating source of Hubble's Variable Nebula (NGC 2261).",
+    "source": "https://www.constellation-guide.com/constellation-list/monoceros-constellation/"
+  },
+  {
+    "term": "Reflection Nebula",
+    "definition": "A reflection nebula is a cloud of interstellar dust that becomes visible due to the light from nearby stars reflecting off its particles. Unlike emission nebulae, reflection nebulae do not emit their own light but shine by scattering the light of nearby stars.",
+    "source": "https://science.nasa.gov/universe/stars/"
+  },
+  {
+    "term": "Monoceros",
+    "definition": "Monoceros is a faint constellation on the celestial equator, introduced in the 17th century by the Dutch cartographer Petrus Plancius. Its name means 'unicorn' in Greek, and it lies near prominent constellations such as Orion and Canis Major.",
+    "source": "https://www.britannica.com/place/Monoceros-astronomy"
+  },
+    {
+    "term": "Thor's Helmet",
+    "definition": "Thor's Helmet, also known as NGC 2359, is an emission nebula located approximately 15,000 light-years away in the constellation Canis Major. Spanning about 30 light-years, this helmet-shaped cosmic cloud is formed by the powerful stellar winds from a central Wolf-Rayet star, which sculpt the surrounding molecular cloud into a bubble-like structure.",
+    "source": "https://apod.nasa.gov/apod/ap240109.html"
+  },
+  {
+    "term": "Wolf-Rayet star",
+    "definition": "A Wolf-Rayet star is a rare, massive, and extremely hot star characterized by strong stellar winds and significant mass loss. These stars are in a late stage of stellar evolution, often preceding a supernova explosion, and are known for their broad emission lines of ionized elements in their spectra.",
+    "source": "https://science.nasa.gov/missions/hubble/hubble-view-wolf-rayet-stars-intense-and-short-lived/"
+  },
+  {
+    "term": "NGC 2359",
+    "definition": "NGC 2359 is the catalog designation for Thor's Helmet, an emission nebula approximately 15,000 light-years away in the constellation Canis Major. This nebula is shaped by the energetic winds from a central Wolf-Rayet star, creating a complex structure of glowing gas and dust.",
+    "source": "https://apod.nasa.gov/apod/ap240109.html"
+  },
+  {
+    "term": "Canis Major",
+    "definition": "Canis Major, Latin for 'Greater Dog,' is a prominent constellation in the southern sky. It is home to Sirius, the brightest star visible from Earth, and contains several notable deep-sky objects, including the emission nebula NGC 2359, also known as Thor's Helmet.",
+    "source": "https://science.nasa.gov/universe/stars/types/"
+  },  {
+    "term": "Solargraph",
+    "definition": "A solargraph is a long-exposure photograph that captures the Sun's path across the sky over extended periods, often weeks or months. Utilizing a simple pinhole camera, such as one made from an aluminum can lined with photographic paper, solargraphs record continuous solar trails, revealing the Sun's movement and seasonal changes.",
+    "source": "https://apod.nasa.gov/apod/ap090626.html"
+  },
+  {
+    "term": "Ondřejov Observatory",
+    "definition": "The Ondřejov Observatory is the principal observatory of the Astronomical Institute of the Czech Academy of Sciences. Located near the village of Ondřejov, approximately 35 kilometers southeast of Prague, it serves as a key center for astronomical research in the Czech Republic.",
+    "source": "https://web.astronomicalheritage.net/show-entity?identity=205&idsubentity=1"
+  },
+  {
+    "term": "IC 1396",
+    "definition": "IC 1396 is a large emission nebula and star-forming region located about 2,400 light-years away in the constellation Cepheus. Spanning over 3 degrees in the sky, it is illuminated by a hot, massive O-type star near its center and contains several dark globules, including the Elephant's Trunk Nebula.",
+    "source": "https://noirlab.edu/public/images/noao1507a/"
+  },
+  {
+    "term": "Elephant's Trunk Nebula",
+    "definition": "The Elephant's Trunk Nebula, designated IC 1396A, is a dense, elongated region of interstellar gas and dust within the larger IC 1396 emission nebula in the constellation Cepheus. Shaped by stellar winds and radiation from nearby massive stars, it is an active site of star formation.",
+    "source": "https://noirlab.edu/public/images/noao1507a/"
+  },
+  {
+    "term": "Cepheus",
+    "definition": "Cepheus is a constellation in the northern sky, named after a mythical king of Ethiopia. It contains several notable deep-sky objects, including the emission nebula IC 1396 and the Elephant's Trunk Nebula, and is home to the red supergiant star Mu Cephei.",
+    "source": "https://science.nasa.gov/universe/stars/types/"
+  },
+  {
+    "term": "Lynds' Dark Nebula (LDN) 1622",
+    "definition": "Lynds' Dark Nebula 1622 (LDN 1622) is a dark molecular cloud located near the plane of the Milky Way Galaxy, close to Barnard's Loop in the constellation Orion. It appears as a silhouette against a faint background of glowing hydrogen gas and is a region of active star formation.",
+    "source": "https://apod.nasa.gov/apod/ap230125.html"
+  },
+  {
+    "term": "vdB 62",
+    "definition": "vdB 62 is a reflection nebula located in the constellation Orion, illuminated by the Herbig Ae/Be star HD 288313. It appears as a bright patch of nebulosity and is situated near the dark nebula LDN 1622.",
+    "source": "https://in-the-sky.org/data/object.php?id=VdB_62"
+  },
+  {
+    "term": "Barnard's Loop",
+    "definition": "Barnard's Loop is a large emission nebula in the constellation Orion, forming a semicircular arc around the Orion Nebula. It is part of the Orion molecular cloud complex and is believed to have been formed by a supernova explosion approximately 2 million years ago.",
+    "source": "https://www.constellation-guide.com/barnards-loop/"
+  },
+    {
+    "term": "Rho Ophiuchi",
+    "definition": "Rho Ophiuchi is a binary star system embedded within a colorful nebula, part of a nearby star-forming region approximately 400 light-years away, characterized by vibrant clouds of gas and dust.",
+    "source": "https://apod.nasa.gov/apod/ap190513.html"
+  },
+  {
+    "term": "Zeta Ophiuchi",
+    "definition": "Zeta Ophiuchi is a massive, hot, blue star moving rapidly through space, creating a bow shock as its stellar winds interact with surrounding interstellar material.",
+    "source": "https://www.nasa.gov/image-article/zeta-ophiuchi-star-with-complicated-past/"
+  },
+  {
+    "term": "University of Hawaii's 2.2-Meter Telescope",
+    "definition": "The University of Hawaii's 2.2-Meter Telescope, located atop Maunakea, was the first large telescope constructed on the mountain and has been instrumental in various astronomical discoveries since 1970.",
+    "source": "https://www2.ifa.hawaii.edu/88inch/88inch.html"
+  },
+  {
+    "term": "Charon",
+    "definition": "Charon is Pluto's largest moon, notable for its diverse geological features, including canyons and a dark polar region, and was extensively studied during NASA's New Horizons mission.",
+    "source": "https://www.nasa.gov/solar-system/plutos-big-moon-charon-reveals-a-colorful-and-violent-history/"
+  },
+  {
+    "term": "Mordor Macula",
+    "definition": "Mordor Macula is the informal name for the dark reddish area near Charon's north pole, possibly resulting from the accumulation of tholins or other complex organic molecules.",
+    "source": "https://www.jpl.nasa.gov/images/pia19968-charon-in-enhanced-color/"
+  },
+    {
+    "term": "Centaurus",
+    "definition": "Centaurus is a prominent constellation in the southern sky, representing a centaur from Greek mythology. It contains notable celestial objects, including Alpha Centauri, the closest star system to the Sun, and Omega Centauri, the largest globular cluster in the Milky Way.",
+    "source": "https://noirlab.edu/public/education/constellations/centaurus/"
+  },
+  {
+    "term": "Alpha Centauri",
+    "definition": "Alpha Centauri is the closest star system to the Sun, located approximately 4.37 light-years away. It is a triple star system consisting of two sun-like stars, Alpha Centauri A and B, and a red dwarf, Proxima Centauri, which is the nearest individual star to Earth.",
+    "source": "https://earthsky.org/constellations/centaurus-the-centaur/"
+  },
+  {
+    "term": "Omega Centauri",
+    "definition": "Omega Centauri, also known as NGC 5139, is the largest and brightest globular cluster in the Milky Way, containing about 10 million stars. It is located approximately 15,800 light-years away in the constellation Centaurus.",
+    "source": "https://noirlab.edu/public/images/noao-omega-centauri/"
+  },
+  {
+    "term": "NGC 2442",
+    "definition": "NGC 2442, nicknamed the 'Meathook Galaxy,' is a distorted spiral galaxy located about 50 million light-years away in the constellation Volans. Its asymmetrical shape is likely due to gravitational interactions with a smaller galaxy.",
+    "source": "https://esahubble.org/images/heic1108d/"
+  },
+  {
+    "term": "Volans",
+    "definition": "Volans is a small, faint constellation in the southern sky, representing a flying fish. It contains several notable deep-sky objects, including the distorted spiral galaxy NGC 2442.",
+    "source": "https://esahubble.org/images/heic1108d/"
+  },
+  {
+    "term": "B1938+666",
+    "definition": "B1938+666 is a gravitational lens system where a foreground galaxy bends the light from a more distant background galaxy, creating a nearly perfect Einstein ring. This phenomenon provides valuable insights into the distribution of dark matter.",
+    "source": "https://www.jb.man.ac.uk/research/gravlens/lensarch/B1938+666/B1938+666.html"
+  },
+  {
+    "term": "Einstein ring",
+    "definition": "An Einstein ring is a phenomenon where the light from a distant object, such as a galaxy or quasar, is bent into a ring shape by the gravitational field of a massive foreground object, like another galaxy. This effect is a consequence of Einstein's theory of general relativity.",
+    "source": "https://hyperphysics.phy-astr.gsu.edu/hbase/Astro/einring.html"
+  }
+
 ]
+  
