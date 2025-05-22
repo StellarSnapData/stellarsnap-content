@@ -1,7 +1,19 @@
 {
   "slug": "time-dilation",
   "title": "Understanding Time Dilation",
-  "summary": "How time stretches as you approach the speed of light.",
-  "body": "Time dilation is a concept in Einstein's theory of relativity...",
-  "createdAt": "2025-05-22"
+  "publishedAt": "2025-05-22",
+  "sections": [
+    {
+      "title": "What is Time Dilation?",
+      "body": "Time dilation is a concept in Einstein's theory of relativity..."
+    },
+    {
+      "title": "Why It Happens",
+      "body": "Time appears to pass more slowly for objects in motion relative to an observer..."
+    },
+    {
+      "title": "Real-World Examples",
+      "body": "GPS satellites experience measurable time dilation due to their speed and position..."
+    }
+  ]
 }
