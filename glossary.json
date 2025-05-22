@@ -549,7 +549,46 @@
     "term": "Einstein ring",
     "definition": "An Einstein ring is a phenomenon where the light from a distant object, such as a galaxy or quasar, is bent into a ring shape by the gravitational field of a massive foreground object, like another galaxy. This effect is a consequence of Einstein's theory of general relativity.",
     "source": "https://hyperphysics.phy-astr.gsu.edu/hbase/Astro/einring.html"
+  },
+      {
+    "term": "Loop Quantum Cosmology",
+    "definition": "Loop Quantum Cosmology (LQC) is a theoretical framework that applies principles of loop quantum gravity to cosmological settings. It suggests that the classical Big Bang singularity is replaced by a quantum bounce, implying that the universe underwent a prior contracting phase before expanding.",
+    "source": "https://ui.adsabs.harvard.edu/abs/2021EPJC...81..975M/abstract"
+  },
+  {
+    "term": "Planck time",
+    "definition": "Planck time is the smallest meaningful unit of time in physics, approximately 10⁻⁴³ seconds. It represents the time it would take for light to travel one Planck length in a vacuum, marking the earliest moment after the Big Bang where current physical theories can be applied.",
+    "source": "https://go.nasa.gov/17ZHwp0"
+  },
+  {
+    "term": "Cosmic inflation",
+    "definition": "Cosmic inflation refers to a brief period of extremely rapid exponential expansion of the universe immediately following the Big Bang. This theory addresses several cosmological puzzles, such as the uniformity and flatness of the observable universe.",
+    "source": "https://wmap.gsfc.nasa.gov/universe/bb_cosmo_infl.html"
+  },
+  {
+    "term": "Cosmic Microwave Background",
+    "definition": "The Cosmic Microwave Background (CMB) is the residual thermal radiation from the early universe, dating back to approximately 380,000 years after the Big Bang. It provides a snapshot of the universe at that time, offering critical evidence for the Big Bang theory.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Cosmic_Microwave_Background_CMB_radiation"
+  },
+  {
+    "term": "Redshift",
+    "definition": "Redshift is the phenomenon where light from distant galaxies is stretched to longer, redder wavelengths due to the expansion of the universe. It serves as a key observational evidence for the universe's ongoing expansion.",
+    "source": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/"
+  },
+  {
+    "term": "Singularity",
+    "definition": "In general relativity, a singularity is a point in space-time where densities become infinite, such as at the center of a black hole. It signifies a breakdown in the laws of physics as currently understood.",
+    "source": "https://science.nasa.gov/universe/black-holes/anatomy/"
+  },
+  {
+    "term": "Scalar field",
+    "definition": "A scalar field assigns a scalar value to every point in space and time. In cosmology, scalar fields are hypothesized to drive cosmic inflation and influence the dynamics of the early universe.",
+    "source": "https://ntrs.nasa.gov/api/citations/19890007068/downloads/19890007068.pdf"
+  },
+  {
+    "term": "Vacuum energy",
+    "definition": "Vacuum energy is the underlying background energy present in space even when devoid of matter. It is associated with the cosmological constant and is a candidate for explaining dark energy, which drives the accelerated expansion of the universe.",
+    "source": "https://science.nasa.gov/dark-energy/"
   }
-
 ]
   
