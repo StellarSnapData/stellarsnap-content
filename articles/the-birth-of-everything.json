@@ -21,22 +21,86 @@
       "body": "We can describe many parts of the early universe with confidence. We have equations that predict the expansion of space, the formation of elements, and the structure of galaxies. We have measurements to support them. But there are still limits, and they begin at the very beginning.\n\nThe idea of a singularity, a point of infinite density and zero volume, comes from general relativity. But infinities in physics are usually signs that something is broken. We know that our current theories stop working when gravity and quantum mechanics collide. We do not yet have a complete theory that unifies them. Until we do, we cannot say exactly what happened at time zero.\n\nWe also do not fully understand what caused inflation. The idea that the universe expanded faster than light is supported by data, but we do not know what powered it or why it stopped. Several theories exist, involving scalar fields and vacuum energy, but none are confirmed.\n\nThere are deeper mysteries too. Why do the laws of physics have the values they do? Why does the universe contain matter at all, instead of equal parts matter and antimatter canceling each other out? What is dark energy? What is time?\n\nEven more fundamentally, we do not know why there is anything instead of nothing. Science can describe how the universe evolved, but not why it exists at all. That question may remain unanswered, or it may require a kind of explanation we have not yet learned how to ask for.\n\nThe more we learn, the sharper these questions become. Each discovery brings new structure, but also new gaps. And that, in a way, is what makes this field so powerful. We are not just explaining the past. We are still searching for the beginning."
     }
   ],
-  "sources": [
-    {
-      "title": "NASA – What Is the Big Bang?",
-      "url": "https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang/"
-    },
-    {
-      "title": "Planck Time – Britannica",
-      "url": "https://www.britannica.com/science/Planck-time"
-    },
-    {
-      "title": "Cosmic Inflation – Physics LibreTexts",
-      "url": "https://phys.libretexts.org/Bookshelves/Astronomy/Astronomy_1e_(OpenStax)/07%3A_The_Big_Bang/7.04%3A_Inflation"
-    },
-    {
-      "title": "Loop Quantum Cosmology – APS Physics",
-      "url": "https://physics.aps.org/articles/v8/39"
-    }
-  ]
+"sources": [
+  {
+    "title": "NASA – The Big Bang Theory",
+    "url": "https://map.gsfc.nasa.gov/universe/bb_theory.html"
+  },
+  {
+    "title": "Scientific American – What Came Before the Big Bang?",
+    "url": "https://www.scientificamerican.com/article/what-came-before-the-big-bang/"
+  },
+  {
+    "title": "Ashtekar et al. – Quantum Nature of the Big Bang (arXiv)",
+    "url": "https://arxiv.org/abs/gr-qc/0604013"
+  },
+  {
+    "title": "Stanford Encyclopedia of Philosophy – Cosmology and the Multiverse",
+    "url": "https://plato.stanford.edu/entries/cosmology/#Mult"
+  },
+  {
+    "title": "NASA – What Powered the Big Bang?",
+    "url": "https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang"
+  },
+  {
+    "title": "ESA – The Cosmic Microwave Background and Inflation",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/The_cosmic_microwave_background_and_inflation"
+  },
+  {
+    "title": "ESA – Exploring the Physics of Inflation",
+    "url": "https://sci.esa.int/web/planck/-/51701-exploring-the-physics-of-inflation"
+  },
+  {
+    "title": "NASA – High Energy Nucleus-Nucleus Collisions (PDF)",
+    "url": "https://ntrs.nasa.gov/api/citations/19860022041/downloads/19860022041.pdf"
+  },
+  {
+    "title": "ESA – History of Cosmic Structure Formation",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation"
+  },
+  {
+    "title": "NASA – WMAP: Big Bang Test – Cosmic Microwave Background",
+    "url": "https://wmap.gsfc.nasa.gov/universe/bb_tests_cmb.html"
+  },
+  {
+    "title": "ESA – Planck’s View of the Cosmic Microwave Background",
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background"
+  },
+  {
+    "title": "ESA – What is 'Red Shift'?",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift"
+  },
+  {
+    "title": "NASA – WMAP: Big Bang Test – Light Elements",
+    "url": "https://wmap.gsfc.nasa.gov/universe/bb_tests_ele.html"
+  },
+  {
+    "title": "NASA – Our Cosmic Journeys (PDF)",
+    "url": "https://ntrs.nasa.gov/api/citations/20000113403/downloads/20000113403.pdf"
+  },
+  {
+    "title": "NASA – The Big Bang",
+    "url": "https://science.nasa.gov/universe/the-big-bang/"
+  },
+  {
+    "title": "ESA – What Do We Need to Know in Gravitational Physics?",
+    "url": "https://sci.esa.int/c/portal/doc.cfm?fobjectid=46548"
+  },
+  {
+    "title": "NASA – Cosmic History",
+    "url": "https://science.nasa.gov/universe/overview/"
+  },
+  {
+    "title": "ESA – Is the Universe Finite or Infinite? (Interview with Joseph Silk)",
+    "url": "https://www.esa.int/Science_Exploration/Space_Science/Is_the_Universe_finite_or_infinite_An_interview_with_Joseph_Silk"
+  },
+  {
+    "title": "NASA – Ask an Astrophysicist: Cosmology",
+    "url": "https://imagine.gsfc.nasa.gov/ask_astro/cosmology.html"
+  },
+  {
+    "title": "ESA – Planck 2018 Results: Constraints on Inflation (PDF)",
+    "url": "https://www.cosmos.esa.int/documents/387566/387653/Planck_2018_results_L10.pdf"
+  }
+]
 }
