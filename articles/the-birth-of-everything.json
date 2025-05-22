@@ -1,0 +1,42 @@
+{
+  "slug": "the-birth-of-everything",
+  "title": "The Birth of Everything and the Questions That Remain",
+  "summary": "A deep look at how the universe began, what might have come before it, and how we know any of it happened, along with the profound questions that still remain unanswered.",
+  "publishedAt": "2025-05-22",
+  "sections": [
+    {
+      "title": "What Existed Before the Big Bang?",
+      "body": "It’s a question that feels almost instinctive to ask. Everything we know seems to have a beginning, a cause, a moment of origin. But when it comes to the universe itself, the question becomes difficult to define.\n\nTime, as far as we know, may have emerged with the Big Bang. If that is the case, then asking what came before it might be like asking what lies north of the North Pole. The concept breaks down.\n\nStill, scientists have not stopped trying to explore the horizon of that first moment. And while we don’t have a final answer, we do have theories. Some are mathematical. Some are philosophical. A few are both.\n\nOne idea, called loop quantum cosmology, suggests that space and time didn’t begin with a bang, but with a bounce. According to this view, the universe once existed in a compressed state before expanding into what we see today.\n\nOther models go further. They propose that our universe is just one bubble in a vast cosmic sea where expansion never completely ends. In those models, new Big Bangs happen again and again, forever.\n\nThese are not works of science fiction. They come from physics at the edge of understanding, grounded in math, observation, and careful imagination."
+    },
+    {
+      "title": "What Happened in the First Fraction of a Second?",
+      "body": "When we imagine the Big Bang, we often think of an explosion: sudden, violent, and chaotic. But what actually happened was stranger than that. The early universe didn’t explode into space. It became space. And in the tiniest fractions of a second, it changed more than we can easily grasp.\n\nThe earliest moment we can speak about with some confidence is called the Planck time. That is <span class=\"relative group cursor-help text-blue-400\">10<sup>−43</sup> seconds<span class=\"absolute left-0 bottom-full mb-2 hidden group-hover:block w-64 p-2 text-sm text-white bg-gray-800 rounded shadow-lg z-10\">That is 0.0000000000000000000000000000000000000000001 seconds — a decimal with 43 zeros after the dot.</span></span> after the beginning. A number so small, it defies intuition. Before this point, our current laws of physics no longer apply. Gravity and quantum mechanics, usually the pillars of our understanding, stop working together. We don’t know what happened, only that something world-defining took place.\n\nImmediately after this, the universe entered a state known as cosmic inflation. In less than a trillionth of a second, it expanded faster than the speed of light. This wasn’t motion through space. It was space itself expanding. Distances between points stretched rapidly, smoothing and flattening the cosmos in the process.\n\nWhen inflation ended, the energy that drove it didn’t vanish. It turned into particles. The universe became a hot, dense plasma of energy and matter, full of quarks, gluons, and photons. These collided and decayed, giving rise to the first building blocks of atoms.\n\nIn the seconds that followed, the fundamental forces of nature began to separate. Gravity stood apart first. Then the strong nuclear force, the weak nuclear force, and electromagnetism emerged. The rules that shape our universe today were forged in that intense, early fire.\n\nAnd yet, we weren’t there. So how do we know any of this?\nThat is what the next section will explore."
+    },
+    {
+      "title": "How Do We Know It Happened?",
+      "body": "The beginning of the universe is beyond direct observation. Still, the early cosmos left traces, subtle marks imprinted across space. Over time, scientists have gathered these clues, tested them, and compared them with what our models predict.\n\nOne of the most important clues is the cosmic microwave background, or CMB. This is faint radiation still glowing from a time roughly 380,000 years after the Big Bang. Before that point, the universe was too hot for light to move freely. But once it cooled, photons began to travel. Those same photons are still arriving today, stretched into microwaves by the ongoing expansion of space.\n\nWe have mapped this ancient light in remarkable detail. Small variations in its temperature match what we would expect from a universe that expanded rapidly, cooled down, and began forming structure. The CMB remains one of the strongest pieces of evidence we have. It shows us the aftermath of the beginning.\n\nAnother clue is the redshift of galaxies. When we look into deep space, we are looking back in time. Light from distant galaxies is stretched toward the red end of the spectrum. The farther away the galaxy is, the faster it appears to be moving. This tells us that space itself is still expanding, just as the Big Bang theory describes.\n\nWe also find evidence in the abundance of elements. The universe contains hydrogen, helium, and a small amount of lithium in very specific ratios. These amounts align closely with what our models predict would have formed in the first few minutes of a hot, dense universe.\n\nFinally, we use particle accelerators to test our understanding. By colliding atoms at extremely high speeds, we can recreate some of the conditions that existed in the early universe. The particles and interactions we observe help confirm a picture of a universe that began in intense heat and gradually cooled.\n\nThese clues do not give us the full story. But they all point in the same direction. Together, they suggest that the Big Bang is not just a theory. It is something we can observe, written in light, matter, and motion."
+    },
+    {
+      "title": "What We Still Don’t Know",
+      "body": "We can describe many parts of the early universe with confidence. We have equations that predict the expansion of space, the formation of elements, and the structure of galaxies. We have measurements to support them. But there are still limits, and they begin at the very beginning.\n\nThe idea of a singularity, a point of infinite density and zero volume, comes from general relativity. But infinities in physics are usually signs that something is broken. We know that our current theories stop working when gravity and quantum mechanics collide. We do not yet have a complete theory that unifies them. Until we do, we cannot say exactly what happened at time zero.\n\nWe also do not fully understand what caused inflation. The idea that the universe expanded faster than light is supported by data, but we do not know what powered it or why it stopped. Several theories exist, involving scalar fields and vacuum energy, but none are confirmed.\n\nThere are deeper mysteries too. Why do the laws of physics have the values they do? Why does the universe contain matter at all, instead of equal parts matter and antimatter canceling each other out? What is dark energy? What is time?\n\nEven more fundamentally, we do not know why there is anything instead of nothing. Science can describe how the universe evolved, but not why it exists at all. That question may remain unanswered, or it may require a kind of explanation we have not yet learned how to ask for.\n\nThe more we learn, the sharper these questions become. Each discovery brings new structure, but also new gaps. And that, in a way, is what makes this field so powerful. We are not just explaining the past. We are still searching for the beginning."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NASA – What Is the Big Bang?",
+      "url": "https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang/"
+    },
+    {
+      "title": "Planck Time – Britannica",
+      "url": "https://www.britannica.com/science/Planck-time"
+    },
+    {
+      "title": "Cosmic Inflation – Physics LibreTexts",
+      "url": "https://phys.libretexts.org/Bookshelves/Astronomy/Astronomy_1e_(OpenStax)/07%3A_The_Big_Bang/7.04%3A_Inflation"
+    },
+    {
+      "title": "Loop Quantum Cosmology – APS Physics",
+      "url": "https://physics.aps.org/articles/v8/39"
+    }
+  ]
+}
