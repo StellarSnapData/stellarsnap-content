@@ -9,11 +9,21 @@
     },
     {
       "title": "Why It Happens",
-      "body": "Time appears to pass more slowly for objects in motion relative to an observer..."
+      "body": "Time appears to pass more slowly for objects in motion..."
     },
     {
       "title": "Real-World Examples",
-      "body": "GPS satellites experience measurable time dilation due to their speed and position..."
+      "body": "GPS satellites experience measurable time dilation..."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Einstein's Theory of Relativity - NASA",
+      "url": "https://www.nasa.gov/einsteins-relativity"
+    },
+    {
+      "title": "Time Dilation - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_dilation"
     }
   ]
 }
