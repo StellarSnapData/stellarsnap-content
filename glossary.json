@@ -589,6 +589,31 @@
     "term": "Vacuum energy",
     "definition": "Vacuum energy is the underlying background energy present in space even when devoid of matter. It is associated with the cosmological constant and is a candidate for explaining dark energy, which drives the accelerated expansion of the universe.",
     "source": "https://science.nasa.gov/dark-energy/"
+  },
+  {
+    "term": "Proxima Centauri",
+    "definition": "Proxima Centauri is a red dwarf star situated in the constellation Centaurus, approximately 4.2 light-years from Earth. It is the closest known star to the Sun and is part of the Alpha Centauri star system. Proxima Centauri is not visible to the naked eye due to its low luminosity.",
+    "source": "https://science.nasa.gov/asset/hubble/proxima-centauri/"
+  },
+  {
+    "term": "Analemma",
+    "definition": "An analemma is a diagram showing the position of the Sun in the sky as seen from a fixed location on Earth at the same mean solar time over the course of a year. The resulting figure-eight pattern arises due to Earth's axial tilt and orbital eccentricity.",
+    "source": "https://solar-center.stanford.edu/art/analemma.html"
+  },
+  {
+    "term": "Eclipse season",
+    "definition": "An eclipse season is a period during which the Sun, Earth, and Moon are aligned in such a way that eclipses can occur. Each eclipse season lasts about 35 days and happens approximately every six months, allowing for at least one solar and one lunar eclipse during each season.",
+    "source": "https://science.nasa.gov/eclipses/"
+  },
+  {
+    "term": "Perihelion",
+    "definition": "Perihelion is the point in the orbit of a planet or other celestial body where it is closest to the Sun. For Earth, perihelion occurs annually in early January, when the planet is about 147 million kilometers (91 million miles) from the Sun.",
+    "source": "https://ssd.jpl.nasa.gov/glossary/perihelion.html"
+  },
+  {
+    "term": "Parker Solar Probe",
+    "definition": "The Parker Solar Probe is a NASA spacecraft launched in 2018 to study the Sun's outer atmosphere. It is designed to withstand extreme heat and radiation as it approaches within 3.8 million miles of the solar surface, providing unprecedented data on solar activity and space weather.",
+    "source": "https://science.nasa.gov/blogs/parker-solar-probe/"
   }
 ]
   
