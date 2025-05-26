@@ -614,6 +614,16 @@
     "term": "Parker Solar Probe",
     "definition": "The Parker Solar Probe is a NASA spacecraft launched in 2018 to study the Sun's outer atmosphere. It is designed to withstand extreme heat and radiation as it approaches within 3.8 million miles of the solar surface, providing unprecedented data on solar activity and space weather.",
     "source": "https://science.nasa.gov/blogs/parker-solar-probe/"
+  },
+    {
+    "term": "Juno",
+    "definition": "Juno is a NASA space probe launched on August 5, 2011, to study Jupiter. It entered a highly elliptical polar orbit around Jupiter on July 4, 2016, allowing it to investigate the planet's atmosphere, magnetic field, and gravitational field while minimizing exposure to Jupiter's intense radiation belts.",
+    "source": "https://www.jpl.nasa.gov/missions/juno/"
+  },
+  {
+    "term": "NGC 2566",
+    "definition": "NGC 2566 is a barred spiral galaxy located approximately 76 million light-years away in the constellation Puppis. It features a prominent central bar and spiral arms, and its appearance from Earth resembles a cosmic eye due to its tilted orientation.",
+    "source": "https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/"
   }
 ]
   
