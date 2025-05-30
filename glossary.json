@@ -624,6 +624,22 @@
     "term": "NGC 2566",
     "definition": "NGC 2566 is a barred spiral galaxy located approximately 76 million light-years away in the constellation Puppis. It features a prominent central bar and spiral arms, and its appearance from Earth resembles a cosmic eye due to its tilted orientation.",
     "source": "https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/"
+  },
+    {
+    "term": "Retrograde motion",
+    "definition": "Retrograde motion is the apparent backward movement of a planet across the sky, as observed from Earth. This optical illusion occurs when Earth, traveling in its orbit, overtakes an outer planet like Mars, making the planet appear to reverse direction temporarily against the backdrop of stars.",
+    "source": "https://apod.nasa.gov/apod/ap141028.html"
+  },
+  {
+    "term": "Sextans A",
+    "definition": "Sextans A is an irregular dwarf galaxy located approximately 4.5 million light-years away in the constellation Sextans. It is characterized by active star formation regions and is part of the Local Group of galaxies, which includes the Milky Way.",
+    "source": "https://science.nasa.gov/asset/hubble/gas-absorbing-starlight/"
+  },
+  {
+    "term": "Herbig-Haro 24",
+    "definition": "Herbig-Haro 24 (HH 24) is a Herbig-Haro object consisting of narrow jets of partially ionized gas ejected by a young star, colliding with nearby interstellar clouds. Located in the Orion B molecular cloud complex, HH 24 is approximately 1,300 light-years from Earth and is notable for its symmetrical, double-lobed jet structure.",
+    "source": "https://science.nasa.gov/asset/hubble/herbig-haro-jet-hh-24/"
   }
+
 ]
   
