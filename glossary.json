@@ -639,6 +639,56 @@
     "term": "Herbig-Haro 24",
     "definition": "Herbig-Haro 24 (HH 24) is a Herbig-Haro object consisting of narrow jets of partially ionized gas ejected by a young star, colliding with nearby interstellar clouds. Located in the Orion B molecular cloud complex, HH 24 is approximately 1,300 light-years from Earth and is notable for its symmetrical, double-lobed jet structure.",
     "source": "https://science.nasa.gov/asset/hubble/herbig-haro-jet-hh-24/"
+  },
+    {
+    "term": "UGC 1810",
+    "definition": "UGC 1810 is a spiral galaxy located approximately 300 million light-years away in the constellation Andromeda. It is part of the interacting galaxy pair known as Arp 273, where its disk has been tidally distorted into a rose-like shape due to gravitational interactions with its companion galaxy, UGC 1813.",
+    "source": "https://science.nasa.gov/image-detail/a-rose-made-of-galaxies/"
+  },
+  {
+    "term": "Arp 273",
+    "definition": "Arp 273 is a pair of interacting galaxies located about 300 million light-years away in the constellation Andromeda. The larger galaxy, UGC 1810, has a disk distorted into a rose-like shape due to gravitational interactions with its companion, UGC 1813. This interaction has triggered intense star formation in both galaxies.",
+    "source": "https://science.nasa.gov/image-detail/a-rose-made-of-galaxies/"
+  },
+  {
+    "term": "Voyager 2",
+    "definition": "Voyager 2 is a NASA space probe launched on August 20, 1977, to study the outer planets. It is the only spacecraft to have visited Uranus and Neptune, providing invaluable data on these planets and their moons. Voyager 2 is now in interstellar space, continuing to send data back to Earth.",
+    "source": "https://science.nasa.gov/mission/voyager/voyager-2/"
+  },
+  {
+    "term": "Triton",
+    "definition": "Triton is the largest of Neptune's 13 moons and is unique due to its retrograde orbit, meaning it orbits Neptune in the opposite direction of the planet's rotation. Scientists believe Triton was a Kuiper Belt Object captured by Neptune's gravity millions of years ago.",
+    "source": "https://science.nasa.gov/neptune/moons/triton/"
+  },
+  {
+    "term": "Curiosity",
+    "definition": "Curiosity is a NASA rover part of the Mars Science Laboratory mission, which landed on Mars in August 2012. Its primary goal is to explore Gale Crater to assess whether Mars ever had conditions suitable for microbial life.",
+    "source": "https://science.nasa.gov/mission/msl-curiosity/"
+  },
+  {
+    "term": "Gale Crater",
+    "definition": "Gale Crater is a 154-kilometer-wide impact basin on Mars that contains a central mound of layered sediments known as Mount Sharp. It was selected as the landing site for NASA's Curiosity rover due to its potential to preserve organic molecules and other signs of past life.",
+    "source": "https://science.nasa.gov/resource/a-guide-to-gale-crater/"
+  },
+  {
+    "term": "Maria Gordon Notch",
+    "definition": "Maria Gordon Notch is a narrow passageway on Mount Sharp within Gale Crater on Mars. It was named in honor of Scottish geologist Maria Ogilvie Gordon and has been explored by NASA's Curiosity rover to study the geological history of the region.",
+    "source": "https://science.nasa.gov/blog/sols-3224-3225-introducing-maria-gordon/"
+  },
+  {
+    "term": "chromosphere",
+    "definition": "The chromosphere is a layer of the Sun's atmosphere located above the photosphere and below the corona. It is characterized by a reddish glow as seen during solar eclipses and is the region where solar filaments and prominences are observed.",
+    "source": "https://eclipse2017.nasa.gov/chromosphere"
+  },
+  {
+    "term": "Solar Dynamics Observatory",
+    "definition": "The Solar Dynamics Observatory (SDO) is a NASA mission launched in 2010 to observe the Sun. It provides high-resolution images of the Sun's atmosphere, helping scientists understand solar variability and its impact on Earth.",
+    "source": "https://www.nasa.gov/mission_pages/sdo/main/index.html"
+  },
+  {
+    "term": "Solar filament",
+    "definition": "A solar filament is a large, elongated cloud of cooler, dense solar material suspended above the Sun's surface by magnetic forces. These structures can stretch for hundreds of thousands of kilometers and are often visible as dark lines when viewed against the solar disk.",
+    "source": "https://solarscience.msfc.nasa.gov/feature2.shtml"
   }
 
 ]
