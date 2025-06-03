@@ -689,7 +689,78 @@
     "term": "Solar filament",
     "definition": "A solar filament is a large, elongated cloud of cooler, dense solar material suspended above the Sun's surface by magnetic forces. These structures can stretch for hundreds of thousands of kilometers and are often visible as dark lines when viewed against the solar disk.",
     "source": "https://solarscience.msfc.nasa.gov/feature2.shtml"
+  },
+    {
+    "term": "Andromeda Galaxy",
+    "definition": "The Andromeda Galaxy (M31) is the nearest major galaxy to the Milky Way, located about 2.5 million light-years away. It is a spiral galaxy similar in structure to our own.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
+  },
+  {
+    "term": "Veil Nebula",
+    "definition": "The Veil Nebula is a supernova remnant located in the constellation Cygnus, approximately 1,500 light-years from Earth. It is part of the larger Cygnus Loop.",
+    "source": "https://science.nasa.gov/asset/hubble/veil-nebula-supernova-remnant/"
+  },
+  {
+    "term": "Cygnus Loop",
+    "definition": "The Cygnus Loop is a large supernova remnant in the constellation Cygnus, resulting from a massive star explosion about 10,000 years ago. It encompasses the Veil Nebula.",
+    "source": "https://www.nasa.gov/image-article/cygnus-loop-nebula/"
+  },
+  {
+    "term": "M44 (Beehive Cluster)",
+    "definition": "Messier 44, also known as the Beehive Cluster or Praesepe, is an open star cluster in the constellation Cancer, containing around 1,000 stars and located about 600 light-years from Earth.",
+    "source": "https://apod.nasa.gov/apod/ap140222.html"
+  },
+  {
+    "term": "Comet 45P/Honda–Mrkos–Pajdušáková",
+    "definition": "Comet 45P is a short-period comet belonging to the Jupiter family, with an orbital period of approximately 5.25 years. It was discovered in 1948.",
+    "source": "https://www.nasa.gov/solar-system/nasa-telescope-studies-quirky-comet-45p/"
+  },
+  {
+    "term": "Comet Lulin",
+    "definition": "Comet Lulin (C/2007 N3) is a non-periodic comet discovered in 2007. It made a close approach to Earth in 2009 and was notable for its green color due to cyanogen and diatomic carbon gases.",
+    "source": "https://apod.nasa.gov/apod/ap090225.html"
+  },
+  {
+    "term": "NGC 7331",
+    "definition": "NGC 7331 is an unbarred spiral galaxy in the constellation Pegasus, approximately 40 million light-years away. It is similar in size and structure to the Milky Way.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-30/"
+  },
+  {
+    "term": "Phoenix Mars Lander",
+    "definition": "The Phoenix Mars Lander was a NASA mission that landed in the Martian arctic in 2008 to study the history of water and search for signs of habitability.",
+    "source": "https://science.nasa.gov/mission/mars-phoenix/"
+  },
+  {
+    "term": "Coalsack Nebula",
+    "definition": "The Coalsack Nebula is a dark nebula located in the constellation Crux. It is one of the most prominent dark nebulae visible to the naked eye.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/The_Coalsack_Nebula"
+  },
+  {
+    "term": "Canes Venatici",
+    "definition": "Canes Venatici is a small northern constellation introduced by Johannes Hevelius in the 17th century, representing the hunting dogs of Boötes.",
+    "source": "https://www.iau.org/public/themes/constellations/"
+  },
+  {
+    "term": "Pierre Méchain",
+    "definition": "Pierre Méchain was a French astronomer who collaborated with Charles Messier in the 18th century and contributed to the discovery of several Messier objects.",
+    "source": "https://www.britannica.com/biography/Pierre-Mechain"
+  },
+  {
+    "term": "Charles Messier",
+    "definition": "Charles Messier was an 18th-century French astronomer known for compiling the Messier Catalog, a list of over 100 deep-sky objects.",
+    "source": "https://www.britannica.com/biography/Charles-Messier"
+  },
+  {
+    "term": "Seyfert Galaxy",
+    "definition": "Seyfert galaxies are a class of active galaxies with extremely bright nuclei, believed to be powered by supermassive black holes.",
+    "source": "https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html"
+  },
+  {
+    "term": "Spitzer Space Telescope",
+    "definition": "The Spitzer Space Telescope was an infrared space observatory launched by NASA in 2003, which operated until 2020, providing insights into the early universe, exoplanets, and more.",
+    "source": "https://www.jpl.nasa.gov/missions/spitzer-space-telescope"
   }
+
 
 ]
   
