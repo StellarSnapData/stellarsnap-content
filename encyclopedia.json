@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Andromeda Galaxy",
+    "content": "The nearest large spiral galaxy to the Milky Way, also designated M31. It's expected to collide with the Milky Way in about 4.5 billion years.",
+    "source": "https://science.nasa.gov"
+  },
+  {
+    "title": "Spitzer Space Telescope",
+    "content": "A NASA infrared space telescope launched in 2003 that studied distant galaxies, stars, and planetary systems before retiring in 2020.",
+    "source": "https://www.nasa.gov"
+  },
+  {
+    "title": "Vera C. Rubin Observatory",
+    "content": "A next-generation observatory in Chile designed to conduct a 10-year Legacy Survey of Space and Time (LSST), capturing deep images of the southern sky.",
+    "source": "https://www.lsst.org"
+  }
+]
