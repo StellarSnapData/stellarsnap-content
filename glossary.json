@@ -759,8 +759,47 @@
     "term": "Spitzer Space Telescope",
     "definition": "The Spitzer Space Telescope was an infrared space observatory launched by NASA in 2003, which operated until 2020, providing insights into the early universe, exoplanets, and more.",
     "source": "https://www.jpl.nasa.gov/missions/spitzer-space-telescope"
+  },
+    {
+    "term": "Perseverance",
+    "definition": "Perseverance is NASA’s Mars 2020 rover, launched July 30, 2020, and landed in Jezero Crater on February 18, 2021. Its mission is to search for signs of ancient microbial life, characterize Mars’ geology, and collect samples for potential return to Earth.",
+    "source": "https://science.nasa.gov/mission/mars-2020-perseverance/"
+  },
+  {
+    "term": "WATSON camera",
+    "definition": "WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) is a high-resolution camera mounted on Perseverance’s SHERLOC arm, used to inspect rock textures and focus test samples at close range.",
+    "source": "https://science.nasa.gov/resource/watson-takes-a-closer-look/"
+  },
+  {
+    "term": "Mastcam-Z",
+    "definition": "Mastcam-Z is a pair of zoomable, stereo cameras mounted on Perseverance’s mast, capturing high-resolution color, 3D, and infrared images to study Mars' surface and atmosphere.",
+    "source": "https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/"
+  },
+  {
+    "term": "SuperCam",
+    "definition": "SuperCam is a remote-sensing suite on Perseverance that uses lasers, spectrometers, and a microphone to analyze rock chemistry, mineralogy, and search for organic compounds from a distance.",
+    "source": "https://www.nasa.gov/centers-and-facilities/jpl/perseverance-rovers-supercam-science-instrument-delivers-first-results/"
+  },
+  {
+    "term": "Ingenuity",
+    "definition": "Ingenuity is a small robotic helicopter carried by Perseverance. It performed the first powered, controlled flight on another planet, demonstrating aerial feasibility in Mars’ thin atmosphere.",
+    "source": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/"
+  },
+  {
+    "term": "NGC 6302",
+    "definition": "NGC 6302, known as the Butterfly or Bug Nebula, is a planetary nebula about 3,800 light‑years away in Scorpius. It features a bipolar structure and extremely hot central star, with fast-expanding lobes of gas.",
+    "source": "https://science.nasa.gov/asset/hubble/planetary-nebula-ngc-6302/"
+  },
+  {
+    "term": "Scorpius",
+    "definition": "Scorpius is a prominent zodiac constellation in the southern sky, named after the scorpion. It features bright stars and deep-sky objects, including the Butterfly Nebula (NGC 6302).",
+    "source": "https://science.nasa.gov/asset/hubble/the-milky-way-and-scorpius-constellation/"
+  },
+  {
+    "term": "Vera C. Rubin Observatory",
+    "definition": "The Vera C. Rubin Observatory is a next-generation facility under construction in Chile, featuring an 8.4 m telescope and the world’s largest digital camera (3.2 gigapixels), designed to conduct a 10‑year sky survey for dark energy and near-earth objects.",
+    "source": "https://noirlab.edu/public/programs/vera-c-rubin-observatory/"
   }
-
 
 ]
   
