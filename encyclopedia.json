@@ -1,17 +1,13 @@
 [
   {
-    "title": "Andromeda Galaxy",
-    "content": "The nearest large spiral galaxy to the Milky Way, also designated M31. It's expected to collide with the Milky Way in about 4.5 billion years.",
-    "source": "https://science.nasa.gov"
-  },
-  {
-    "title": "Spitzer Space Telescope",
-    "content": "A NASA infrared space telescope launched in 2003 that studied distant galaxies, stars, and planetary systems before retiring in 2020.",
-    "source": "https://www.nasa.gov"
-  },
-  {
-    "title": "Vera C. Rubin Observatory",
-    "content": "A next-generation observatory in Chile designed to conduct a 10-year Legacy Survey of Space and Time (LSST), capturing deep images of the southern sky.",
-    "source": "https://www.lsst.org"
+    "title": "Accretion Disk",
+    "content": "An accretion disk is a structure formed by diffused material in orbital motion around a central body, typically a star, white dwarf, neutron star, or black hole. This material, often gas and dust, gradually spirals inward due to gravitational and frictional forces, forming a flattened, rotating disk. The gravitational pull of the central object causes the disk material to compress and heat up, often reaching millions of degrees in the innermost regions.\n\nIn systems like young stars, accretion disks play a critical role in star and planet formation. Material from the disk gradually accretes onto the star, while remaining gas and dust can clump together under gravity to form planets and other celestial bodies. These protoplanetary disks are rich with complex chemistry and are observed in star-forming regions across the galaxy.\n\nAround compact objects such as black holes or neutron stars, accretion disks become intensely energetic. As matter spirals inward, it releases enormous amounts of energy, often emitting in the X-ray portion of the spectrum. This radiation makes accretion disks some of the brightest objects in the universe, despite the central black hole being invisible. The physics of accretion disks in such extreme environments is a key area of astrophysical research and helps scientists understand phenomena like quasars and X-ray binaries.\n\nAccretion disks also exhibit various instabilities, turbulence, and magnetic effects, which influence how matter is transferred inward. The study of these mechanisms provides insight into angular momentum transport and the fueling of active galactic nuclei. Modern observatories such as NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton have contributed significantly to our understanding of these complex structures.",
+    "sources": [
+      "https://chandra.harvard.edu/xray_sources/accretion.html",
+      "https://science.nasa.gov/astrophysics/focus-areas/black-holes",
+      "https://www.esa.int/Science_Exploration/Space_Science/Black_holes_and_accretion_discs",
+      "https://lweb.cfa.harvard.edu/~pbernat/astro2010/AccretionDisks.pdf",
+      "https://asd.gsfc.nasa.gov/archive/xmm_lc/newsletter/spring_03/AccretionDisks.html"
+    ]
   }
 ]
