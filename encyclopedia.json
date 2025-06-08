@@ -202,5 +202,27 @@
         "url": "https://arxiv.org/abs/astro-ph/0610016"
       }
     ]
+  },
+    {
+    "title": "Galaxy Cluster",
+    "content": "<p>Galaxy clusters are the most massive gravitationally bound structures in the Universe, containing hundreds to thousands of galaxies, vast amounts of hot gas, and a dominant component of dark matter. Typical masses range from 10¹⁴ to 10¹⁵ M☉, and sizes span several million light‑years.</p><p>These clusters form through hierarchical growth: smaller galaxy groups merge over time to create larger clusters. They are the primary building blocks of the cosmic web and serve as anchors for superclusters.</p><p>Most of a cluster’s mass resides in dark matter, inferred from galaxy motions and gravitational lensing. The intracluster medium (ICM) is made of hot plasma at tens of millions of Kelvin, emitting X‑rays observable by telescopes like Chandra and XMM‑Newton.</p><p>Galaxy clusters reveal fundamental physics. Fritz Zwicky first inferred dark matter in the 1930s by noting galaxies moved too quickly to be held by visible mass. Detailed X‑ray and lensing studies confirm that visible galaxies make up only ~1%, while ICM is ~9% and dark matter comprises ~90% of cluster mass.</p><p>Clusters are cosmological tools. Measurements of their number, mass distribution, and growth trace the nature of dark energy and the evolution of large-scale structure.</p><p>They also act as gravitational lenses: their mass bends light from distant galaxies, magnifying and distorting background sources—used to study high-redshift galaxies and map mass distribution.</p><p>Galaxy clusters include familiar nearby examples like the Virgo Cluster, Coma Cluster, and the Perseus Cluster. They also host extreme systems such as the Bullet Cluster—where colliding subclusters provide compelling evidence for dark matter—and distant massive clusters located over 10 billion light‑years away.</p><p>Modern observatories like Hubble, Chandra, and JWST continue to probe cluster dynamics, star formation, black hole growth, and dark matter profiles within these colossal systems.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Large Scale Structures",
+        "url": "https://science.nasa.gov/universe/galaxies/large-scale-structures/"
+      },
+      {
+        "title": "NASA GSFC – Galaxy clusters",
+        "url": "https://science.gsfc.nasa.gov/662/research/clusters.html"
+      },
+      {
+        "title": "Center for Astrophysics | Harvard & Smithsonian – Galaxy Clusters",
+        "url": "https://www.cfa.harvard.edu/research/topic/galaxy-clusters"
+      },
+      {
+        "title": "NASA – Untangling a Knot of Galaxy Clusters",
+        "url": "https://www.nasa.gov/universe/untangling-a-knot-of-galaxy-clusters/"
+      }
+    ]
   }
 ]
