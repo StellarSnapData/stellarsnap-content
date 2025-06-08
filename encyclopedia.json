@@ -60,6 +60,32 @@
         "url": "https://einstein.stanford.edu/content/relativity/q56.html"
       }
     ]
+  },
+    {
+    "title": "Gravity",
+    "content": "Gravity is the fundamental force of attraction between all objects that have mass or energy. It governs the motion of planets, the structure of galaxies, and even the flow of time in regions of intense gravity. It acts over infinite distances and cannot be shielded or repelled.\n\n**1. Classical Understanding – Newton's Law**\nSir Isaac Newton’s law of universal gravitation describes gravity as a force between two masses. The strength of this force is proportional to the product of the masses and inversely proportional to the square of the distance between them: F = G × (m₁ × m₂) / r². This model accurately predicts most orbital motion and physical behavior on Earth and in the solar system.\n\n**2. Modern View – General Relativity**\nAlbert Einstein’s general theory of relativity, published in 1915, redefined gravity not as a force, but as the curvature of spacetime caused by mass and energy. Massive objects like stars or black holes bend the space around them, and objects move along these curves. This theory explains phenomena such as gravitational lensing, the orbit of Mercury, and the passage of time near massive bodies.\n\n**3. Everyday Effects**\nGravity on Earth provides a surface acceleration of about 9.8 meters per second squared (m/s²). It keeps our atmosphere in place, causes tides (through the Moon's gravity), and affects time: atomic clocks tick slightly slower at sea level than on mountaintops due to gravitational time dilation.\n\n**4. Observing Gravity from Space**\nMissions like ESA’s GOCE (Gravity field and steady-state Ocean Circulation Explorer) and NASA's GRACE and GRACE-FO satellites map Earth's gravity with high precision. They reveal changes in water mass, monitor glacial melt, and improve models of sea-level rise and ocean currents.\n\n**5. Advanced Applications**\nSpacecraft use gravitational slingshots to gain speed by flying near planets, saving fuel. Gravity also shapes the evolution of galaxies, regulates star formation, and governs the formation of planetary systems.\n\n**6. Research Frontiers**\nModern physics seeks to reconcile gravity with quantum mechanics into a theory of quantum gravity. Experiments like those detecting gravitational waves (ripples in spacetime caused by colliding black holes) continue to test general relativity under extreme conditions and expand our understanding of the universe.",
+    "sources": [
+      {
+        "title": "ESA – What is gravity?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_gravity"
+      },
+      {
+        "title": "NASA Space Place – What Is Gravity?",
+        "url": "https://spaceplace.nasa.gov/what-is-gravity/en/"
+      },
+      {
+        "title": "NASA – How Gravity Warps Light",
+        "url": "https://science.nasa.gov/universe/how-gravity-warps-light/"
+      },
+      {
+        "title": "UC Santa Barbara – ESA Satellite Maps Earth’s Gravity",
+        "url": "https://legacy.geog.ucsb.edu/esa-satellite-maps-earths-gravity/"
+      },
+      {
+        "title": "NASA Science – Gravity Assist Primer",
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/primer/"
+      }
+    ]
   }
 
 ]
