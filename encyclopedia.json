@@ -310,5 +310,31 @@
         "url": "https://www.cfa.harvard.edu/news/space-warping-white-dwarfs-produce-gravitational-waves"
       }
     ]
+  },
+    {
+    "title": "Neutron Star",
+    "content": "<p>A neutron star is the ultra‑dense remnant core of a massive star that exploded in a supernova. These objects collapse into spheres about 20 km in diameter that can contain up to twice the mass of the Sun—all compressed into an object the size of a city.</p><p>Neutron stars are composed mostly of neutrons: under extreme pressure, electrons and protons fuse into neutrons. The matter inside them is the densest we can observe directly—up to several times the density of atomic nuclei.</p><p>Their surfaces are incredibly hot—over 600,000 °C—yet they cool gradually over time. NASA and ESA observations confirm their compact size and high temperatures, which uniquely identify them among stellar remnants.</p><p>Neutron stars rotate rapidly—some hundreds of times per second—due to conservation of angular momentum during collapse. Some emit beams of radiation and appear as pulsars if the beam sweeps across Earth.</p><p>They also include magnetars, which are neutron stars with ultra-powerful magnetic fields trillions of times stronger than Earth’s. These fields can cause strong X-ray and gamma-ray outbursts.</p><p>In binary systems, neutron stars can pull material from companions, leading to X-ray emissions detected by observatories such as Chandra and NICER. Some tight binaries are sources of gravitational waves when they spiral together.</p><p>NASA’s NICER mission aboard the ISS studies the internal structure of neutron stars by measuring how compact their mass is, providing clues about matter under ultra-high densities and testing Einstein’s general relativity in extreme environments.</p>",
+    "sources": [
+      {
+        "title": "NASA – What is a Neutron Star?",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+      },
+      {
+        "title": "ESA/Hubble – Neutron stars: pulsars and magnetars",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Neutron_stars_pulsars_and_magnetars"
+      },
+      {
+        "title": "NASA – Neutron Stars Are Weird!",
+        "url": "https://science.nasa.gov/universe/neutron-stars-are-weird/"
+      },
+      {
+        "title": "NASA GSFC – Neutron Star Animations",
+        "url": "https://svs.gsfc.nasa.gov/20267/"
+      },
+      {
+        "title": "NASA – NICER Probes Neutron Star Structure",
+        "url": "https://www.nasa.gov/universe/nasas-nicer-probes-the-squeezability-of-neutron-stars/"
+      }
+    ]
   }
 ]
