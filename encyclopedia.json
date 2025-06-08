@@ -138,5 +138,23 @@
         "url": "https://science.nasa.gov/ems/02_anatomy/"
       }
     ]
+  },
+    {
+    "title": "Observable Universe",
+    "content": "<p>The observable universe is the region of space from which light or other signals have reached us since the Big Bang, approximately 13.8 billion years ago. However, because the cosmos has been expanding, these objects are now much farther away.</p><p>Today, the radius of the observable universe is approximately <strong>46 billion light‑years</strong>, making the diameter about 92 billion light‑years. This value is based on comoving distance measurements, which account for the universe’s expansion.</p><p>The observable universe is centered on each observer—every point in space has its own spherical observable universe of the same size. It is bounded not by technology, but by the finite speed of light and the age of the universe.</p><p>This region is home to at least two trillion galaxies, according to recent surveys—far more than earlier estimates of ~100 billion. That means the observable universe contains roughly 10²⁴ stars.</p><p>As the universe continues to expand, some objects now at the observable limit will eventually drift beyond our view, falling outside the cosmic horizon. But for now, we can observe a spherical volume about 92 billion light‑years across.</p>",
+    "sources": [
+      {
+        "title": "ESA – Observable Universe contains ten times more galaxies than thought",
+        "url": "https://sci.esa.int/web/hubble/-/58444-observable-universe-contains-ten-times-more-galaxies-than-previously-thought-heic1620"
+      },
+      {
+        "title": "NASA – Age & Size of the Universe Through the Years",
+        "url": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html"
+      },
+      {
+        "title": "NASA Science – Welcome to the Universe",
+        "url": "https://science.nasa.gov/universe/"
+      }
+    ]
   }
 ]
