@@ -336,5 +336,31 @@
         "url": "https://www.nasa.gov/universe/nasas-nicer-probes-the-squeezability-of-neutron-stars/"
       }
     ]
+  },
+    {
+    "title": "Black Hole",
+    "content": "<p>A black hole is an astronomical object with gravity so strong that nothing—not even light—can escape once it passes its event horizon, the boundary around the singularity.</p><p>Stellar black holes form when massive stars (∼20× the Sun’s mass) exhaust their nuclear fuel, undergo supernova explosions, and collapse under gravity into a point with extreme density and curvature of spacetime. If the remnant core exceeds roughly three solar masses, no known force can resist the collapse.</p><p>Supermassive black holes—millions to billions of solar masses—reside at the centers of most galaxies, including the Milky Way. Evidence comes from tracking orbital motion of stars in their vicinity, as observed by NASA and ESA facilities, evidence that earned the 2020 Nobel Prize.</p><p>Black holes are invisible, but their presence is inferred from accretion disks—hot gas swirling around them emits powerful X-rays—and from gravitational lensing, where their mass bends light from background objects.</p><p>Observations by the Event Horizon Telescope (EHT) produced direct images of the shadow of black holes in M87 and Sagittarius A*, confirming Einstein’s predictions about light structure near the event horizon.</p><p>Some black holes move at high speeds through space, likely receiving small velocity boosts (often called kicks) from asymmetric supernova explosions or galactic interactions, as detected using Hubble’s precision astrometry.</p><p>Black holes also play key roles in cosmic evolution. Tidal disruption events—where a passing star is torn apart—produce luminous flares captured by Hubble and Chandra, providing rare glimpses into black hole activity.</p><p>Their immense gravity powers active galactic nuclei and relativistic jets, influencing both their surrounding galaxies and intergalactic environments.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Black Holes",
+        "url": "https://science.nasa.gov/universe/black-holes/"
+      },
+      {
+        "title": "ESA – Black holes",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Black_holes"
+      },
+      {
+        "title": "NASA – What Are Black Holes?",
+        "url": "https://www.nasa.gov/universe/what-are-black-holes/"
+      },
+      {
+        "title": "ESA/Hubble – Black Holes, Quasars, and AGN",
+        "url": "https://esahubble.org/science/black_holes/"
+      },
+      {
+        "title": "NASA – What Happens When Something Gets Too Close to a Black Hole?",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      }
+    ]
   }
 ]

@@ -799,7 +799,11 @@
     "term": "Vera C. Rubin Observatory",
     "definition": "The Vera C. Rubin Observatory is a next-generation facility under construction in Chile, featuring an 8.4 m telescope and the world’s largest digital camera (3.2 gigapixels), designed to conduct a 10‑year sky survey for dark energy and near-earth objects.",
     "source": "https://noirlab.edu/public/programs/vera-c-rubin-observatory/"
+  },
+  {
+  "term": "NGC 3344",
+  "definition": "NGC 3344 is a weakly barred spiral galaxy located approximately 20 million light-years away in the constellation Leo Minor. Seen nearly face‑on, it exhibits a central bar, fragmented spiral arms, regions of young blue star formation, and outer stellar behavior suggesting past galactic interactions.",
+  "source": "https://sci.esa.int/web/hubble/-/59982-a-lonely-beauty-heic1803"
   }
-
 ]
   
