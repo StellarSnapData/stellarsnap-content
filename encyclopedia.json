@@ -156,5 +156,51 @@
         "url": "https://science.nasa.gov/universe/"
       }
     ]
+  },
+    {
+    "title": "Galaxy",
+    "content": "<p>A galaxy is a vast, gravitationally bound system of stars, stellar remnants, gas, dust, and dark matter. They range in size from dwarf galaxies with a few thousand stars to giants containing over a trillion stars and spanning more than a million light‑years in diameter.</p><p>There are thought to be over 100 billion galaxies in the universe, but recent studies—including data from NASA and ESA—suggest this number may exceed two trillion.</p><p>Galaxies are classified by shape into three main types: spiral (like the Milky Way), elliptical, and irregular. Active galaxies—those emitting exceptionally bright radiation from their cores—make up around 10 % of observed galaxies.</p><p>The Milky Way is a barred spiral galaxy, part of the Local Group of over 20 galaxies. It contains over 100 billion stars, a stellar disk ~100,000 light‑years across, and a central supermassive black hole.</p><p>Galaxies often cluster together in groups and clusters, which themselves are components of larger structures like superclusters and filaments. These structures form the cosmic web that defines the large‑scale structure of the universe.</p><p>Galaxies evolve through processes like mergers—where two galaxies interact and combine—and internal star formation driven by gas dynamics. Interactions can trigger starbursts, dramatically increasing a galaxy’s stellar birth rate.</p><p>Supermassive black holes, found at the centers of most large galaxies, power active galactic nuclei (AGN), emitting extreme energies and sometimes launching relativistic jets. These AGN influence both galactic and intergalactic environments.</p><p>Dark matter makes up most of a galaxy’s mass. Its presence is inferred from phenomena like flat rotation curves and gravitational lensing—despite being invisible, it profoundly shapes galaxy formation and dynamics.</p><p>Our understanding continues to expand thanks to advanced observations from missions like ESA’s Herschel, Gaia, and NASA/ESA’s Hubble and James Webb Space Telescopes, along with theoretical frameworks and cosmological simulations.</p>",
+    "sources": [
+      {
+        "title": "ESA – Galaxies (CESAR booklet)",
+        "url": "https://cesar.esa.int/upload/201801/galaxies_booklet.pdf"
+      },
+      {
+        "title": "NASA Science – Galaxy Basics",
+        "url": "https://science.nasa.gov/universe/galaxies/"
+      },
+      {
+        "title": "ESA – Every point is a galaxy (Herschel)",
+        "url": "https://sci.esa.int/web/herschel/-/60537-every-point-is-a-galaxy"
+      },
+      {
+        "title": "NASA Science – Galaxy Evolution & Mergers",
+        "url": "https://science.nasa.gov/universe/galaxies/evolution/"
+      },
+      {
+        "title": "NASA Science – Galaxy Types",
+        "url": "https://science.nasa.gov/universe/galaxies/types/"
+      },
+      {
+        "title": "ESA – Galaxy groups and clusters (The scale of the Universe)",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2014/05/The_scale_of_the_Universe"
+      },
+      {
+        "title": "NASA Science – Large Scale Structures",
+        "url": "https://science.nasa.gov/universe/galaxies/large-scale-structures/"
+      },
+      {
+        "title": "NASA – Hubble’s Galaxies",
+        "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-galaxies/"
+      },
+      {
+        "title": "ESA – The Galaxy in Context (arXiv)",
+        "url": "https://arxiv.org/abs/1602.07702"
+      },
+      {
+        "title": "ESA – The Fundamental Properties of Galaxies (arXiv)",
+        "url": "https://arxiv.org/abs/astro-ph/0610016"
+      }
+    ]
   }
 ]
