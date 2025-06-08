@@ -38,6 +38,28 @@
         "url": "https://astronomy.swin.edu.au/cosmos/L/Light+Year"
       }
     ]
+  },
+    {
+    "title": "Redshift",
+    "content": "In astronomy, redshift refers to the phenomenon where light or other electromagnetic radiation from an object is shifted toward longer (redder) wavelengths. This effect results in a decrease in frequency and energy and occurs in three primary contexts: Doppler redshift, gravitational redshift, and cosmological redshift.\n\nDoppler redshift happens when a light-emitting object moves away from the observer. Similar to how a siren sounds lower in pitch as it moves away, the light’s wavelength is stretched. Gravitational redshift, predicted by Einstein’s General Theory of Relativity, occurs when light escapes a strong gravitational field and loses energy, resulting in longer wavelengths. Cosmological redshift is due to the expansion of the universe itself: as space expands, it stretches the light traveling through it, increasing the wavelength.\n\nRedshift is measured using the dimensionless parameter z, calculated as z = (λ_observed − λ_emitted) / λ_emitted. For relatively nearby galaxies, this can be directly related to velocity via v ≈ z × c, where c is the speed of light. In very distant galaxies, redshift indicates how long the light has been traveling and, by extension, how far away the galaxy is.\n\nRedshift is central to modern cosmology. Edwin Hubble’s discovery in 1929 that more distant galaxies exhibit greater redshifts led to the formulation of Hubble’s Law, which describes the expanding universe. Measuring the redshifts of galaxies and supernovae has also revealed that the universe’s expansion is accelerating, suggesting the presence of dark energy.\n\nAstronomers detect redshift by comparing the known spectral lines of elements (like hydrogen or calcium) to those observed in light from distant sources. The greater the shift, the farther and older the object is. Today, some galaxies have been observed with redshifts greater than 13, meaning their light has traveled for over 13 billion years, offering a glimpse into the early universe.",
+    "sources": [
+      {
+        "title": "NASA Science – Hubble Cosmological Redshift",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/"
+      },
+      {
+        "title": "ESA – What is ‘red shift’?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift"
+      },
+      {
+        "title": "University of Iowa Physics – Astronomical Redshift",
+        "url": "https://itu.physics.uiowa.edu/labs/advanced/astronomical-redshift"
+      },
+      {
+        "title": "NASA – Pound–Rebka Gravitational Redshift",
+        "url": "https://einstein.stanford.edu/content/relativity/q56.html"
+      }
+    ]
   }
 
 ]
