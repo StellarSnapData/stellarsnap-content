@@ -242,5 +242,39 @@
         "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/"
       }
     ]
+  },
+    {
+    "title": "Protostar",
+    "content": "<p>A protostar is an early stage in star formation, occurring when a dense region of a molecular cloud collapses under gravity, forming a hot, rotating object still gathering mass from its surroundings.</p><p>As the collapsing gas heats up due to friction and increasing central pressure, the core becomes opaque and radiates primarily in the infrared. It is not yet hot enough for sustained nuclear fusion in its core.</p><p>Protostars are often embedded in dusty envelopes and accretion disks. Some launch powerful bipolar jets and stellar outflows, which collide with surrounding gas to produce Herbig–Haro objects—visible in infrared imagery captured by telescopes like Hubble and JWST.</p><p>They evolve through observational categories: Class 0 (deeply embedded), Class I (envelope partially cleared), and later stages before entering the main sequence. This phase lasts roughly 100,000 to 500,000 years for low-mass protostars.</p><p>Some protostars show dramatic variability. For example, HOPS 383, a Class 0 protostar in Orion, exhibited a sudden infrared-bright “growth spurt” — highlighting episodic accretion events.</p><p>JWST has imaged protostars like L1527 in Taurus, revealing “hourglass” structures and shocked molecular gas in their outflows. These observations deepen our understanding of disk formation, jet dynamics, and early stellar evolution.</p><p>Ultimately, a protostar becomes a pre-main-sequence star when its core reaches the critical temperature (~10 million K) to initiate hydrogen fusion. Leftover disk material may then form planets, asteroids, and comets.</p>",
+    "sources": [
+      {
+        "title": "NASA – Protostars",
+        "url": "https://www.nasa.gov/universe/stars/protostars/"
+      },
+      {
+        "title": "NASA – Hubble Spies Newly Forming Star",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-spies-newly-forming-star-incubating-in-ic-2631/"
+      },
+      {
+        "title": "NASA – Webb Catches Fiery Hourglass New Star",
+        "url": "https://www.nasa.gov/universe/nasas-webb-catches-fiery-hourglass-as-new-star-forms/"
+      },
+      {
+        "title": "ESA – Protostar L1527 Image",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2022/11/Protostar_L1527"
+      },
+      {
+        "title": "NASA – Protostars Archives",
+        "url": "https://science.nasa.gov/category/universe/stars/protostars/"
+      },
+      {
+        "title": "NASA GSFC – Star Basics",
+        "url": "https://science.nasa.gov/universe/stars/"
+      },
+      {
+        "title": "NASA – Protostar Outburst HOPS 383",
+        "url": "https://www.nasa.gov/universe/nasa-satellites-catch-growth-spurt-from-newborn-protostar/"
+      }
+    ]
   }
 ]
