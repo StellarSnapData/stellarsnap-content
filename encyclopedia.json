@@ -16,5 +16,28 @@
         "url": "https://arxiv.org/pdf/2201.07262"
       }
     ]
+  },
+    {
+    "title": "Light-Year",
+    "content": "A light-year is a unit of distance used in astronomy to express vast stretches between celestial objects. It represents the distance that light travels in a vacuum in one Julian year (365.25 days). Since light moves at approximately 299,792 kilometers per second (or about 186,282 miles per second), one light-year equals roughly 9.4607 trillion kilometers (5.88 trillion miles).\n\nDespite its name, a light-year measures distance, not time. Astronomers use it because ordinary units like kilometers or miles become impractical at interstellar and intergalactic scales. For example, instead of saying that Proxima Centauri is nearly 40 trillion kilometers away, it's more comprehensible to say it’s 4.24 light-years from Earth.\n\nObserving distant objects in light-years also means looking back in time. Because light takes time to travel, when we view an object one light-year away, we see it as it was one year ago. This 'lookback time' becomes even more significant with galaxies billions of light-years away — we observe them as they were billions of years in the past.\n\nThe light-year can be compared to other astronomical units. It is equivalent to about 63,240 astronomical units (AU), where one AU is the average distance between Earth and the Sun. A light-year is also roughly equal to 0.3066 parsecs (pc), a unit commonly used by professional astronomers.\n\nFor nearer objects, smaller light-based units are used. For example, light from the Sun takes about 8 minutes and 20 seconds to reach Earth (light-minutes), while signals from the Moon arrive in just over a second (light-seconds).\n\nUnderstanding the light-year helps make sense of the immense scale of the universe and allows scientists and the public alike to grasp the staggering distances between stars, galaxies, and other celestial bodies.",
+    "sources": [
+      {
+        "title": "NASA Science – What is a Light-Year?",
+        "url": "https://science.nasa.gov/exoplanets/what-is-a-light-year/"
+      },
+      {
+        "title": "NASA Space Place – What Is a Light-Year?",
+        "url": "https://spaceplace.nasa.gov/light-year/en/"
+      },
+      {
+        "title": "ESA – Measuring Stellar Distances",
+        "url": "https://sci.esa.int/web/education/-/35616-stellar-distances"
+      },
+      {
+        "title": "Swinburne University – Cosmos: Light Year",
+        "url": "https://astronomy.swin.edu.au/cosmos/L/Light+Year"
+      }
+    ]
   }
+
 ]
