@@ -276,5 +276,39 @@
         "url": "https://www.nasa.gov/universe/nasa-satellites-catch-growth-spurt-from-newborn-protostar/"
       }
     ]
+  },
+    {
+    "title": "White Dwarf",
+    "content": "<p>A white dwarf is the dense, Earth-sized core remnant of a star that has exhausted its nuclear fuel. It forms when a low- to intermediate-mass star sheds its outer layers, leaving behind a hot, degenerate object composed mostly of carbon and oxygen (or helium in some cases).</p><p>These stellar remnants pack nearly the mass of the Sun into a volume similar to Earth—making them around 200,000 times denser than Earth. A single cubic centimeter of white dwarf matter would weigh several tons on Earth.</p><p>White dwarfs do not undergo nuclear fusion. Instead, they shine from residual thermal energy, gradually cooling over billions of years. They come in spectral types based on their surface chemistry—hydrogen (DA), helium (DB), or metal-polluted atmospheres.</p><p>Observations by NASA’s Hubble Telescope detected white dwarfs bending light from background stars—allowing direct mass measurements of isolated white dwarfs via gravitational lensing.</p><p>In some binary systems, white dwarfs accrete matter from a companion, heating up and emitting X-rays from infalling gas, observed by the Chandra X-ray Observatory.</p><p>Some white dwarfs receive a 'kick' of several kilometers per second at formation, moving them out of their birth clusters. Others in tight binaries (e.g., SDSS J0651) orbit each other in minutes, emitting gravitational waves detectable with current instruments.</p><p>White dwarfs can host planetary remnants: dusty disks and metal-polluted atmospheres indicate they may accrete asteroids or minor planets, providing insight into exoplanet systems’ fates.</p><p>With masses typically between 0.5 and 1.4 M☉ (the Chandrasekhar limit), white dwarfs are critical to our understanding of stellar evolution, galactic archaeology, and cosmology, including serving as progenitors of Type Ia supernovae used to measure cosmic expansion.</p>",
+    "sources": [
+      {
+        "title": "NASA – White Dwarf Stars",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html"
+      },
+      {
+        "title": "Chandra – White Dwarfs & Planetary Nebulae",
+        "url": "https://chandra.harvard.edu/xray_sources/white_dwarfs.html"
+      },
+      {
+        "title": "ESA – White dwarfs in open cluster NGC 6791",
+        "url": "https://esahubble.org/images/opo0825a/"
+      },
+      {
+        "title": "NASA Hubble – Mass measurement via lensing",
+        "url": "https://science.nasa.gov/missions/hubble/for-the-first-time-hubble-directly-measures-mass-of-a-lone-white-dwarf/"
+      },
+      {
+        "title": "NASA – How white dwarf stars get their 'kicks'",
+        "url": "https://science.nasa.gov/missions/hubble/nasa-how-white-dwarf-stars-get-their-kicks/"
+      },
+      {
+        "title": "Harvard CFA – Lowest mass white dwarf",
+        "url": "https://www.cfa.harvard.edu/news/lowest-mass-white-dwarf-star"
+      },
+      {
+        "title": "Harvard CFA – White dwarfs & gravitational waves",
+        "url": "https://www.cfa.harvard.edu/news/space-warping-white-dwarfs-produce-gravitational-waves"
+      }
+    ]
   }
 ]
