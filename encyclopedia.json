@@ -86,5 +86,31 @@
         "url": "https://science.nasa.gov/learn/basics-of-space-flight/primer/"
       }
     ]
+  },
+    {
+    "title": "General Relativity",
+    "content": "<p>Albert Einstein’s General Theory of Relativity, published in 1915 and finalized in 1916, revolutionized our understanding of gravity. Rather than a force acting at a distance, it describes gravity as the curvature of spacetime caused by mass and energy. Massive objects distort the fabric of spacetime around them, and other objects move along these curved paths.</p><p>In Einstein’s words, space and time are intertwined into a four-dimensional continuum called spacetime. Bending this continuum—much like depressing a trampoline with a heavy ball—causes nearby objects to follow curved trajectories. This geometric view explains phenomena that Newtonian gravity cannot: the precise orbit of Mercury, gravitational lensing of light around stars, and time dilation in gravitational fields.</p><p>The theory is governed by Einstein’s field equations, which relate the distribution of mass-energy (via the stress-energy tensor) to the curvature of spacetime (described by the Einstein tensor and metric tensor). These equations encompass Newton’s law in weak-field limits yet extend to describe extreme scenarios like black holes and expanding universes.</p><p>General relativity has been confirmed through numerous experiments and observations. Key early tests include the bending of starlight during the 1919 solar eclipse—confirming gravitational lensing—and the precise precession of Mercury’s orbit. NASA’s Gravity Probe B mission later verified two subtle effects: geodetic precession and frame-dragging (the “twisting” of spacetime by Earth’s rotation).</p><p>It predicts phenomena such as gravitational redshift—where light loses energy escaping a gravitational field—and gravitational waves, ripples in spacetime from violent cosmic events. The first direct detection of gravitational waves in 2015 (LIGO) further confirmed the theory in the strong-field regime.</p><p>Modern space missions continue to test and utilize general relativity. ESA’s JUICE, LARES, and NASA–ESA LISA missions probe gravitomagnetism, frame-dragging, and spacetime dynamics via precise measuring devices and satellite tracking. They aim to refine existing tests and search for deviations that might point to new physics.</p><p>General relativity remains the cornerstone of modern cosmology and astrophysics. It underpins black hole physics, gravitational lensing, cosmological models, GPS technology, and gravitational-wave astronomy. Efforts persist to reconcile it with quantum mechanics into a unified theory of quantum gravity.</p>",
+    "sources": [
+      {
+        "title": "NASA – Einstein and General Relativity",
+        "url": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+      },
+      {
+        "title": "ESA – What is gravity?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_gravity"
+      },
+      {
+        "title": "NASA Blueshift – 100 Years of General Relativity",
+        "url": "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity/"
+      },
+      {
+        "title": "ESA/Hubble – Gravitational Lensing",
+        "url": "https://esahubble.org/wordbank/gravitational-lensing/"
+      },
+      {
+        "title": "Center for Astrophysics – Einstein's Theory of Gravitation",
+        "url": "https://pweb.cfa.harvard.edu/research/science-field/einsteins-theory-gravitation"
+      }
+    ]
   }
 ]
