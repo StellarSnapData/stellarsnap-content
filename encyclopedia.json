@@ -486,5 +486,57 @@
         "url": "https://science.nasa.gov/exoplanets/facts/"
       }
     ]
+  },
+  {
+    "title": "Asteroid",
+    "content": "<p>An asteroid is a small, rocky object that typically orbits a star. In our Solar System, they mostly orbit the Sun and are concentrated in the main asteroid belt between Mars and Jupiter. Asteroids are remnants from the early stages of planetary formation, offering valuable insight into the Solar System’s history dating back around 4.6 billion years.</p><p>Asteroids vary widely in size—from pebble-sized fragments to dwarf-planet-scale bodies like Ceres (933 km in diameter). Most have irregular shapes, lack atmospheres, and rotate unpredictably.</p><p>They are classified by composition into several types: <strong>C-type (carbonaceous)</strong>, which are dark and rich in carbon; <strong>S-type (silicaceous)</strong>, composed mostly of silicate rock; and <strong>M-type (metallic)</strong>, which contain a high amount of nickel and iron.</p><p>Based on their orbits, asteroids are grouped into categories such as <strong>Main-Belt asteroids</strong>, <strong>Trojan asteroids</strong>, <strong>near-Earth asteroids (NEAs)</strong>, and <strong>Mars-crossers</strong>. NEAs are of particular interest because some of them come close to Earth. If an NEA is larger than about 140 meters and its orbit brings it within 7.5 million kilometers of Earth, it is classified as a potentially hazardous asteroid (PHA).</p><p>Impact risk varies by size. Objects around 30 meters in diameter enter Earth’s atmosphere roughly once per decade, often burning up. Larger ones—like the 50 meter Tunguska object or kilometer-scale bodies—can cause regional to global damage, but are much rarer. Most large near-Earth asteroids have already been discovered and tracked.</p><p>Asteroids are studied not only for planetary defense but also for what they reveal about solar system formation and their potential as future resources. NASA’s OSIRIS-REx and ESA’s Hera (following NASA’s DART) are missions studying asteroid composition and testing deflection techniques.</p><p>Their orbits and properties are tracked via telescopes and spacecraft, helping assess impact risk and explore opportunities in in‑situ resource utilization (ISRU).</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Asteroid Facts & Hazards",
+        "url": "https://science.nasa.gov/solar-system/asteroids/facts/"
+      },
+      {
+        "title": "NASA Science – Asteroids Overview",
+        "url": "https://science.nasa.gov/solar-system/asteroids/"
+      },
+      {
+        "title": "ESA – Asteroids",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Asteroids"
+      },
+      {
+        "title": "ESA – Planetary Defence: Asteroids",
+        "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroids_and_Planetary_Defence"
+      },
+      {
+        "title": "ESA – Hera asteroid mission",
+        "url": "https://www.esa.int/Space_Safety/Hera"
+      }
+    ]
+  },
+  {
+    "title": "Comet",
+    "content": "<p>A comet is a small Solar System body composed mainly of ice, dust, and organic compounds. As they approach the Sun, cometary ices sublimate, releasing gas and dust that form the glowing coma and distinctive tails—often extending millions of kilometers.</p><p>Comets originate from two primary reservoirs: the Kuiper Belt—home to short-period comets with orbits under ~200 years—and the distant Oort Cloud, which sends long-period comets with orbits spanning thousands of years. Occasionally, interstellar objects like ‘Oumuamua pass through our system, appearing comet-like.</p><p>They are “dirty snowballs” and among the most primitive remnants of the early Solar System, preserving original ices and organic material from 4.6 billion years ago.</p><p>Landmark missions include ESA’s <strong>Rosetta</strong>—with its lander <strong>Philae</strong>—which orbited and sampled Comet 67P/Churyumov–Gerasimenko (2014–2016). NASA’s <strong>Deep Impact</strong> struck Comet Tempel 1 in 2005 to analyze interior composition.</p><p>These missions discovered complex organic molecules, including amino-acid precursors, and supported the theory that comets may have delivered water and prebiotic compounds to early Earth.</p><p>Looking ahead, ESA–JAXA’s <strong>Comet Interceptor</strong> (launch planned for 2029) intends to perform a rapid flyby of a dynamically new or interstellar comet, using multiple spacecraft to sample both nucleus and coma environments.</p><p>Comets are studied across the electromagnetic spectrum—from radio to gamma rays—using telescopes and spacecraft to understand composition, internal structure, activity, and their roles in planetary formation, the evolution of the solar system, and the origin of life.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Comet Facts",
+        "url": "https://science.nasa.gov/solar-system/comets/facts/"
+      },
+      {
+        "title": "NASA Jet Propulsion Laboratory – Deep Impact mission",
+        "url": "https://www.jpl.nasa.gov/missions/deep-impact"
+      },
+      {
+        "title": "ESA – Rosetta mission",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta"
+      },
+      {
+        "title": "ESA – Comet Interceptor mission",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Comet_Interceptor"
+      },
+      {
+        "title": "NASA Science – Asteroids, Comets & Meteors Overview",
+        "url": "https://science.nasa.gov/asteroids-comets-meteors/"
+      }
+    ]
   }
 ]
