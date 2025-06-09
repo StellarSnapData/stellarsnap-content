@@ -362,5 +362,73 @@
         "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
       }
     ]
+  },
+    {
+    "title": "Supernova",
+    "content": "<p>A supernova is a powerful and luminous explosion that occurs at the end of a star’s life, driven by either the core collapse of a massive star or a thermonuclear runaway in a white dwarf within a binary system.</p><p>In <strong>core-collapse supernovae</strong>, massive stars (> 8 M☉) exhaust their nuclear fuel, and their iron cores collapse under gravity. The resulting shock wave violently expels the outer layers. The remnant core becomes a neutron star or black hole. These explosions seed the interstellar medium with heavy elements synthesized during the collapse and explosion.</p><p>In <strong>Type Ia supernovae</strong>, a white dwarf in a binary system accumulates material until it approaches the Chandrasekhar limit (~1.4 M☉). A runaway fusion reaction ensues, completely disrupting the star. These events have a nearly uniform peak brightness, making them excellent standard candles for measuring cosmic distances and the expansion of the Universe.</p><p>Supernovae can outshine entire galaxies for weeks or months and drive shock waves that create complex remnants like the Cygnus Loop, observable across the electromagnetic spectrum.</p><p>They are rare events—occurring roughly once per century in a galaxy like the Milky Way—but are rich in diagnostic data. For example, Hubble’s study of a Type Ia supernova in NGC 2525 helped refine distance measurements and corrected for cosmic dust effects to improve our understanding of universal expansion.</p><p>Supernovae also produce neutrinos and cosmic rays, and their remnants compress gas leading to next-generation star formation. They play a central role in galactic evolution and element creation.</p><p>Some rare supernovae, such as SN 1979C and SN 1987A, continue emitting X-rays or show detailed ring structures decades later—providing invaluable insight into stellar death and circumstellar interaction.</p><p>Looking ahead, missions like ESA’s Euclid telescope and ground-based observatories (E-ELT, LSST) will observe thousands of supernovae, expanding our ability to map dark energy and the Universe’s expansion history.</p>",
+    "sources": [
+      {
+        "title": "NASA – Type Ia Supernovae (Roman Telescope)",
+        "url": "https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/"
+      },
+      {
+        "title": "ESA/Hubble – Supernova wordbank",
+        "url": "https://esahubble.org/wordbank/supernova/"
+      },
+      {
+        "title": "NASA – Supernovae Definition & Importance",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/supernovae1.html"
+      },
+      {
+        "title": "NASA Hubble – Supernova Distance Measurements",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/"
+      },
+      {
+        "title": "NASA – Exploding Star Neutrino & Cosmic Ray Production",
+        "url": "https://science.nasa.gov/universe/whats-a-nova-inside-the-chaos-of-erupting-and-exploding-stars/"
+      },
+      {
+        "title": "ESA – SN 1979C Long-lived X-rays",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/The_supernova_that_just_won_t_fade_away"
+      },
+      {
+        "title": "NASA Hubble – Supernova Blast Wave",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-reveals-new-details-in-a-supernovas-blast-wave/"
+      },
+      {
+        "title": "NASA – Supernova in NGC 2525",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/"
+      },
+      {
+        "title": "ESA/DOE – Milky Way Supernova Rate & Nucleosynthesis",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Integral/Integral_identifies_supernova_rate_for_Milky_Way"
+      },
+      {
+        "title": "ESA/ESA Future Facilities for Supernova Cosmology (arXiv)",
+        "url": "https://arxiv.org/abs/1211.6586"
+      }
+    ]
+  },
+    {
+    "title": "Nebula",
+    "content": "<p>A nebula is a giant cloud of gas (primarily hydrogen and helium) and dust in space—part of the interstellar medium. Nebulae serve as both stellar nurseries and the aftermath of dying stars, making them key players in the life cycle of stars.</p><p>There are several main types of nebulae:</p><p><strong>Emission nebulae:</strong> Ionized gas clouds that glow brightly from ultraviolet radiation emitted by nearby hot stars (<em>H II regions</em>), such as the Orion Nebula.</p><p><strong>Reflection nebulae:</strong> Dusty clouds that scatter light from nearby stars, often appearing blue—like NGC 1999.</p><p><strong>Dark nebulae:</strong> Dense dust clouds that block background starlight, seen as dark silhouettes (e.g., the Horsehead Nebula).</p><p><strong>Planetary nebulae:</strong> Shells of gas expelled by dying medium-mass stars, such as the Helix Nebula.</p><p><strong>Supernova remnants:</strong> Expanding nebulae formed from supernova explosions, such as the Cygnus Loop and Veil Nebula, rich in heavy elements.</p><p>Nebulae vary widely in size and shape: some span hundreds of light-years and showcase intricate structures like pillars and filaments, which have been imaged by Hubble and JWST.</p><p>Despite their vast size, they are very low density—sometimes just 0.1 atoms/cm³—yet they can contain enough mass to form thousands of stars. Gravity and external forces like shockwaves from nearby supernovae trigger regions to collapse and form new stars.</p><p>Nebulae enrich galactic chemistry: elements forged in stars are returned to the interstellar medium, fueling future star and planet formation.</p><p>They are studied across the electromagnetic spectrum—from radio waves to gamma rays—using observatories like Hubble, JWST, Chandra, and Earth-based telescopes. Their spectacular beauty and scientific significance make them central to both research and public engagement.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Decoding Nebulae",
+        "url": "https://science.nasa.gov/universe/decoding-nebulae/"
+      },
+      {
+        "title": "NASA Science – Hubble's Nebulae",
+        "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/"
+      },
+      {
+        "title": "NASA Imagine the Universe! – Nebula Definition",
+        "url": "https://imagine.gsfc.nasa.gov/resources/dict_jp.html"
+      },
+      {
+        "title": "ESA/Hubble – Planetary Nebula Wordbank",
+        "url": "https://esahubble.org/wordbank/planetary-nebula/"
+      }
+    ]
   }
 ]
