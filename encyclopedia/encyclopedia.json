@@ -1,0 +1,715 @@
+[
+  {
+    "title": "Accretion Disk",
+    "content": [
+      "An accretion disk is a massive, rotating structure of gas, plasma, dust, or other material that forms around a central object under the influence of gravity. These disks occur in various astrophysical systems, such as around young stars (protoplanetary disks), white dwarfs in binary systems, neutron stars, and black holes. As matter spirals inward, it heats up due to friction and viscous dissipation, radiating energy in the form of electromagnetic radiation. The process allows the central object to gain mass over time while conserving angular momentum in the system.",
+      "The physics of accretion disks varies depending on the mass and nature of the central body. In the case of stellar-mass or supermassive black holes, accretion disks can become extraordinarily luminous, especially in the X-ray portion of the spectrum. Near the event horizon of a black hole, relativistic effects become significant. The infalling material reaches extreme temperatures—millions of Kelvin—producing high-energy emissions. These emissions are often used to infer the presence of black holes, which themselves emit no light.",
+      "According to NASA, accretion is the primary method by which black holes grow, particularly during the early formation of galaxies. Matter from the surroundings, such as interstellar gas or disrupted stars, feeds the black hole through this disk. The disk’s radiation pressure and magnetic fields may also lead to the formation of relativistic jets, which shoot perpendicular to the disk and extend far beyond the host galaxy. These jets play a critical role in regulating galaxy formation and can influence intergalactic environments.",
+      "One of the fundamental challenges in accretion disk theory is explaining how angular momentum is transferred outward to allow matter to move inward. The magnetorotational instability (MRI), discussed extensively in astrophysical research, provides a compelling mechanism. It proposes that even a weak magnetic field in a differentially rotating disk can give rise to turbulence, which acts like an effective viscosity. This turbulence enhances the transport of angular momentum and enables sustained accretion.",
+      "Modern simulations and theoretical frameworks now include general relativistic magnetohydrodynamics (GRMHD) to more accurately capture the extreme environments near compact objects. Recent models show how black hole spin, magnetic field topology, and disk composition affect accretion rates and jet power. These high-resolution simulations align well with observations from facilities like the Event Horizon Telescope (EHT), which imaged the shadows of black holes in M87 and the Milky Way.",
+      "In less extreme environments, such as around young stars, accretion disks are the sites of planet formation. Observations from ALMA and other observatories have revealed ringed disk structures that suggest early stages of planetary accretion and migration. These systems provide a vital laboratory for understanding how solar systems like our own originate.",
+      "Accretion disks are not static—they evolve over time, influenced by instabilities, magnetic reconnection, radiation pressure, and even external events like tidal disruption of nearby stars. The balance of forces in the disk can lead to variability in luminosity, including outbursts in systems like dwarf novae or X-ray transients. Such variability gives astronomers valuable insight into the dynamics of the accreting material.",
+      "In summary, accretion disks are fundamental to astrophysics, linking the growth of cosmic structures to the extreme physics of gravity, relativity, and magnetohydrodynamics. Whether forming planets or feeding black holes, these swirling disks of matter continue to reveal the underlying processes shaping our universe."
+    ],
+    "sources": [
+      {
+        "title": "NASA Science – Black Holes",
+        "url": "https://science.nasa.gov/astrophysics/focus-areas/black-holes"
+      },
+      {
+        "title": "MRI and Turbulent Accretion Disks (2011)",
+        "url": "https://arxiv.org/pdf/1104.5499"
+      },
+      {
+        "title": "Black Hole Accretion Simulations (2022)",
+        "url": "https://arxiv.org/pdf/2201.07262"
+      }
+    ]
+  },
+    {
+    "title": "Light-Year",
+    "content": [
+      "A light-year is a unit of distance used in astronomy to express vast stretches between celestial objects. It represents the distance that light travels in a vacuum in one Julian year (365.25 days). Since light moves at approximately 299,792 kilometers per second (or about 186,282 miles per second), one light-year equals roughly 9.4607 trillion kilometers (5.88 trillion miles).",
+      "Despite its name, a light-year measures distance, not time. Astronomers use it because ordinary units like kilometers or miles become impractical at interstellar and intergalactic scales. For example, instead of saying that Proxima Centauri is nearly 40 trillion kilometers away, it's more comprehensible to say it’s 4.24 light-years from Earth.",
+      "Observing distant objects in light-years also means looking back in time. Because light takes time to travel, when we view an object one light-year away, we see it as it was one year ago. This 'lookback time' becomes even more significant with galaxies billions of light-years away — we observe them as they were billions of years in the past.",
+      "The light-year can be compared to other astronomical units. It is equivalent to about 63,240 astronomical units (AU), where one AU is the average distance between Earth and the Sun. A light-year is also roughly equal to 0.3066 parsecs (pc), a unit commonly used by professional astronomers.",
+      "For nearer objects, smaller light-based units are used. For example, light from the Sun takes about 8 minutes and 20 seconds to reach Earth (light-minutes), while signals from the Moon arrive in just over a second (light-seconds).",
+      "Understanding the light-year helps make sense of the immense scale of the universe and allows scientists and the public alike to grasp the staggering distances between stars, galaxies, and other celestial bodies."
+    ],
+    "sources": [
+      {
+        "title": "NASA Science – What is a Light-Year?",
+        "url": "https://science.nasa.gov/exoplanets/what-is-a-light-year/"
+      },
+      {
+        "title": "NASA Space Place – What Is a Light-Year?",
+        "url": "https://spaceplace.nasa.gov/light-year/en/"
+      },
+      {
+        "title": "ESA – Measuring Stellar Distances",
+        "url": "https://sci.esa.int/web/education/-/35616-stellar-distances"
+      },
+      {
+        "title": "Swinburne University – Cosmos: Light Year",
+        "url": "https://astronomy.swin.edu.au/cosmos/L/Light+Year"
+      }
+    ]
+  },
+    {
+    "title": "Redshift",
+    "content": [
+      "In astronomy, redshift refers to the phenomenon where light or other electromagnetic radiation from an object is shifted toward longer (redder) wavelengths. This effect results in a decrease in frequency and energy and occurs in three primary contexts: Doppler redshift, gravitational redshift, and cosmological redshift.",
+      "Doppler redshift happens when a light-emitting object moves away from the observer. Similar to how a siren sounds lower in pitch as it moves away, the light’s wavelength is stretched. Gravitational redshift, predicted by Einstein’s General Theory of Relativity, occurs when light escapes a strong gravitational field and loses energy, resulting in longer wavelengths. Cosmological redshift is due to the expansion of the universe itself: as space expands, it stretches the light traveling through it, increasing the wavelength.",
+      "Redshift is measured using the dimensionless parameter z, calculated as z = (λ_observed − λ_emitted) / λ_emitted. For relatively nearby galaxies, this can be directly related to velocity via v ≈ z × c, where c is the speed of light. In very distant galaxies, redshift indicates how long the light has been traveling and, by extension, how far away the galaxy is.",
+      "Redshift is central to modern cosmology. Edwin Hubble’s discovery in 1929 that more distant galaxies exhibit greater redshifts led to the formulation of Hubble’s Law, which describes the expanding universe. Measuring the redshifts of galaxies and supernovae has also revealed that the universe’s expansion is accelerating, suggesting the presence of dark energy.",
+      "Astronomers detect redshift by comparing the known spectral lines of elements (like hydrogen or calcium) to those observed in light from distant sources. The greater the shift, the farther and older the object is. Today, some galaxies have been observed with redshifts greater than 13, meaning their light has traveled for over 13 billion years, offering a glimpse into the early universe."
+    ],
+    "sources": [
+      {
+        "title": "NASA Science – Hubble Cosmological Redshift",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/"
+      },
+      {
+        "title": "ESA – What is ‘red shift’?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_red_shift"
+      },
+      {
+        "title": "University of Iowa Physics – Astronomical Redshift",
+        "url": "https://itu.physics.uiowa.edu/labs/advanced/astronomical-redshift"
+      },
+      {
+        "title": "NASA – Pound–Rebka Gravitational Redshift",
+        "url": "https://einstein.stanford.edu/content/relativity/q56.html"
+      }
+    ]
+  },
+  {
+    "title": "Gravity",
+    "content": [
+      "Gravity is the fundamental force of attraction between all objects that have mass or energy. It governs the motion of planets, the structure of galaxies, and even the flow of time in regions of intense gravity. It acts over infinite distances and cannot be shielded or repelled.",
+      "Classical Understanding – Newton's Law: Sir Isaac Newton’s law of universal gravitation describes gravity as a force between two masses. The strength of this force is proportional to the product of the masses and inversely proportional to the square of the distance between them: F = G × (m₁ × m₂) / r². This model accurately predicts most orbital motion and physical behavior on Earth and in the solar system.",
+      "Modern View – General Relativity: Albert Einstein’s general theory of relativity, published in 1915, redefined gravity not as a force, but as the curvature of spacetime caused by mass and energy. Massive objects like stars or black holes bend the space around them, and objects move along these curves. This theory explains phenomena such as gravitational lensing, the orbit of Mercury, and the passage of time near massive bodies.",
+      "Everyday Effects: Gravity on Earth provides a surface acceleration of about 9.8 meters per second squared (m/s²). It keeps our atmosphere in place, causes tides (through the Moon's gravity), and affects time: atomic clocks tick slightly slower at sea level than on mountaintops due to gravitational time dilation.",
+      "Observing Gravity from Space: Missions like ESA’s GOCE (Gravity field and steady-state Ocean Circulation Explorer) and NASA's GRACE and GRACE-FO satellites map Earth's gravity with high precision. They reveal changes in water mass, monitor glacial melt, and improve models of sea-level rise and ocean currents.",
+      "Advanced Applications: Spacecraft use gravitational slingshots to gain speed by flying near planets, saving fuel. Gravity also shapes the evolution of galaxies, regulates star formation, and governs the formation of planetary systems.",
+      "Research Frontiers: Modern physics seeks to reconcile gravity with quantum mechanics into a theory of quantum gravity. Experiments like those detecting gravitational waves (ripples in spacetime caused by colliding black holes) continue to test general relativity under extreme conditions and expand our understanding of the universe."
+    ],
+    "sources": [
+      {
+        "title": "ESA – What is gravity?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_gravity"
+      },
+      {
+        "title": "NASA Space Place – What Is Gravity?",
+        "url": "https://spaceplace.nasa.gov/what-is-gravity/en/"
+      },
+      {
+        "title": "NASA – How Gravity Warps Light",
+        "url": "https://science.nasa.gov/universe/how-gravity-warps-light/"
+      },
+      {
+        "title": "UC Santa Barbara – ESA Satellite Maps Earth’s Gravity",
+        "url": "https://legacy.geog.ucsb.edu/esa-satellite-maps-earths-gravity/"
+      },
+      {
+        "title": "NASA Science – Gravity Assist Primer",
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/primer/"
+      }
+    ]
+  },
+    {
+    "title": "General Relativity",
+    "content": [
+      "Albert Einstein’s General Theory of Relativity, published in 1915 and finalized in 1916, revolutionized our understanding of gravity. Rather than a force acting at a distance, it describes gravity as the curvature of spacetime caused by mass and energy. Massive objects distort the fabric of spacetime around them, and other objects move along these curved paths.",
+      "In Einstein’s words, space and time are intertwined into a four-dimensional continuum called spacetime. Bending this continuum—much like depressing a trampoline with a heavy ball—causes nearby objects to follow curved trajectories. This geometric view explains phenomena that Newtonian gravity cannot: the precise orbit of Mercury, gravitational lensing of light around stars, and time dilation in gravitational fields.",
+      "The theory is governed by Einstein’s field equations, which relate the distribution of mass-energy (via the stress-energy tensor) to the curvature of spacetime (described by the Einstein tensor and metric tensor). These equations encompass Newton’s law in weak-field limits yet extend to describe extreme scenarios like black holes and expanding universes.",
+      "General relativity has been confirmed through numerous experiments and observations. Key early tests include the bending of starlight during the 1919 solar eclipse—confirming gravitational lensing—and the precise precession of Mercury’s orbit. NASA’s Gravity Probe B mission later verified two subtle effects: geodetic precession and frame-dragging (the “twisting” of spacetime by Earth’s rotation).",
+      "It predicts phenomena such as gravitational redshift—where light loses energy escaping a gravitational field—and gravitational waves, ripples in spacetime from violent cosmic events. The first direct detection of gravitational waves in 2015 (LIGO) further confirmed the theory in the strong-field regime.",
+      "Modern space missions continue to test and utilize general relativity. ESA’s JUICE, LARES, and NASA–ESA LISA missions probe gravitomagnetism, frame-dragging, and spacetime dynamics via precise measuring devices and satellite tracking. They aim to refine existing tests and search for deviations that might point to new physics.",
+      "General relativity remains the cornerstone of modern cosmology and astrophysics. It underpins black hole physics, gravitational lensing, cosmological models, GPS technology, and gravitational-wave astronomy. Efforts persist to reconcile it with quantum mechanics into a unified theory of quantum gravity."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Einstein and General Relativity",
+        "url": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+      },
+      {
+        "title": "ESA – What is gravity?",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/What_is_gravity"
+      },
+      {
+        "title": "NASA Blueshift – 100 Years of General Relativity",
+        "url": "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity/"
+      },
+      {
+        "title": "ESA/Hubble – Gravitational Lensing",
+        "url": "https://esahubble.org/wordbank/gravitational-lensing/"
+      },
+      {
+        "title": "Center for Astrophysics – Einstein's Theory of Gravitation",
+        "url": "https://pweb.cfa.harvard.edu/research/science-field/einsteins-theory-gravitation"
+      }
+    ]
+  },
+    {
+    "title": "Speed of Light",
+    "content": [
+      "The speed of light in a vacuum is a universal constant exactly defined as 299,792,458 m/s (about 300,000 km/s or 186,000 mi/s). This exact value is fixed because the metre itself is defined by how far light travels in 1/299,792,458 of a second.",
+      "This constant speed—denoted by “c”—is the maximum speed at which information, matter, or energy can travel. It remains the same regardless of the relative motion of the source or observer, a foundational postulate of Einstein’s theory of relativity.",
+      "Light (and all electromagnetic radiation) travels at this constant speed in a vacuum. In materials like air, water, or glass, it moves slower—dependent on the medium’s refractive index. For example, light travels at about two-thirds the vacuum speed in glass.",
+      "The finite speed of light gives rise to time delays over large distances. Sunlight takes about 8 minutes and 20 seconds to reach Earth, while radio signals to distant spacecraft (like those at Jupiter or Mars) can take minutes or even over an hour to arrive and return.",
+      "Light’s invariant speed underpins the structure of modern physics and cosmology. It implies that no object with mass can reach or exceed c, and it leads to profound effects like time dilation, length contraction, and mass-energy equivalence (E=mc²) under special relativity.",
+      "Accurate measurement of c in vacuum is now a relic: since 1983 the metre is defined by c. Instead, we use precise frequency and wavelength measurements (via lasers and interferometry) to realize the metre standard.",
+      "Astrophysical observations—such as pulsar timing, spacecraft tracking, and laser ranging—depend on c. For example, the delay of light or radio signals gives us distances and tests of gravitational theories. These methods are essential for GPS systems, deep-space navigation, and tests of relativity.",
+      "The constancy of the speed of light is one of the best-tested principles in science. Experiments like Michelson-Morley and measurements of electromagnetic constants reinforce that c is invariant, a cornerstone of physics and a link among electromagnetism, gravity, and spacetime."
+    ],
+    "sources": [
+      {
+        "title": "DESY – Is c constant?",
+        "url": "https://www.desy.de/user/projects/Physics/Relativity/SpeedOfLight/speed_of_light.html"
+      },
+      {
+        "title": "NASA Science – Basics of Spaceflight: Units of Measure",
+        "url": "https://science.nasa.gov/learn/basics-of-space-flight/units/"
+      },
+      {
+        "title": "NASA – Three Ways to Travel at (Nearly) the Speed of Light",
+        "url": "https://www.nasa.gov/solar-system/three-ways-to-travel-at-nearly-the-speed-of-light/"
+      },
+      {
+        "title": "NASA AMLNH – The Speed of Light Is Constant",
+        "url": "https://www.amnh.org/exhibitions/einstein/light/constant-speed"
+      },
+      {
+        "title": "NASA – Anatomy of an Electromagnetic Wave",
+        "url": "https://science.nasa.gov/ems/02_anatomy/"
+      }
+    ]
+  },
+    {
+    "title": "Observable Universe",
+    "content": [
+      "The observable universe is the region of space from which light or other signals have reached us since the Big Bang, approximately 13.8 billion years ago. However, because the cosmos has been expanding, these objects are now much farther away.",
+      "Today, the radius of the observable universe is approximately 46 billion light‑years, making the diameter about 92 billion light‑years. This value is based on comoving distance measurements, which account for the universe’s expansion.",
+      "The observable universe is centered on each observer—every point in space has its own spherical observable universe of the same size. It is bounded not by technology, but by the finite speed of light and the age of the universe.",
+      "This region is home to at least two trillion galaxies, according to recent surveys—far more than earlier estimates of ~100 billion. That means the observable universe contains roughly 10²⁴ stars.",
+      "As the universe continues to expand, some objects now at the observable limit will eventually drift beyond our view, falling outside the cosmic horizon. But for now, we can observe a spherical volume about 92 billion light‑years across."
+    ],
+    "sources": [
+      {
+        "title": "ESA – Observable Universe contains ten times more galaxies than thought",
+        "url": "https://sci.esa.int/web/hubble/-/58444-observable-universe-contains-ten-times-more-galaxies-than-previously-thought-heic1620"
+      },
+      {
+        "title": "NASA – Age & Size of the Universe Through the Years",
+        "url": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html"
+      },
+      {
+        "title": "NASA Science – Welcome to the Universe",
+        "url": "https://science.nasa.gov/universe/"
+      }
+    ]
+  },
+    {
+    "title": "Galaxy",
+"content": [
+  "A galaxy is a vast, gravitationally bound system of stars, stellar remnants, gas, dust, and dark matter. They range in size from dwarf galaxies with a few thousand stars to giants containing over a trillion stars and spanning more than a million light‑years in diameter.",
+  "There are thought to be over 100 billion galaxies in the universe, but recent studies—including data from NASA and ESA—suggest this number may exceed two trillion.",
+  "Galaxies are classified by shape into three main types: spiral (like the Milky Way), elliptical, and irregular. Active galaxies—those emitting exceptionally bright radiation from their cores—make up around 10 % of observed galaxies.",
+  "The Milky Way is a barred spiral galaxy, part of the Local Group of over 20 galaxies. It contains over 100 billion stars, a stellar disk ~100,000 light‑years across, and a central supermassive black hole.",
+  "Galaxies often cluster together in groups and clusters, which themselves are components of larger structures like superclusters and filaments. These structures form the cosmic web that defines the large‑scale structure of the universe.",
+  "Galaxies evolve through processes like mergers—where two galaxies interact and combine—and internal star formation driven by gas dynamics. Interactions can trigger starbursts, dramatically increasing a galaxy’s stellar birth rate.",
+  "Supermassive black holes, found at the centers of most large galaxies, power active galactic nuclei (AGN), emitting extreme energies and sometimes launching relativistic jets. These AGN influence both galactic and intergalactic environments.",
+  "Dark matter makes up most of a galaxy’s mass. Its presence is inferred from phenomena like flat rotation curves and gravitational lensing—despite being invisible, it profoundly shapes galaxy formation and dynamics.",
+  "Our understanding continues to expand thanks to advanced observations from missions like ESA’s Herschel, Gaia, and NASA/ESA’s Hubble and James Webb Space Telescopes, along with theoretical frameworks and cosmological simulations."
+]
+,    "sources": [
+      {
+        "title": "ESA – Galaxies (CESAR booklet)",
+        "url": "https://cesar.esa.int/upload/201801/galaxies_booklet.pdf"
+      },
+      {
+        "title": "NASA Science – Galaxy Basics",
+        "url": "https://science.nasa.gov/universe/galaxies/"
+      },
+      {
+        "title": "ESA – Every point is a galaxy (Herschel)",
+        "url": "https://sci.esa.int/web/herschel/-/60537-every-point-is-a-galaxy"
+      },
+      {
+        "title": "NASA Science – Galaxy Evolution & Mergers",
+        "url": "https://science.nasa.gov/universe/galaxies/evolution/"
+      },
+      {
+        "title": "NASA Science – Galaxy Types",
+        "url": "https://science.nasa.gov/universe/galaxies/types/"
+      },
+      {
+        "title": "ESA – Galaxy groups and clusters (The scale of the Universe)",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2014/05/The_scale_of_the_Universe"
+      },
+      {
+        "title": "NASA Science – Large Scale Structures",
+        "url": "https://science.nasa.gov/universe/galaxies/large-scale-structures/"
+      },
+      {
+        "title": "NASA – Hubble’s Galaxies",
+        "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-galaxies/"
+      },
+      {
+        "title": "ESA – The Galaxy in Context (arXiv)",
+        "url": "https://arxiv.org/abs/1602.07702"
+      },
+      {
+        "title": "ESA – The Fundamental Properties of Galaxies (arXiv)",
+        "url": "https://arxiv.org/abs/astro-ph/0610016"
+      }
+    ]
+  },
+    {
+    "title": "Galaxy Cluster",
+"content": [
+  "Galaxy clusters are the most massive gravitationally bound structures in the Universe, containing hundreds to thousands of galaxies, vast amounts of hot gas, and a dominant component of dark matter. Typical masses range from 10¹⁴ to 10¹⁵ M☉ (solar masses), and sizes span several million light‑years.",
+  "These clusters form through hierarchical growth: smaller galaxy groups merge over time to create larger clusters. They are the primary building blocks of the cosmic web and serve as anchors for superclusters.",
+  "Most of a cluster’s mass resides in dark matter, inferred from galaxy motions and gravitational lensing. The intracluster medium (ICM) is made of hot plasma at tens of millions of Kelvin, emitting X‑rays observable by telescopes like Chandra and XMM‑Newton.",
+  "Galaxy clusters reveal fundamental physics. Fritz Zwicky first inferred dark matter in the 1930s by noting galaxies moved too quickly to be held by visible mass. Detailed X‑ray and lensing studies confirm that visible galaxies make up only ~1%, while ICM is ~9% and dark matter comprises ~90% of cluster mass.",
+  "Clusters are cosmological tools. Measurements of their number, mass distribution, and growth trace the nature of dark energy and the evolution of large-scale structure.",
+  "They also act as gravitational lenses: their mass bends light from distant galaxies, magnifying and distorting background sources—used to study high-redshift galaxies and map mass distribution.",
+  "Galaxy clusters include familiar nearby examples like the Virgo Cluster, Coma Cluster, and the Perseus Cluster. They also host extreme systems such as the Bullet Cluster—where colliding subclusters provide compelling evidence for dark matter—and distant massive clusters located over 10 billion light‑years away.",
+  "Modern observatories like Hubble, Chandra, and JWST continue to probe cluster dynamics, star formation, black hole growth, and dark matter profiles within these colossal systems."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Large Scale Structures",
+        "url": "https://science.nasa.gov/universe/galaxies/large-scale-structures/"
+      },
+      {
+        "title": "NASA GSFC – Galaxy clusters",
+        "url": "https://science.gsfc.nasa.gov/662/research/clusters.html"
+      },
+      {
+        "title": "Center for Astrophysics | Harvard & Smithsonian – Galaxy Clusters",
+        "url": "https://www.cfa.harvard.edu/research/topic/galaxy-clusters"
+      },
+      {
+        "title": "NASA – Untangling a Knot of Galaxy Clusters",
+        "url": "https://www.nasa.gov/universe/untangling-a-knot-of-galaxy-clusters/"
+      }
+    ]
+  },
+    {
+    "title": "Star",
+"content": [
+  "A star is a massive, self-luminous sphere of plasma held together by its own gravity. It shines by converting hydrogen into helium through nuclear fusion in its core, releasing energy across the electromagnetic spectrum.",
+  "Stars form in large clouds of gas and dust—called nebulae—where regions collapse under gravity, creating protostars. When core temperatures reach millions of degrees, fusion ignites, marking the birth of a star. Observatories like Hubble and missions such as NASA’s Infrared telescopes have imaged this process in action.",
+  "The majority (~90%) of stars are main-sequence stars, fusing hydrogen into helium. These include a broad range of masses—from red dwarfs (small, long-lived, faint) to blue giants and supergiants (massive, hot, and short-lived). Our Sun is a middle-aged G-type main sequence star.",
+  "As stars exhaust their hydrogen fuel, their evolution depends on mass. Lower-mass stars become red giants then white dwarfs. More massive stars undergo successive fusion stages, end in supernova explosions, and leave behind neutron stars or black holes.",
+  "Stars vary in brightness, size, and color. They are classified using spectral types (O, B, A, F, G, K, M) based on surface temperature and absorption lines. For example, O- and B-type stars are hot and blue; M-type are cool and red.",
+  "Stellar remnants include white dwarfs (Earth-sized cores of former stars), neutron stars (city-sized remnants of supernovae), and black holes (extreme-density objects from the most massive stars).",
+  "Stars are not static—many rotate, exhibit magnetic activity (like sunspots and flares), and broadcast stellar winds. Their lifecycle enriches the interstellar medium with heavier elements, seeding future generations of stars and planets.",
+  "Stars often exist in groups—binary or systems within star clusters and galaxies. Their properties are studied via brightness, spectra, parallax, variability, and statistical surveys by missions like Gaia and Kepler."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Star Types",
+        "url": "https://science.nasa.gov/universe/stars/types/"
+      },
+      {
+        "title": "NASA Imagine – Stars: Fundamentals",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/stars1.html"
+      },
+      {
+        "title": "NASA Hubble – Exploring the Birth of Stars",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/exploring-the-birth-of-stars/"
+      }
+    ]
+  },
+    {
+    "title": "Protostar",
+"content": [
+  "A protostar is an early stage in star formation, occurring when a dense region of a molecular cloud collapses under gravity, forming a hot, rotating object still gathering mass from its surroundings.",
+  "As the collapsing gas heats up due to friction and increasing central pressure, the core becomes opaque and radiates primarily in the infrared. It is not yet hot enough for sustained nuclear fusion in its core.",
+  "Protostars are often embedded in dusty envelopes and accretion disks. Some launch powerful bipolar jets and stellar outflows, which collide with surrounding gas to produce Herbig–Haro objects—visible in infrared imagery captured by telescopes like Hubble and JWST.",
+  "They evolve through observational categories: Class 0 (deeply embedded), Class I (envelope partially cleared), and later stages before entering the main sequence. This phase lasts roughly 100,000 to 500,000 years for low-mass protostars.",
+  "Some protostars show dramatic variability. For example, HOPS 383, a Class 0 protostar in Orion, exhibited a sudden infrared-bright “growth spurt” — highlighting episodic accretion events.",
+  "JWST has imaged protostars like L1527 in Taurus, revealing “hourglass” structures and shocked molecular gas in their outflows. These observations deepen our understanding of disk formation, jet dynamics, and early stellar evolution.",
+  "Ultimately, a protostar becomes a pre-main-sequence star when its core reaches the critical temperature (~10 million K) to initiate hydrogen fusion. Leftover disk material may then form planets, asteroids, and comets."
+]
+,    "sources": [
+      {
+        "title": "NASA – Protostars",
+        "url": "https://www.nasa.gov/universe/stars/protostars/"
+      },
+      {
+        "title": "NASA – Hubble Spies Newly Forming Star",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-spies-newly-forming-star-incubating-in-ic-2631/"
+      },
+      {
+        "title": "NASA – Webb Catches Fiery Hourglass New Star",
+        "url": "https://www.nasa.gov/universe/nasas-webb-catches-fiery-hourglass-as-new-star-forms/"
+      },
+      {
+        "title": "ESA – Protostar L1527 Image",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2022/11/Protostar_L1527"
+      },
+      {
+        "title": "NASA – Protostars Archives",
+        "url": "https://science.nasa.gov/category/universe/stars/protostars/"
+      },
+      {
+        "title": "NASA GSFC – Star Basics",
+        "url": "https://science.nasa.gov/universe/stars/"
+      },
+      {
+        "title": "NASA – Protostar Outburst HOPS 383",
+        "url": "https://www.nasa.gov/universe/nasa-satellites-catch-growth-spurt-from-newborn-protostar/"
+      }
+    ]
+  },
+    {
+    "title": "White Dwarf",
+"content": [
+  "A white dwarf is the dense, Earth-sized core remnant of a star that has exhausted its nuclear fuel. It forms when a low- to intermediate-mass star sheds its outer layers, leaving behind a hot, degenerate object composed mostly of carbon and oxygen (or helium in some cases).",
+  "These stellar remnants pack nearly the mass of the Sun into a volume similar to Earth—making them around 200,000 times denser than Earth. A single cubic centimeter of white dwarf matter would weigh several tons on Earth.",
+  "White dwarfs do not undergo nuclear fusion. Instead, they shine from residual thermal energy, gradually cooling over billions of years. They come in spectral types based on their surface chemistry—hydrogen (DA), helium (DB), or metal-polluted atmospheres.",
+  "Observations by NASA’s Hubble Telescope detected white dwarfs bending light from background stars—allowing direct mass measurements of isolated white dwarfs via gravitational lensing.",
+  "In some binary systems, white dwarfs accrete matter from a companion, heating up and emitting X-rays from infalling gas, observed by the Chandra X-ray Observatory.",
+  "Some white dwarfs receive a 'kick' of several kilometers per second at formation, moving them out of their birth clusters. Others in tight binaries (e.g., SDSS J0651) orbit each other in minutes, emitting gravitational waves detectable with current instruments.",
+  "White dwarfs can host planetary remnants: dusty disks and metal-polluted atmospheres indicate they may accrete asteroids or minor planets, providing insight into exoplanet systems’ fates.",
+  "With masses typically between 0.5 and 1.4 M☉ (the Chandrasekhar limit), white dwarfs are critical to our understanding of stellar evolution, galactic archaeology, and cosmology, including serving as progenitors of Type Ia supernovae used to measure cosmic expansion."
+]
+,    "sources": [
+      {
+        "title": "NASA – White Dwarf Stars",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html"
+      },
+      {
+        "title": "Chandra – White Dwarfs & Planetary Nebulae",
+        "url": "https://chandra.harvard.edu/xray_sources/white_dwarfs.html"
+      },
+      {
+        "title": "ESA – White dwarfs in open cluster NGC 6791",
+        "url": "https://esahubble.org/images/opo0825a/"
+      },
+      {
+        "title": "NASA Hubble – Mass measurement via lensing",
+        "url": "https://science.nasa.gov/missions/hubble/for-the-first-time-hubble-directly-measures-mass-of-a-lone-white-dwarf/"
+      },
+      {
+        "title": "NASA – How white dwarf stars get their 'kicks'",
+        "url": "https://science.nasa.gov/missions/hubble/nasa-how-white-dwarf-stars-get-their-kicks/"
+      },
+      {
+        "title": "Harvard CFA – Lowest mass white dwarf",
+        "url": "https://www.cfa.harvard.edu/news/lowest-mass-white-dwarf-star"
+      },
+      {
+        "title": "Harvard CFA – White dwarfs & gravitational waves",
+        "url": "https://www.cfa.harvard.edu/news/space-warping-white-dwarfs-produce-gravitational-waves"
+      }
+    ]
+  },
+    {
+    "title": "Neutron Star",
+"content": [
+  "A neutron star is the ultra‑dense remnant core of a massive star that exploded in a supernova. These objects collapse into spheres about 20 km in diameter that can contain up to twice the mass of the Sun—all compressed into an object the size of a city.",
+  "Neutron stars are composed mostly of neutrons: under extreme pressure, electrons and protons fuse into neutrons. The matter inside them is the densest we can observe directly—up to several times the density of atomic nuclei.",
+  "Their surfaces are incredibly hot—over 600,000 °C—yet they cool gradually over time. NASA and ESA observations confirm their compact size and high temperatures, which uniquely identify them among stellar remnants.",
+  "Neutron stars rotate rapidly—some hundreds of times per second—due to conservation of angular momentum during collapse. Some emit beams of radiation and appear as pulsars if the beam sweeps across Earth.",
+  "They also include magnetars, which are neutron stars with ultra-powerful magnetic fields trillions of times stronger than Earth’s. These fields can cause strong X-ray and gamma-ray outbursts.",
+  "In binary systems, neutron stars can pull material from companions, leading to X-ray emissions detected by observatories such as Chandra and NICER. Some tight binaries are sources of gravitational waves when they spiral together.",
+  "NASA’s NICER mission aboard the ISS studies the internal structure of neutron stars by measuring how compact their mass is, providing clues about matter under ultra-high densities and testing Einstein’s general relativity in extreme environments."
+]
+,    "sources": [
+      {
+        "title": "NASA – What is a Neutron Star?",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+      },
+      {
+        "title": "ESA/Hubble – Neutron stars: pulsars and magnetars",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Neutron_stars_pulsars_and_magnetars"
+      },
+      {
+        "title": "NASA – Neutron Stars Are Weird!",
+        "url": "https://science.nasa.gov/universe/neutron-stars-are-weird/"
+      },
+      {
+        "title": "NASA GSFC – Neutron Star Animations",
+        "url": "https://svs.gsfc.nasa.gov/20267/"
+      },
+      {
+        "title": "NASA – NICER Probes Neutron Star Structure",
+        "url": "https://www.nasa.gov/universe/nasas-nicer-probes-the-squeezability-of-neutron-stars/"
+      }
+    ]
+  },
+    {
+    "title": "Black Hole",
+"content": [
+  "A black hole is an astronomical object with gravity so strong that nothing—not even light—can escape once it passes its event horizon, the boundary around the singularity.",
+  "Stellar black holes form when massive stars (∼20× the Sun’s mass) exhaust their nuclear fuel, undergo supernova explosions, and collapse under gravity into a point with extreme density and curvature of spacetime. If the remnant core exceeds roughly three solar masses, no known force can resist the collapse.",
+  "Supermassive black holes—millions to billions of solar masses—reside at the centers of most galaxies, including the Milky Way. Evidence comes from tracking orbital motion of stars in their vicinity, as observed by NASA and ESA facilities, evidence that earned the 2020 Nobel Prize.",
+  "Black holes are invisible, but their presence is inferred from accretion disks—hot gas swirling around them emits powerful X-rays—and from gravitational lensing, where their mass bends light from background objects.",
+  "Observations by the Event Horizon Telescope (EHT) produced direct images of the shadow of black holes in M87 and Sagittarius A*, confirming Einstein’s predictions about light structure near the event horizon.",
+  "Some black holes move at high speeds through space, likely receiving small velocity boosts (often called kicks) from asymmetric supernova explosions or galactic interactions, as detected using Hubble’s precision astrometry.",
+  "Black holes also play key roles in cosmic evolution. Tidal disruption events—where a passing star is torn apart—produce luminous flares captured by Hubble and Chandra, providing rare glimpses into black hole activity.",
+  "Their immense gravity powers active galactic nuclei and relativistic jets, influencing both their surrounding galaxies and intergalactic environments."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Black Holes",
+        "url": "https://science.nasa.gov/universe/black-holes/"
+      },
+      {
+        "title": "ESA – Black holes",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Black_holes"
+      },
+      {
+        "title": "NASA – What Are Black Holes?",
+        "url": "https://www.nasa.gov/universe/what-are-black-holes/"
+      },
+      {
+        "title": "ESA/Hubble – Black Holes, Quasars, and AGN",
+        "url": "https://esahubble.org/science/black_holes/"
+      },
+      {
+        "title": "NASA – What Happens When Something Gets Too Close to a Black Hole?",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      }
+    ]
+  },
+    {
+    "title": "Supernova",
+"content": [
+  "A supernova is a powerful and luminous explosion that occurs at the end of a star’s life, driven by either the core collapse of a massive star or a thermonuclear runaway in a white dwarf within a binary system.",
+  "In core-collapse supernovae, massive stars (> 8 M☉) exhaust their nuclear fuel, and their iron cores collapse under gravity. The resulting shock wave violently expels the outer layers. The remnant core becomes a neutron star or black hole. These explosions seed the interstellar medium with heavy elements synthesized during the collapse and explosion.",
+  "In Type Ia supernovae, a white dwarf in a binary system accumulates material until it approaches the Chandrasekhar limit (~1.4 M☉). A runaway fusion reaction ensues, completely disrupting the star. These events have a nearly uniform peak brightness, making them excellent standard candles for measuring cosmic distances and the expansion of the Universe.",
+  "Supernovae can outshine entire galaxies for weeks or months and drive shock waves that create complex remnants like the Cygnus Loop, observable across the electromagnetic spectrum.",
+  "They are rare events—occurring roughly once per century in a galaxy like the Milky Way—but are rich in diagnostic data. For example, Hubble’s study of a Type Ia supernova in NGC 2525 helped refine distance measurements and corrected for cosmic dust effects to improve our understanding of universal expansion.",
+  "Supernovae also produce neutrinos and cosmic rays, and their remnants compress gas leading to next-generation star formation. They play a central role in galactic evolution and element creation.",
+  "Some rare supernovae, such as SN 1979C and SN 1987A, continue emitting X-rays or show detailed ring structures decades later—providing invaluable insight into stellar death and circumstellar interaction.",
+  "Looking ahead, missions like ESA’s Euclid telescope and ground-based observatories (E-ELT, LSST) will observe thousands of supernovae, expanding our ability to map dark energy and the Universe’s expansion history."
+]
+,    "sources": [
+      {
+        "title": "NASA – Type Ia Supernovae (Roman Telescope)",
+        "url": "https://science.nasa.gov/mission/roman-space-telescope/type-ia-supernovae/"
+      },
+      {
+        "title": "ESA/Hubble – Supernova wordbank",
+        "url": "https://esahubble.org/wordbank/supernova/"
+      },
+      {
+        "title": "NASA – Supernovae Definition & Importance",
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/supernovae1.html"
+      },
+      {
+        "title": "NASA Hubble – Supernova Distance Measurements",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/"
+      },
+      {
+        "title": "NASA – Exploding Star Neutrino & Cosmic Ray Production",
+        "url": "https://science.nasa.gov/universe/whats-a-nova-inside-the-chaos-of-erupting-and-exploding-stars/"
+      },
+      {
+        "title": "ESA – SN 1979C Long-lived X-rays",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/The_supernova_that_just_won_t_fade_away"
+      },
+      {
+        "title": "NASA Hubble – Supernova Blast Wave",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-reveals-new-details-in-a-supernovas-blast-wave/"
+      },
+      {
+        "title": "NASA – Supernova in NGC 2525",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/"
+      },
+      {
+        "title": "ESA/DOE – Milky Way Supernova Rate & Nucleosynthesis",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Integral/Integral_identifies_supernova_rate_for_Milky_Way"
+      },
+      {
+        "title": "ESA/ESA Future Facilities for Supernova Cosmology (arXiv)",
+        "url": "https://arxiv.org/abs/1211.6586"
+      }
+    ]
+  },
+    {
+    "title": "Nebula",
+"content": [
+  "A nebula is a giant cloud of gas (primarily hydrogen and helium) and dust in space—part of the interstellar medium. Nebulae serve as both stellar nurseries and the aftermath of dying stars, making them key players in the life cycle of stars.",
+  "There are several main types of nebulae:",
+  "Emission nebulae are ionized gas clouds that glow brightly from ultraviolet radiation emitted by nearby hot stars (H II regions), such as the Orion Nebula.",
+  "Reflection nebulae are dusty clouds that scatter light from nearby stars, often appearing blue—like NGC 1999.",
+  "Dark nebulae are dense dust clouds that block background starlight, seen as dark silhouettes (e.g., the Horsehead Nebula).",
+  "Planetary nebulae are shells of gas expelled by dying medium-mass stars, such as the Helix Nebula.",
+  "Supernova remnants are expanding nebulae formed from supernova explosions, such as the Cygnus Loop and Veil Nebula, rich in heavy elements.",
+  "Nebulae vary widely in size and shape: some span hundreds of light-years and showcase intricate structures like pillars and filaments, which have been imaged by Hubble and JWST.",
+  "Despite their vast size, they are very low density—sometimes just 0.1 atoms/cm³—yet they can contain enough mass to form thousands of stars. Gravity and external forces like shockwaves from nearby supernovae trigger regions to collapse and form new stars.",
+  "Nebulae enrich galactic chemistry: elements forged in stars are returned to the interstellar medium, fueling future star and planet formation.",
+  "They are studied across the electromagnetic spectrum—from radio waves to gamma rays—using observatories like Hubble, JWST, Chandra, and Earth-based telescopes. Their spectacular beauty and scientific significance make them central to both research and public engagement."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Decoding Nebulae",
+        "url": "https://science.nasa.gov/universe/decoding-nebulae/"
+      },
+      {
+        "title": "NASA Science – Hubble's Nebulae",
+        "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/"
+      },
+      {
+        "title": "NASA Imagine the Universe! – Nebula Definition",
+        "url": "https://imagine.gsfc.nasa.gov/resources/dict_jp.html"
+      },
+      {
+        "title": "ESA/Hubble – Planetary Nebula Wordbank",
+        "url": "https://esahubble.org/wordbank/planetary-nebula/"
+      }
+    ]
+  },
+    {
+    "title": "Planet",
+"content": [
+  "A planet is a celestial body that orbits a star (or stellar remnant), is massive enough for its own gravity to shape it into a sphere, and has cleared—or dominates—its orbital neighborhood. This definition is set by the IAU and excludes dwarf planets like Pluto.",
+  "Within our Solar System, there are eight recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Additionally, there are at least five dwarf planets, including Pluto, Eris, Haumea, Makemake, and Ceres.",
+  "Beyond our Solar System, astronomers have confirmed over 6,000 exoplanets—ranging from gas giants to rocky super-Earths—offering rich insights into the diversity of planetary systems.",
+  "Planets fall into several categories: terrestrial (rocky), gas giants, ice giants, super‑Earths, and rogue planets, which wander free without orbiting a star.",
+  "How Planets Form: This process begins in a rotating disk of gas and dust—called a protoplanetary disk—surrounding a young star. Dust grains stick together through collisions, growing into planetesimals.",
+  "Through accretion, these planetesimals collide and merge, forming planetary embryos. In inner disk regions—where temperatures are high—rocky planets form. Beyond the frost line, ice and gas can rapidly build up to form gas and ice giants.",
+  "Planets may shift their orbits due to gravitational interactions either with other forming planets or the disk itself. This helps explain why some exoplanets, known as hot Jupiters, orbit very close to their stars.",
+  "The planet formation process spans millions of years. Observatories like ALMA, JWST, and Hubble have captured disks featuring gaps and rings—strong indicators of forming planets interacting with their birth environments.",
+  "Studying planets—including their atmospheres, potential for water, and internal composition—can help answer questions about their habitability. Missions such as ESA’s PLATO and NASA’s upcoming Habitable Worlds Observatory will further explore these themes."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – What Is a Planet?",
+        "url": "https://science.nasa.gov/solar-system/planets/what-is-a-planet/"
+      },
+      {
+        "title": "NASA Science – About the Planets",
+        "url": "https://science.nasa.gov/solar-system/planets/"
+      },
+      {
+        "title": "NASA Science – Exoplanets Overview",
+        "url": "https://science.nasa.gov/exoplanets/"
+      },
+      {
+        "title": "NASA Science – Protoplanetary Disk",
+        "url": "https://science.nasa.gov/resource/protoplanetary-disk/"
+      },
+      {
+        "title": "NASA Science – Planet Formation",
+        "url": "https://science.nasa.gov/resource/planet-formation/"
+      },
+      {
+        "title": "ESA – PLATO mission to find exoplanets",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato"
+      }
+    ]
+  },
+    {
+    "title": "Exoplanet",
+"content": [
+  "An exoplanet (extrasolar planet) is any planet orbiting a star beyond our Solar System, and includes rogue planets that wander without a host star. Over 6,000 exoplanets have been confirmed, showing incredible diversity in size, composition, and orbital behavior.",
+  "These worlds range from Earth-sized rocky planets to gas giants larger than Jupiter, as well as sub-Neptunes, mini-Neptunes, super-Earths, and hot Jupiters—massive planets in very close orbits. Some exoplanets orbit two stars or orbit so close to their stars that years last only days.",
+  "Exoplanets are detected using methods such as:",
+  "Transit photometry: observing small dips in a star’s brightness as a planet passes in front (used by missions like Kepler and TESS).",
+  "Radial velocity: detecting wobble in a star’s motion due to gravitational pull by an orbiting planet.",
+  "Direct imaging: taking pictures—rare, but used for large planets far from their stars.",
+  "Gravitational microlensing: observing light amplification from a background star when a planet passes in front.",
+  "Characterization techniques—spectroscopy of transits and direct imaging—allow assessment of atmospheric composition, temperature, and weather patterns. Hubble, Spitzer, and TESS have detected water vapor, sodium, and other chemicals.",
+  "Exoplanet systems are widespread in the Milky Way, located thousands of light-years from Earth. Kepler alone showed that planets are more common than stars in our galaxy.",
+  "ESA’s mission fleet—including CHEOPS, PLATO, and future missions like Ariel—aims to precisely measure planetary radii, masses, orbits, and atmospheric properties, advancing our understanding of planet formation and the potential for life in the Universe."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Exoplanets Overview",
+        "url": "https://science.nasa.gov/exoplanets/"
+      },
+      {
+        "title": "NASA Science – What is an Exoplanet?",
+        "url": "https://science.nasa.gov/exoplanets/what-is-an-exoplanet/"
+      },
+      {
+        "title": "ESA – ESA’s exoplanet missions",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/ESA_s_exoplanet_missions"
+      },
+      {
+        "title": "NASA Science – How We Find and Characterize Exoplanets",
+        "url": "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/"
+      },
+      {
+        "title": "NASA Science – In Depth: Exoplanets",
+        "url": "https://science.nasa.gov/exoplanets/facts/"
+      }
+    ]
+  },
+  {
+    "title": "Asteroid",
+"content": [
+  "An asteroid is a small, rocky object that typically orbits a star. In our Solar System, they mostly orbit the Sun and are concentrated in the main asteroid belt between Mars and Jupiter. Asteroids are remnants from the early stages of planetary formation, offering valuable insight into the Solar System’s history dating back around 4.6 billion years.",
+  "Asteroids vary widely in size—from pebble-sized fragments to dwarf-planet-scale bodies like Ceres (933 km in diameter). Most have irregular shapes, lack atmospheres, and rotate unpredictably.",
+  "They are classified by composition into several types: C-type (carbonaceous), which are dark and rich in carbon; S-type (silicaceous), composed mostly of silicate rock; and M-type (metallic), which contain a high amount of nickel and iron.",
+  "Based on their orbits, asteroids are grouped into categories such as Main-Belt asteroids, Trojan asteroids, near-Earth asteroids (NEAs), and Mars-crossers. NEAs are of particular interest because some of them come close to Earth. If an NEA is larger than about 140 meters and its orbit brings it within 7.5 million kilometers of Earth, it is classified as a potentially hazardous asteroid (PHA).",
+  "Impact risk varies by size. Objects around 30 meters in diameter enter Earth’s atmosphere roughly once per decade, often burning up. Larger ones—like the 50 meter Tunguska object or kilometer-scale bodies—can cause regional to global damage, but are much rarer. Most large near-Earth asteroids have already been discovered and tracked.",
+  "Asteroids are studied not only for planetary defense but also for what they reveal about solar system formation and their potential as future resources. NASA’s OSIRIS-REx and ESA’s Hera (following NASA’s DART) are missions studying asteroid composition and testing deflection techniques.",
+  "Their orbits and properties are tracked via telescopes and spacecraft, helping assess impact risk and explore opportunities in in‑situ resource utilization (ISRU)."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Asteroid Facts & Hazards",
+        "url": "https://science.nasa.gov/solar-system/asteroids/facts/"
+      },
+      {
+        "title": "NASA Science – Asteroids Overview",
+        "url": "https://science.nasa.gov/solar-system/asteroids/"
+      },
+      {
+        "title": "ESA – Asteroids",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Asteroids"
+      },
+      {
+        "title": "ESA – Planetary Defence: Asteroids",
+        "url": "https://www.esa.int/Space_Safety/Planetary_Defence/Asteroids_and_Planetary_Defence"
+      },
+      {
+        "title": "ESA – Hera asteroid mission",
+        "url": "https://www.esa.int/Space_Safety/Hera"
+      }
+    ]
+  },
+  {
+    "title": "Comet",
+"content": [
+  "A comet is a small Solar System body composed mainly of ice, dust, and organic compounds. As they approach the Sun, cometary ices sublimate, releasing gas and dust that form the glowing coma and distinctive tails—often extending millions of kilometers.",
+  "Comets originate from two primary reservoirs: the Kuiper Belt—home to short-period comets with orbits under ~200 years—and the distant Oort Cloud, which sends long-period comets with orbits spanning thousands of years. Occasionally, interstellar objects like ‘Oumuamua pass through our system, appearing comet-like.",
+  "They are “dirty snowballs” and among the most primitive remnants of the early Solar System, preserving original ices and organic material from 4.6 billion years ago.",
+  "Landmark missions include ESA’s Rosetta—with its lander Philae—which orbited and sampled Comet 67P/Churyumov–Gerasimenko (2014–2016). NASA’s Deep Impact struck Comet Tempel 1 in 2005 to analyze interior composition.",
+  "These missions discovered complex organic molecules, including amino-acid precursors, and supported the theory that comets may have delivered water and prebiotic compounds to early Earth.",
+  "Looking ahead, ESA–JAXA’s Comet Interceptor (launch planned for 2029) intends to perform a rapid flyby of a dynamically new or interstellar comet, using multiple spacecraft to sample both nucleus and coma environments.",
+  "Comets are studied across the electromagnetic spectrum—from radio to gamma rays—using telescopes and spacecraft to understand composition, internal structure, activity, and their roles in planetary formation, the evolution of the solar system, and the origin of life."
+]
+,    "sources": [
+      {
+        "title": "NASA Science – Comet Facts",
+        "url": "https://science.nasa.gov/solar-system/comets/facts/"
+      },
+      {
+        "title": "NASA Jet Propulsion Laboratory – Deep Impact mission",
+        "url": "https://www.jpl.nasa.gov/missions/deep-impact"
+      },
+      {
+        "title": "ESA – Rosetta mission",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta"
+      },
+      {
+        "title": "ESA – Comet Interceptor mission",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Comet_Interceptor"
+      },
+      {
+        "title": "NASA Science – Asteroids, Comets & Meteors Overview",
+        "url": "https://science.nasa.gov/asteroids-comets-meteors/"
+      }
+    ]
+  }
+]
