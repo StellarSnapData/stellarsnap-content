@@ -430,5 +430,61 @@
         "url": "https://esahubble.org/wordbank/planetary-nebula/"
       }
     ]
+  },
+    {
+    "title": "Planet",
+    "content": "<p>A planet is a celestial body that orbits a star (or stellar remnant), is massive enough for its own gravity to shape it into a sphere, and has cleared—or dominates—its orbital neighborhood. This definition is set by the IAU and excludes dwarf planets like Pluto.</p><p>Within our Solar System, there are eight recognized planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Additionally, there are at least five dwarf planets, including Pluto, Eris, Haumea, Makemake, and Ceres.</p><p>Beyond our Solar System, astronomers have confirmed over 6,000 exoplanets—ranging from gas giants to rocky super-Earths—offering rich insights into the diversity of planetary systems.</p><p>Planets fall into several categories: <strong>terrestrial (rocky), gas giants, ice giants, super‑Earths</strong>, and <strong>rogue planets</strong>, which wander free without orbiting a star.</p><p><strong>How Planets Form</strong>: This process begins in a rotating disk of gas and dust—called a <em>protoplanetary disk</em>—surrounding a young star. Dust grains stick together through collisions, growing into <em>planetesimals</em>.</p><p>Through <em>accretion</em>, these planetesimals collide and merge, forming planetary embryos. In inner disk regions—where temperatures are high—rocky planets form. Beyond the frost line, ice and gas can rapidly build up to form gas and ice giants.</p><p>Planets may shift their orbits due to gravitational interactions either with other forming planets or the disk itself. This helps explain why some exoplanets, known as <em>hot Jupiters</em>, orbit very close to their stars.</p><p>The planet formation process spans millions of years. Observatories like ALMA, JWST, and Hubble have captured disks featuring gaps and rings—strong indicators of forming planets interacting with their birth environments.</p><p>Studying planets—including their atmospheres, potential for water, and internal composition—can help answer questions about their habitability. Missions such as ESA’s <em>PLATO</em> and NASA’s upcoming <em>Habitable Worlds Observatory</em> will further explore these themes.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – What Is a Planet?",
+        "url": "https://science.nasa.gov/solar-system/planets/what-is-a-planet/"
+      },
+      {
+        "title": "NASA Science – About the Planets",
+        "url": "https://science.nasa.gov/solar-system/planets/"
+      },
+      {
+        "title": "NASA Science – Exoplanets Overview",
+        "url": "https://science.nasa.gov/exoplanets/"
+      },
+      {
+        "title": "NASA Science – Protoplanetary Disk",
+        "url": "https://science.nasa.gov/resource/protoplanetary-disk/"
+      },
+      {
+        "title": "NASA Science – Planet Formation",
+        "url": "https://science.nasa.gov/resource/planet-formation/"
+      },
+      {
+        "title": "ESA – PLATO mission to find exoplanets",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Plato"
+      }
+    ]
+  },
+    {
+    "title": "Exoplanet",
+    "content": "<p>An exoplanet (extrasolar planet) is any planet orbiting a star beyond our Solar System, and includes rogue planets that wander without a host star. Over 6,000 exoplanets have been confirmed, showing incredible diversity in size, composition, and orbital behavior.</p><p>These worlds range from Earth-sized rocky planets to gas giants larger than Jupiter, as well as sub-Neptunes, mini-Neptunes, super-Earths, and hot Jupiters—massive planets in very close orbits. Some exoplanets orbit two stars or orbit so close to their stars that years last only days.</p><p>Exoplanets are detected using methods such as:</p><ul><li><strong>Transit photometry</strong>: observing small dips in a star’s brightness as a planet passes in front (used by missions like Kepler and TESS).</li><li><strong>Radial velocity</strong>: detecting wobble in a star’s motion due to gravitational pull by an orbiting planet.</li><li><strong>Direct imaging</strong>: taking pictures—rare, but used for large planets far from their stars.</li><li><strong>Gravitational microlensing</strong>: observing light amplification from a background star when a planet passes in front.</li></ul><p>Characterization techniques—spectroscopy of transits and direct imaging—allow assessment of atmospheric composition, temperature, and weather patterns. Hubble, Spitzer, and TESS have detected water vapor, sodium, and other chemicals.</p><p>Exoplanet systems are widespread in the Milky Way, located thousands of light-years from Earth. Kepler alone showed that planets are more common than stars in our galaxy.</p><p>ESA’s mission fleet—including CHEOPS, PLATO, and future missions like Ariel—aims to precisely measure planetary radii, masses, orbits, and atmospheric properties, advancing our understanding of planet formation and the potential for life in the Universe.</p>",
+    "sources": [
+      {
+        "title": "NASA Science – Exoplanets Overview",
+        "url": "https://science.nasa.gov/exoplanets/"
+      },
+      {
+        "title": "NASA Science – What is an Exoplanet?",
+        "url": "https://science.nasa.gov/exoplanets/what-is-an-exoplanet/"
+      },
+      {
+        "title": "ESA – ESA’s exoplanet missions",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/ESA_s_exoplanet_missions"
+      },
+      {
+        "title": "NASA Science – How We Find and Characterize Exoplanets",
+        "url": "https://science.nasa.gov/exoplanets/how-we-find-and-characterize/"
+      },
+      {
+        "title": "NASA Science – In Depth: Exoplanets",
+        "url": "https://science.nasa.gov/exoplanets/facts/"
+      }
+    ]
   }
 ]
