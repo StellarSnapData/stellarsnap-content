@@ -711,5 +711,139 @@
         "url": "https://science.nasa.gov/asteroids-comets-meteors/"
       }
     ]
+  },
+    {
+    "title": "Cosmic Microwave Background",
+    "content": [
+      "The Cosmic Microwave Background (CMB) is the faint afterglow of the Big Bang, now cooled to about 2.73 K. It permeates the universe and represents the oldest light observable, released roughly 380,000 years after the Big Bang when photons decoupled from matter and the cosmos became transparent.",
+      "Microwave observations reveal the CMB as a nearly uniform background with tiny temperature irregularities—about one part in 100,000. These fluctuations correspond to primordial density variations that later grew into galaxies, clusters, and the large-scale structure of the universe.",
+      "NASA’s COBE mission first measured the CMB’s perfect blackbody spectrum and detected its anisotropies. This was followed by NASA’s WMAP and ESA’s Planck, which produced increasingly precise temperature and polarization maps, enabling determination of the universe’s age, composition, and shape.",
+      "Advanced observatories like the Atacama Cosmology Telescope (ACT) and South Pole Telescope (SPT) focus on smaller-scale CMB variations, detecting gravitational lensing effects and the Sunyaev–Zel’dovich effect to map galaxy clusters and the cosmic web.",
+      "CMB polarization—classified as E-mode and B-mode patterns—offers critical insight into cosmic inflation and potential primordial gravitational waves, making it a key target for experiments like BICEP and future facilities.",
+      "As one of the three main pillars supporting the Big Bang model, the CMB provides the most precise measurements of key cosmological parameters, indicating the universe is approximately 13.8 billion years old and made up of ~5% normal matter, ~27% dark matter, and ~68% dark energy."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Cosmic Microwave Background",
+        "url": "https://science.nasa.gov/cosmic-microwave-background/"
+      },
+      {
+        "title": "NASA LAMBDA – CMB Overview & History",
+        "url": "https://lambda.gsfc.nasa.gov/education/graphic_history/microwaves.html"
+      },
+      {
+        "title": "ESA – Planck and the cosmic microwave background",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosmic_microwave_background"
+      },
+      {
+        "title": "NASA – COBE, WMAP, Planck Missions",
+        "url": "https://www.jpl.nasa.gov/missions/planck"
+      },
+      {
+        "title": "Harvard CfA – Cosmic Microwave Background Research",
+        "url": "https://www.cfa.harvard.edu/research/topic/cosmic-microwave-background"
+      }
+    ]
+  },
+    {
+    "title": "Big Bang",
+    "content": [
+      "The Big Bang theory describes the universe's origin from an extremely hot, dense state around 13.8 billion years ago, followed by rapid expansion and cooling that continues to this day.",
+      "During the first fraction of a second—an era called inflation—the universe expanded exponentially, smoothing and flattening space. After inflation ended, the universe consisted of a highly energetic plasma of particles and radiation.",
+      "Within minutes, protons and neutrons combined to form light elements (hydrogen, helium, deuterium, and small amounts of lithium) in a process known as Big Bang nucleosynthesis.",
+      "About 380,000 years after the Big Bang, the universe cooled enough for electrons and nuclei to combine into neutral atoms. This allowed photons to travel freely, producing the Cosmic Microwave Background—the oldest light we can observe.",
+      "Over time, gravity amplified slight density variations in the plasma, leading to the formation of stars, galaxies, and large-scale structures.",
+      "Key evidence supporting the Big Bang includes the expansion of space (observed via galaxy redshifts), the abundance of light elements, and the precise measurements of the Cosmic Microwave Background by missions such as COBE, WMAP, and Planck.",
+      "Modern cosmological models (ΛCDM) incorporate dark matter and dark energy, explaining current observations of cosmic acceleration, geometry, and composition."
+    ],
+    "sources": [
+      {
+        "title": "NASA – The Big Bang",
+        "url": "https://science.nasa.gov/universe/the-big-bang/"
+      },
+      {
+        "title": "NASA WMAP – Age of the Universe",
+        "url": "https://wmap.gsfc.nasa.gov/universe/uni_age.html"
+      },
+      {
+        "title": "NASA Science – Cosmic History & Nucleosynthesis",
+        "url": "https://science.nasa.gov/mission/webb/early-universe/"
+      },
+      {
+        "title": "ESA – Planck and the cosmic microwave background",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosmic_microwave_background"
+      },
+      {
+        "title": "ESA/Hubble Wordbank – Big Bang",
+        "url": "https://esahubble.org/wordbank/big-bang/"
+      }
+    ]
+  },
+    {
+    "title": "Event Horizon",
+    "content": [
+      "An event horizon is the boundary around a black hole beyond which nothing—not even light—can escape. It marks the point where the escape velocity equals the speed of light.",
+      "From an outside observer's perspective, objects falling toward the horizon appear to slow down and redden due to gravitational time dilation and redshift, fading gradually but never seeming to cross the boundary.",
+      "In contrast, an object falling into the hole would cross the horizon in a finite time according to its own clock and would not experience any dramatic effects at that exact boundary in large black holes—no ‘wall’ or sudden force at the horizon itself.",
+      "The radius of a non-rotating black hole’s event horizon is called the Schwarzschild radius, which depends on the mass of the black hole: larger mass equals a larger horizon.",
+      "Once past the event horizon, all future paths lead inward—toward the singularity. Light cones tip inward, making escape physically impossible, trapping matter and information within.",
+      "The Event Horizon Telescope produced the first direct images of black hole shadows, observing the silhouette of the M87* and Sagittarius A* supermassive black holes, providing strong evidence for the existence and properties of event horizons.",
+      "Event horizons are not material surfaces but mathematical boundaries derived from spacetime geometry. Quantum effects near horizons—such as Hawking radiation—cause black holes to slowly evaporate over extremely long timescales."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Black Hole Anatomy",
+        "url": "https://science.nasa.gov/universe/black-holes/anatomy/"
+      },
+      {
+        "title": "ESA – Black holes (including event horizon)",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Black_holes"
+      },
+      {
+        "title": "Space.com – What is a black hole event horizon",
+        "url": "https://www.space.com/black-holes-event-horizon-explained.html"
+      },
+      {
+        "title": "ESA – Event Horizon Telescope Black Hole Shadow",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Black_holes"
+      },
+      {
+        "title": "NASA Science – What Happens When Something Gets Too Close to a Black Hole?",
+        "url": "https://science.nasa.gov/universe/what-happens-when-something-gets-too-close-to-a-black-hole/"
+      }
+    ]
+  },
+    {
+    "title": "Gravitational Lensing",
+    "content": [
+      "Gravitational lensing occurs when a massive object—such as a galaxy, galaxy cluster, or black hole—bends and magnifies the light from a more distant background source. This bending happens because massive objects warp the fabric of spacetime, altering the path that light takes as it travels.",
+      "There are three main types of gravitational lensing. Strong lensing creates highly visible effects, such as arcs, multiple images, or complete Einstein rings. Weak lensing causes subtle distortions in the shapes of many background galaxies and is a valuable tool for mapping the distribution of dark matter. Microlensing results in brief changes in a star’s brightness when a smaller object, like a planet or brown dwarf, passes in front of it.",
+      "Strong gravitational lenses act as natural telescopes, allowing astronomers to observe extremely distant and faint galaxies by magnifying them. Some of the farthest known galaxies have been discovered this way.",
+      "Weak lensing surveys, such as those from the Dark Energy Survey and ESA’s Euclid mission, help trace large-scale structures and reveal how dark matter is distributed across the universe. This helps cosmologists understand the evolution of cosmic structures and the influence of dark energy.",
+      "Microlensing has been used to detect exoplanets and free-floating planets, especially in regions like the Galactic Bulge. These observations don’t require the planet to emit light—only that it briefly magnify a background star.",
+      "Gravitational lensing is not only a tool for discovery but also a powerful method to test general relativity on cosmic scales. It provides direct evidence of dark matter and helps refine measurements of the universe’s expansion rate."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Hubble Gravitational Lenses",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/"
+      },
+      {
+        "title": "ESA/Hubble – Gravitational Lensing Wordbank",
+        "url": "https://esahubble.org/wordbank/gravitational-lensing/"
+      },
+      {
+        "title": "NASA – Shining a Light on Dark Matter via Lensing",
+        "url": "https://science.nasa.gov/mission/hubble/science/science-highlights/shining-a-light-on-dark-matter/"
+      },
+      {
+        "title": "Harvard CfA – Gravitational Lensing",
+        "url": "https://www.cfa.harvard.edu/research/topic/gravitational-lensing"
+      },
+      {
+        "title": "ESA – Euclid Mission and Gravitational Lensing",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid"
+      }
+    ]
   }
 ]
