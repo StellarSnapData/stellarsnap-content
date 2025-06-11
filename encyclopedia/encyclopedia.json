@@ -845,5 +845,164 @@
         "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid"
       }
     ]
+  },
+    {
+    "title": "Einstein Ring",
+    "content": [
+      "An Einstein ring is a rare form of strong gravitational lensing, created when a distant light source (such as a galaxy or quasar), a massive foreground lensing object, and the observer are nearly perfectly aligned, causing the background light to form a circular ring.",
+      "The foreground object's gravity symmetrically bends the light from the background source; when alignment is precise, complete or partial rings—known as Einstein rings—appear.",
+      "Einstein rings act as powerful cosmic magnifiers—revealing extremely distant objects by boosting their apparent brightness and enabling detailed study of their properties.",
+      "Surveys like SLACS have discovered hundreds of Einstein rings. Notable examples include the “Cosmic Horseshoe” and the double-ring system SDSS J0946+1006 imaged by Hubble.",
+      "In February 2025, ESA’s Euclid mission captured a striking Einstein ring around galaxy NGC 6505, about 590 million light-years away—a rare and detailed view of space warping and mass distribution.",
+      "High-resolution rings—such as Euclid’s recent image and detailed Hubble observations—provide deep insights into the distribution of dark matter and constraints on cosmic expansion.",
+      "Beyond natural lenses, theoretical proposals suggest using the Sun as a gravitational lens at around 550 astronomical units, enabling ultra‑high‑resolution imaging of exoplanets."
+    ],
+    "sources": [
+      {
+        "title": "ESA – Euclid discovers a stunning Einstein ring",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring"
+      },
+      {
+        "title": "ESA – Rings of relativity (Molten Ring)",
+        "url": "https://www.esa.int/ESA_Multimedia/Images/2021/09/Rings_of_relativity"
+      },
+      {
+        "title": "NASA – A Gallery of Einstein Rings",
+        "url": "https://science.nasa.gov/asset/hubble/a-gallery-of-einstein-rings/"
+      },
+      {
+        "title": "NASA – Hubble Finds Double Einstein Ring",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-finds-double-einstein-ring/"
+      },
+      {
+        "title": "ESA – Euclid mission overview",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid"
+      }
+    ]
+  },
+    {
+    "title": "Emission Nebula",
+    "content": [
+      "An emission nebula is a glowing cloud of ionized gas that emits its own light when energized by nearby hot stars, particularly their ultraviolet radiation which strips electrons from hydrogen and other elements, causing the gas to shine in distinctive colors such as red from H‑alpha emissions.",
+      "These nebulae typically form in regions where massive, young O‑ or B‑type stars have recently been born; their intense radiation both sculpts the gas into features like cavities and pillars and can trigger further star formation through pressure waves.",
+      "They belong to a broader class known as H II regions—vast stretches of ionized hydrogen—that mark active stellar nurseries, seen in iconic examples like the Orion Nebula and NGC 1858 in the Large Magellanic Cloud.",
+      "Famous emission nebulae include the Bubble Nebula (NGC 7635), where a central massive star creates a spherical bubble in the surrounding gas, and the Trifid and Crescent Nebulae, which are rich laboratories of stellar evolution and gas dynamics.",
+      "In visible-light observations, emission nebulae often display vivid red hues from hydrogen emissions, alongside greens and blues from ionized oxygen and sulfur; recent imagery from NASA and ESA missions like Hubble and Webb reveal even more complex structures and infrared details.",
+      "These nebulae are not just static clouds—they are dynamic and evolving, as ongoing stellar winds, radiation pressure, and gravity interact to form new stars, carve intricate shapes, and disperse gas back into the galaxy."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Hubble’s Nebulae (Emission Nebulae explanation)",
+        "url": "https://science.nasa.gov/mission/hubble/science/universe-uncovered/hubble-nebulae/"
+      },
+      {
+        "title": "NASA – Decoding Nebulae (Emission Nebula overview)",
+        "url": "https://science.nasa.gov/universe/decoding-nebulae/"
+      },
+      {
+        "title": "NASA – Hubble Spies Emission Nebula–Star Cluster Duo (NGC 1858)",
+        "url": "https://science.nasa.gov/missions/hubble/hubble-spies-emission-nebula-star-cluster-duo/"
+      },
+      {
+        "title": "ESA/Hubble – The Bubble Nebula (NGC 7635)",
+        "url": "https://esahubble.org/images/heic1608a/"
+      }
+    ]
+  },
+    {
+    "title": "Galileo Galilei",
+    "content": [
+      "Galileo Galilei (1564–1642) was an Italian astronomer, physicist, and mathematician often regarded as the ‘father of modern science’. He pioneered the use of telescopic observations and mathematical analysis to understand nature, laying critical groundwork for the scientific method.",
+      "Born in Pisa on February 15, 1564, he studied at the University of Pisa and later lectured at the University of Padua from 1592. There he conducted experiments on motion and mechanics that challenged Aristotelian physics.",
+      "In 1609 he built an improved refracting telescope. In March 1610, he published *Sidereus Nuncius*, detailing discoveries that included lunar mountains and craters, the phases of Venus, sunspots, and four moons orbiting Jupiter—the Galilean satellites.",
+      "His observations of Venus’s phases, incompatible with the Ptolemaic system, provided strong evidence for heliocentrism.",
+      "Galileo formulated early laws of motion—such as the law of falling bodies and the concept of inertia—that anticipated Newtonian mechanics.",
+      "Because of his outspoken defense of the Copernican model, he was tried by the Roman Inquisition in 1633, found “vehemently suspect of heresy,” forced to recant, and spent the remainder of his life under house arrest.",
+      "His legacy spans observational astronomy, physics, and scientific methodology, inspiring generations to follow empirical and mathematical inquiry into nature."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Galileo’s Observations of the Moon, Jupiter, Venus and the Sun",
+        "url": "https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/"
+      },
+      {
+        "title": "NASA – Galileo’s Phases of Venus and Other Planets",
+        "url": "https://science.nasa.gov/resource/galileos-phases-of-venus-and-other-planets/"
+      },
+      {
+        "title": "NASA – 410 Years Ago: Galileo Discovers Jupiter's Moons",
+        "url": "https://www.nasa.gov/history/410-years-ago-galileo-discovers-jupiters-moons/"
+      },
+      {
+        "title": "Stanford Encyclopedia of Philosophy – Galileo Galilei",
+        "url": "https://plato.stanford.edu/entries/galileo/"
+      }
+    ]
+  },
+    {
+    "title": "Hubble Space Telescope",
+    "content": [
+      "The Hubble Space Telescope (HST) is a joint NASA and ESA observatory launched on April 24, 1990, aboard the Space Shuttle Discovery (STS‑31). Positioned in low Earth orbit at about 547 kilometers altitude, Hubble avoids atmospheric distortion and captures high-resolution observations in ultraviolet, visible, and near-infrared light.",
+      "Named after American astronomer Edwin Hubble, the telescope was inspired by Lyman Spitzer’s 1946 proposal to place telescopes in space. Hubble features a 2.4-meter primary mirror and a suite of scientific instruments designed to be upgraded during space servicing missions.",
+      "Soon after deployment, a flaw was discovered in the shape of its primary mirror, which was corrected by astronauts during the first servicing mission in 1993. Over its lifetime, Hubble received five servicing missions, which not only fixed technical issues but also significantly upgraded its capabilities.",
+      "Hubble has transformed our understanding of the universe. It helped determine the age of the universe (~13.8 billion years), provided evidence for the acceleration of cosmic expansion due to dark energy, revealed the presence of supermassive black holes in galaxies, and observed planets outside our solar system.",
+      "Iconic images captured by Hubble—such as the Pillars of Creation and the Hubble Deep Field—have expanded public engagement with space and allowed astronomers to peer billions of years into the past, studying galaxy formation and cosmic evolution.",
+      "Now operating alongside the James Webb Space Telescope, Hubble continues to provide critical observations despite aging hardware, including issues with gyroscopes. Its contributions to astronomy remain unparalleled, offering a legacy of scientific discovery and technological achievement."
+    ],
+    "sources": [
+      {
+        "title": "NASA – About Hubble",
+        "url": "https://science.nasa.gov/mission/hubble/overview/about-hubble/"
+      },
+      {
+        "title": "ESA/Hubble – Fact Sheet",
+        "url": "https://esahubble.org/about/general/fact_sheet/"
+      },
+      {
+        "title": "NASA – Hubble: An Overview of the Space Telescope",
+        "url": "https://science.nasa.gov/mission/hubble/multimedia/e-books/hubble-an-overview-of-the-space-telescope/"
+      },
+      {
+        "title": "NASA – The History of Hubble",
+        "url": "https://science.nasa.gov/mission/hubble/overview/the-history-of-hubble/"
+      },
+      {
+        "title": "ESA – Hubble overview",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_overview"
+      }
+    ]
+  },
+    {
+    "title": "James Webb Space Telescope",
+    "content": [
+      "The James Webb Space Telescope (JWST) is the most powerful space observatory ever built. It was launched on December 25, 2021, aboard an Ariane 5 rocket from Europe’s spaceport in French Guiana, and is a collaboration between NASA, ESA, and the Canadian Space Agency (CSA). JWST operates from the second Sun–Earth Lagrange point (L2), about 1.5 million kilometers from Earth.",
+      "Designed for infrared astronomy, JWST features a 6.5-meter primary mirror composed of 18 hexagonal, gold-coated beryllium segments. A five-layer sunshield the size of a tennis court protects the instruments from solar heat, allowing it to detect faint thermal signals from distant galaxies and exoplanets.",
+      "After completing a six-month deployment and calibration phase, JWST began full operations in mid-2022. Its four main instruments—including NIRCam and MIRI—enable observations of the first galaxies formed after the Big Bang, as well as regions where stars and planetary systems are actively forming.",
+      "Among JWST’s early achievements is the first deep-field image of galaxy cluster SMACS 0723, which revealed thousands of galaxies and offered the deepest infrared view of the universe to date.",
+      "JWST is also capable of detailed spectroscopy of exoplanet atmospheres, revealing their chemical compositions and potential signs of habitability. Its sensitivity and resolution have enabled discoveries in early galaxy evolution, star formation, and planetary system development.",
+      "Although limited by its fuel supply to an estimated 5–10 year mission duration, JWST is poised to dramatically expand our understanding of cosmic history—from the formation of the first stars to the chemical fingerprints of alien worlds."
+    ],
+    "sources": [
+      {
+        "title": "ESA – Webb",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb"
+      },
+      {
+        "title": "NASA Science – James Webb Space Telescope Mission Overview",
+        "url": "https://science.nasa.gov/mission/webb/"
+      },
+      {
+        "title": "STScI – NASA's James Webb Space Telescope",
+        "url": "https://www.stsci.edu/jwst"
+      },
+      {
+        "title": "NASA Science – Webb Key Facts International",
+        "url": "https://science.nasa.gov/mission/webb/key-facts-international/"
+      },
+      {
+        "title": "ESA/Hubble Wordbank – James Webb Space Telescope",
+        "url": "https://esahubble.org/wordbank/james-webb-space-telescope/"
+      }
+    ]
   }
 ]
