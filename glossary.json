@@ -809,6 +809,11 @@
   "term": "The Moon",
   "definition": "The Moon is Earth’s only natural satellite—a rocky, cratered body about one‑quarter the diameter of Earth, orbiting at an average distance of approximately 384,400 km. It influences tides, stabilizes Earth’s axial tilt, and was formed about 4.5 billion years ago following a collision between Earth and a Mars-sized object.",
   "source": "https://science.nasa.gov/moon/"
+  },
+  {
+  "term": "Mars",
+  "definition": "Mars is the fourth planet from the Sun and the seventh largest in the Solar System. A cold, dusty desert world with a thin atmosphere (mostly CO₂), the planet features extinct volcanoes, deep canyons, polar ice caps, and seasons. Mars has two small moons (Phobos and Deimos), a day just over 24 hours long, and a year lasting about 687 Earth days. It is a prime focus of robotic exploration and studies about past water and habitability.",
+  "source": "https://science.nasa.gov/mars/facts/"
   }
 ]
   
