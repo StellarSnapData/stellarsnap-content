@@ -1004,5 +1004,71 @@
         "url": "https://esahubble.org/wordbank/james-webb-space-telescope/"
       }
     ]
+  },
+    {
+    "title": "Andromeda Galaxy (M31)",
+    "content": [
+      "The Andromeda Galaxy, also known as Messier 31 or M31, is the closest large spiral galaxy to the Milky Way, located about 2.5 million light-years away in the constellation Andromeda.",
+      "It is a barred spiral galaxy with a diameter of approximately 200,000 to 260,000 light-years and contains around one trillion stars, making it the most massive galaxy in the Local Group, which also includes the Milky Way, Triangulum Galaxy, and about 50 smaller galaxies.",
+      "Under dark skies, Andromeda is visible to the naked eye as a faint, elongated smudge—its apparent size on the sky spans more than six times the diameter of the full Moon. A panoramic Hubble mosaic captured more than 100 million stars across a 40,000-light-year swath of its disk.",
+      "Observations from Hubble and other observatories have revealed Andromeda’s rich and turbulent history, including remnants of smaller galaxies it has absorbed and an enormous halo of hot gas that extends far beyond its visible disk.",
+      "The Andromeda Galaxy is approaching the Milky Way at about 110 kilometers per second, and while a direct collision is likely in about 4 to 5 billion years, recent studies suggest there is a possibility the two galaxies could instead pass near each other or merge in a more complex interaction.",
+      "Due to its proximity and similarities to the Milky Way, Andromeda serves as a vital reference for understanding spiral galaxy formation, structure, and future cosmic evolution—including the eventual fate of our own galaxy."
+    ],
+    "sources": [
+      {
+        "title": "NASA – Messier 31 (Andromeda Galaxy)",
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
+      },
+      {
+        "title": "ESA – Hubble traces hidden history of the Andromeda Galaxy",
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Hubble_traces_hidden_history_of_the_Andromeda_Galaxy"
+      },
+      {
+        "title": "NASA – The Galaxy Next Door",
+        "url": "https://www.nasa.gov/image-article/galaxy-next-door/"
+      },
+      {
+        "title": "NASA – Hubble provides bird's-eye view of Andromeda's ecosystem",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/"
+      },
+      {
+        "title": "STScI / ESA – Panoramic Hubble photomosaic of Andromeda",
+        "url": "https://esahubble.org/images/heic2501a/"
+      }
+    ]
+  },
+    {
+    "title": "Aurora",
+    "content": [
+      "An aurora is a natural light display—commonly known as the Northern Lights (aurora borealis) or Southern Lights (aurora australis)—that occurs near polar regions when charged particles from the Sun interact with Earth's magnetosphere and upper atmosphere.",
+      "These particles, primarily electrons and protons, are carried by the solar wind or released during events like coronal mass ejections. They are funneled by Earth's magnetic field toward the polar regions, where they collide with atoms of oxygen and nitrogen in the upper atmosphere, causing those atoms to emit visible light.",
+      "The specific colors of an aurora depend on which gas is excited and at what altitude. Green, the most common auroral color, results from oxygen at about 100–300 km altitude. Red auroras come from oxygen higher up, while nitrogen can produce blue or purple hues.",
+      "Auroras appear in many forms, including arcs, curtains, rays, and coronas. Their dynamic shapes are influenced by fluctuations in the magnetosphere, which are often driven by variations in solar activity.",
+      "While auroras are visually captivating, they also signal space weather conditions. Strong geomagnetic storms that intensify auroras can interfere with satellite electronics, GPS signals, radio communications, and even power grids on Earth.",
+      "Auroral displays are not unique to Earth. Other planets with magnetic fields and atmospheres, such as Jupiter and Saturn, also exhibit auroras. Observations from ESA's Cluster mission and various NASA spacecraft continue to advance our understanding of how auroras form and behave."
+    ],
+    "sources": [
+      {
+        "title": "NASA – What is the Aurora? (poster)",
+        "url": "https://pwg.gsfc.nasa.gov/polar/EPO/auroral_poster/aurora_all.pdf"
+      },
+      {
+        "title": "NOAA/SPWC – Aurora Tutorial",
+        "url": "https://www.swpc.noaa.gov/content/aurora-tutorial"
+      },
+      {
+        "title": "NASA JPL – How Auroras Form",
+        "url": "https://www.jpl.nasa.gov/nmp/st5/SCIENCE/aurora.html"
+      },
+      {
+        "title": "ESA – Beautiful science with astronaut aurora",
+        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Beautiful_science_with_astronaut_aurora"
+      },
+      {
+        "title": "UCAR SciEd – Auroras: The Northern and Southern Lights",
+        "url": "https://scied.ucar.edu/learning-zone/sun-space-weather/aurora"
+      }
+    ]
   }
 ]
