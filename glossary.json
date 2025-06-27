@@ -809,6 +809,79 @@
   "term": "Mars",
   "definition": "Mars is the fourth planet from the Sun and the seventh largest in the Solar System. A cold, dusty desert world with a thin atmosphere (mostly CO₂), the planet features extinct volcanoes, deep canyons, polar ice caps, and seasons. Mars has two small moons (Phobos and Deimos), a day just over 24 hours long, and a year lasting about 687 Earth days. It is a prime focus of robotic exploration and studies about past water and habitability.",
   "source": "https://science.nasa.gov/mars/facts/"
+  },
+  {
+  "term": "Messier 109",
+  "definition": "Messier 109 (M109), also known as NGC 3992, is a barred spiral galaxy located roughly 60 million light‑years away in the constellation Ursa Major. It spans about 120,000 light‑years in diameter and is the brightest member of the M109 galaxy group. Notable features include a distinct central bar, spiral arms, and three possible satellite galaxies.",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-109/"
+  },{
+  "term": "Phecda",
+  "definition": "Phecda (Gamma Ursae Majoris) is a white A0 Ve main-sequence star located about 83 light‑years from Earth. It marks the lower-left corner of the Big Dipper’s bowl in the constellation Ursa Major, is a member of the Ursa Major moving group, and is part of an astrometric binary system with a K‑type companion orbiting every ~20 years.",
+  "source": "https://noirlab.edu/public/education/constellations/ursa-major/"
+  },
+  {
+  "term": "Seagull Nebula",
+  "definition": "The Seagull Nebula (IC 2177) is an extensive emission and reflection nebula in the constellation Monoceros, spanning roughly 200–240 light‑years. Illuminated by embedded massive stars—such as HD 53367 at its head—it forms a shape resembling a seagull in flight and lies about 3,800 light‑years from Earth.",
+  "source": "https://www.nasa.gov/image-article/matter-of-perspective/"
+  },{
+  "term": "Messier 8",
+  "definition": "Messier 8 (M8), commonly known as the Lagoon Nebula, is a vast emission nebula and stellar nursery located about 5,200 light‑years away in the constellation Sagittarius. Spanning approximately 110 by 50 light‑years, it is ionized by embedded massive stars, creating bright, colorful gas clouds interspersed with dark dust lanes and pockets.",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-8/"
+  },
+  {
+  "term": "Messier 20",
+  "definition": "Messier 20, commonly known as the Trifid Nebula, is a composite nebula in the constellation Sagittarius located about 9,000 light‑years from Earth. It features three distinct components—an emission nebula, a reflection nebula, and dark dust lanes that divide it into three lobes—making it a prominent site of ongoing star formation.",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-20/"
+  },
+  {
+  "term": "European Southern Observatory",
+  "definition": "The European Southern Observatory (ESO) is an intergovernmental organization founded in 1962 and supported by 16 member states and host country Chile. ESO designs, builds, and operates some of the world's most advanced ground-based astronomical observatories—such as La Silla, Paranal (home to the Very Large Telescope and other survey instruments), and the Atacama Large Millimeter/submillimeter Array (ALMA)—and is currently constructing the Extremely Large Telescope (ELT).",
+  "source": "https://www.eso.org/public/about-eso/"
+  },
+  {
+  "term": "Messier 61",
+  "definition": "Messier 61 (M61), also known as NGC 4303, is a barred spiral galaxy located roughly 55 million light‑years away in the constellation Virgo. With a diameter of about 100,000 light‑years—comparable to the Milky Way—it is a starburst galaxy featuring intense star formation regions in its spiral arms and hosting at least six supernovae. It also contains a supermassive black hole at its core.",
+  "source": "https://science.nasa.gov/image-detail/messier-61-looks-straight-into-the-camera/"
+  },
+  {
+  "term": "NEOWISE",
+  "definition": "NEOWISE (Near‑Earth Object Wide‑field Infrared Survey Explorer) is a NASA mission that repurposed the WISE spacecraft, initially launched in 2009, to detect and characterize asteroids and comets. Using infrared sensors operating at 3.4 and 4.6 µm wavelengths, NEOWISE has cataloged hundreds of thousands of minor planets—including Near‑Earth Objects—providing critical data on their sizes, orbits, and compositions.",
+  "source": "https://science.nasa.gov/mission/neowise/"
+  },
+  {
+  "term": "Westerhout 5",
+  "definition": "Westerhout 5 (also known as the Soul Nebula, IC 1848) is a large H II emission nebula and star-forming region in Cassiopeia, located about 6,500–7,000 light‑years from Earth. It spans roughly 100 light‑years and contains cavities, pillars, and evaporating gaseous globules sculpted by the radiation and winds of massive young stars.",
+  "source": "https://photojournal.jpl.nasa.gov/catalog/PIA13112"
+  },
+  {
+  "term": "Cassiopeia",
+  "definition": "Cassiopeia is a prominent northern constellation named after the vain queen of Greek mythology. Notable for its distinctive “W” asterism formed by five bright stars, it lies along the plane of the Milky Way and contains many deep-sky objects, including the supernova remnant Cassiopeia A and star‑forming regions such as IC 63.",
+  "source": "https://www.nasa.gov/image-article/constellation-cassiopeia"
+  },
+  {
+  "term": "Martian spherules",
+  "definition": "Martian spherules are small, rounded mineral concretions—typically millimeter-sized—found in rocks on Mars. Discovered by the Perseverance rover (and earlier by Opportunity), these spheres include gray iron‑rich “blueberries” and newer spherules with pinholes, indicating past groundwater activity or volcanic processes.",
+  "source": "https://science.nasa.gov/blog/shocking-spherules/"
+  },
+  {
+  "term": "Opportunity",
+  "definition": "Opportunity was a NASA Mars rover, part of the Mars Exploration Rover mission, that landed in Meridiani Planum on January 25, 2004. Originally designed for a 90‑sol mission, it operated for nearly 15 years—more than 5,000 sols—traversing over 45 km and providing strong evidence that Mars once held liquid water. It ceased communications after a global dust storm in June 2018 and was declared complete in February 2019.",
+  "source": "https://science.nasa.gov/mission/mer-opportunity/"
+  },
+  {
+  "term": "NGC 3521",
+  "definition": "NGC 3521 is a flocculent (patchy-armed) spiral galaxy located in the constellation Leo, approximately 26–40 million light‑years from Earth. It spans about 50,000 light‑years and is viewed nearly face‑on. The galaxy features a soft, “woolly” appearance due to its discontinuous spiral arms, with regions of active star formation spread throughout.",
+  "source": "https://science.nasa.gov/image-detail/28456416878-a79dfd7560-o/"
+  },
+  {
+  "term": "International Space Station",
+  "definition": "The International Space Station (ISS) is a modular space laboratory in low Earth orbit, jointly operated by NASA, Roscosmos, ESA, JAXA, and CSA. Launched beginning in 1998, it has been continuously inhabited since November 2000 and supports cutting-edge research in microgravity, Earth observation, and space technology, while fostering international cooperation.",
+  "source": "https://www.nasa.gov/international-space-station/"
+  },
+  {
+  "term": "Rosette Nebula",
+  "definition": "The Rosette Nebula (NGC 2237–39, 2244) is a large H II region and stellar nursery about 5,200 light‑years away in the constellation Monoceros. Spanning roughly 100 light‑years, it consists of a central cavity surrounded by ionized gas illuminated and sculpted by the young star cluster NGC 2244, with pillars, cavities, and ongoing star formation.",
+  "source": "https://science.nasa.gov/asset/hubble/rosette-nebula-context-image/"
   }
 ]
   
