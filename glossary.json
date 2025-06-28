@@ -882,6 +882,11 @@
   "term": "Rosette Nebula",
   "definition": "The Rosette Nebula (NGC 2237–39, 2244) is a large H II region and stellar nursery about 5,200 light‑years away in the constellation Monoceros. Spanning roughly 100 light‑years, it consists of a central cavity surrounded by ionized gas illuminated and sculpted by the young star cluster NGC 2244, with pillars, cavities, and ongoing star formation.",
   "source": "https://science.nasa.gov/asset/hubble/rosette-nebula-context-image/"
+  },
+  {
+  "term": "Lunar Reconnaissance Orbiter",
+  "definition": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft launched on June 18, 2009. It operates in a low polar orbit around the Moon and is mapping the lunar surface in unprecedented detail, measuring topography, radiation, temperature, and resources. Its data help identify safe landing sites, locate water ice in shadowed regions, and support future human and robotic exploration.",
+  "source": "https://science.nasa.gov/mission/lro/"
   }
 ]
   
