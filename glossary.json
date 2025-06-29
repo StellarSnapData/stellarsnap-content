@@ -887,6 +887,26 @@
   "term": "Lunar Reconnaissance Orbiter",
   "definition": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft launched on June 18, 2009. It operates in a low polar orbit around the Moon and is mapping the lunar surface in unprecedented detail, measuring topography, radiation, temperature, and resources. Its data help identify safe landing sites, locate water ice in shadowed regions, and support future human and robotic exploration.",
   "source": "https://science.nasa.gov/mission/lro/"
+  },
+  {
+  "term": "Mars Reconnaissance Orbiter",
+  "definition": "The Mars Reconnaissance Orbiter (MRO) is a NASA spacecraft launched in 2005 that has been orbiting Mars since 2006. It conducts high-resolution imaging and analysis of the planet’s surface, subsurface, and atmosphere, searching for signs of past water and identifying potential landing sites for future missions.",
+  "source": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/"
+  },
+  {
+  "term": "Tarantula Nebula",
+  "definition": "The Tarantula Nebula (also known as NGC 2070 or 30 Doradus) is the largest and most active star-forming region in the Local Group, located in the Large Magellanic Cloud about 160,000–170,000 light‑years away. Spanning roughly 600 light‑years, it hosts massive young star clusters like R136, contains some of the most massive stars known (up to ~200 M☉), and is shaped by intense radiation, stellar winds, and supernovae.",
+  "source": "https://science.nasa.gov/image-detail/24077659028-d39b9c4d04-o/"
+  },
+  {
+  "term": "Satellite galaxy",
+  "definition": "A satellite galaxy is a smaller galaxy, typically a dwarf, that is gravitationally bound and orbits a larger host galaxy. These companion galaxies may eventually be tidally disrupted or merge with their hosts, and often contain between a few thousand and a few billion stars.",
+  "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_s_decade_of_discoveries_unravelling_the_intricacies_of_our_galaxy"
+  },
+  {
+  "term": "Large Magellanic Cloud",
+  "definition": "The Large Magellanic Cloud (LMC) is a dwarf satellite galaxy of the Milky Way, located about 160,000–200,000 light‑years away in the southern constellations Dorado and Mensa. Roughly 10,000 light‑years across, it is rich in star-forming regions—such as the Tarantula Nebula—and contains billions of stars.",
+  "source": "https://science.nasa.gov/missions/hubble/large-magellanic-cloud/"
   }
 ]
   
