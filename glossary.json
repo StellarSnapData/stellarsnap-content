@@ -907,6 +907,31 @@
   "term": "Large Magellanic Cloud",
   "definition": "The Large Magellanic Cloud (LMC) is a dwarf satellite galaxy of the Milky Way, located about 160,000–200,000 light‑years away in the southern constellations Dorado and Mensa. Roughly 10,000 light‑years across, it is rich in star-forming regions—such as the Tarantula Nebula—and contains billions of stars.",
   "source": "https://science.nasa.gov/missions/hubble/large-magellanic-cloud/"
+  },
+  {
+  "term": "NGC 4651",
+  "definition": "NGC 4651, nicknamed the “Umbrella Galaxy,” is a spiral galaxy located in the constellation Coma Berenices about 50–70 million light‑years away. It displays an umbrella-shaped tidal stellar stream, stretching ~100,000 light‑years from its disk, formed from the remains of a smaller galaxy it accreted.",
+  "source": "https://science.nasa.gov/missions/hubble/hubble-captures-a-cannibal-galaxy/"
+  },
+  {
+  "term": "Polaris",
+  "definition": "Polaris, also known as the North Star, is a multiple-star system located nearly at the North Celestial Pole in the constellation Ursa Minor. Its brightest component, Polaris A, is a classical Cepheid variable supergiant approximately 430 light-years from Earth. The system appears nearly fixed in the sky, making it an important navigational reference.",
+  "source": "https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/"
+  },
+  {
+  "term": "Ursa Minor",
+  "definition": "Ursa Minor, Latin for 'Little Bear', is a small northern circumpolar constellation best known for containing Polaris—the current North Star—at the end of the Little Dipper’s handle. It spans 256 square degrees, is visible all year from northern latitudes, and has been used for navigation due to its stable position near the north celestial pole.",
+  "source": "https://noirlab.edu/public/education/constellations/ursa-minor/"
+  },
+  {
+  "term": "The Sun",
+  "definition": "The Sun is a yellow dwarf star (G2V), about 4.6 billion years old, and the dominant gravitational force in the Solar System. It has a diameter of roughly 1.4 million kilometers and contains around 99.8% of the Solar System’s mass. Nuclear fusion in its core converts hydrogen into helium, producing energy that warms the planets. Above the core lie the radiative and convective zones, followed by the visible photosphere (~5,500 °C), the chromosphere, and the much hotter corona (~2 million °C).",
+  "source": "https://science.nasa.gov/sun/facts/"
+  },
+  {
+  "term": "Apollo 16",
+  "definition": "Apollo 16 was NASA’s tenth crewed lunar landing mission and the fifth to land on the Moon. Launched on April 16, 1972, it touched down in the Descartes Highlands on April 21, carrying astronauts John Young and Charles Duke, with Ken Mattingly orbiting above. The mission’s objectives included geological fieldwork using the Lunar Roving Vehicle, deployment of surface experiments (ALSEP), and the return of nearly 96 kg of lunar samples. The mission concluded with a safe Earth splashdown on April 27, 1972.",
+  "source": "https://www.nasa.gov/missions/apollo/apollo-16-mission-details/"
   }
 ]
   
