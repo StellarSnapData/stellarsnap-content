@@ -1,5 +1,5 @@
 [
-    {
+  {
     "term": "New Horizons",
     "definition": "A NASA spacecraft launched in 2006 to study Pluto, its moons, and other objects in the Kuiper Belt. It performed a historic flyby of Pluto on July 14, 2015, providing the first close-up images of the dwarf planet.",
     "source": "https://www.nasa.gov/mission_pages/newhorizons/overview/index.html"
@@ -18,7 +18,7 @@
     "term": "Sputnik Planum",
     "definition": "A vast, icy plain on Pluto's surface, informally named after Earth's first artificial satellite, Sputnik. Characterized by its smooth, craterless terrain, it is believed to be composed primarily of nitrogen ice and exhibits signs of recent geological activity.",
     "source": "https://www.nasa.gov/image-article/image-of-plutos-vast-icy-plain-informally-called-sputnik-planum/"
-  },  
+  },
   {
     "term": "Binary Star System",
     "definition": "A system of two stars orbiting a common center of mass, bound together by gravitational forces.",
@@ -33,7 +33,8 @@
     "term": "Ultraviolet Radiation",
     "definition": "Electromagnetic radiation with wavelengths shorter than visible light, capable of ionizing atoms and molecules.",
     "source": "https://apod.nasa.gov/apod/ap250514.html"
-  },  {
+  },
+  {
     "term": "Milky Way",
     "definition": "The galaxy that contains our Solar System, characterized by its barred spiral structure with multiple spiral arms extending from a central bar.",
     "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
@@ -58,11 +59,11 @@
     "definition": "A cloud of ionized gas emitting light of various colors, often found in regions of active star formation and contributing to the reddish hues observed in galaxies.",
     "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_creates_richest_star_map_of_our_Galaxy_and_beyond"
   },
-{
-  "term": "Venera 14",
-  "definition": "A Soviet space probe launched on November 4, 1981, that successfully landed on Venus on March 5, 1982. It transmitted images and data from the Venusian surface, enduring extreme temperatures and pressures for 57 minutes.",
-  "source": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-110D"
-},
+  {
+    "term": "Venera 14",
+    "definition": "A Soviet space probe launched on November 4, 1981, that successfully landed on Venus on March 5, 1982. It transmitted images and data from the Venusian surface, enduring extreme temperatures and pressures for 57 minutes.",
+    "source": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1981-110D"
+  },
   {
     "term": "Phoebe Regio",
     "definition": "A geologically complex highland region near Venus' equator. It was the landing site of Venera 14 and features ridges, plains, and evidence of tectonic activity.",
@@ -78,7 +79,7 @@
     "definition": "A European Space Agency mission that orbited Venus from 2006 to 2014, conducting detailed studies of the planet's atmosphere and surface, and providing evidence of possible active volcanism.",
     "source": "https://www.esa.int/Science_Exploration/Space_Science/Venus_Express"
   },
-    {
+  {
     "term": "Mars Pathfinder",
     "definition": "A NASA mission that landed on Mars in July 1997 and deployed the Sojourner rover. It was designed to demonstrate a low-cost method for delivering scientific instruments to the Martian surface and to explore Mars' atmosphere, climate, geology, and composition.",
     "source": "https://mars.nasa.gov/MPF/"
@@ -177,12 +178,13 @@
     "term": "Taurus",
     "definition": "A prominent constellation in the northern sky, representing a bull. It contains notable astronomical objects, including the Crab Nebula and the Pleiades star cluster.",
     "source": "https://apod.nasa.gov/apod/ap231115.html"
-  },{
-  "term": "Irregular Galaxy",
-  "definition": "A galaxy that lacks a distinct regular shape, unlike spiral or elliptical galaxies. Irregular galaxies often result from gravitational interactions or collisions, leading to chaotic appearances without a defined structure. They typically contain abundant gas and dust, facilitating active star formation.",
-  "source": "https://science.nasa.gov/universe/galaxies/types/"
-}
-,  {
+  },
+  {
+    "term": "Irregular Galaxy",
+    "definition": "A galaxy that lacks a distinct regular shape, unlike spiral or elliptical galaxies. Irregular galaxies often result from gravitational interactions or collisions, leading to chaotic appearances without a defined structure. They typically contain abundant gas and dust, facilitating active star formation.",
+    "source": "https://science.nasa.gov/universe/galaxies/types/"
+  },
+  {
     "term": "Binary Black Hole",
     "definition": "A system of two black holes in close orbit around each other, emitting gravitational waves as they spiral inward and eventually merge. These systems are key sources for gravitational wave detectors like LIGO and Virgo.",
     "source": "https://www.nasa.gov/universe/new-nasa-visualization-probes-the-light-bending-dance-of-binary-black-holes/"
@@ -211,8 +213,8 @@
     "term": "Ultraviolet Light",
     "definition": "Electromagnetic radiation with wavelengths shorter than visible light but longer than X-rays. Ultraviolet observations are crucial for studying hot astronomical objects like accretion disks around black holes.",
     "source": "https://science.nasa.gov/ems/09_ultravioletwaves"
-  }
-  ,  {
+  },
+  {
     "term": "Venus",
     "definition": "The second planet from the Sun and one of the brightest objects in Earth’s night sky. Venus is often visible near sunrise or sunset and is commonly referred to as the 'morning star' or 'evening star.'",
     "source": "https://solarsystem.nasa.gov/planets/venus/overview/"
@@ -221,8 +223,7 @@
     "term": "Saturn",
     "definition": "The sixth planet from the Sun, known for its stunning ring system composed of ice particles, rock debris, and dust. Saturn is the second-largest planet in the Solar System and is visible to the naked eye under dark skies.",
     "source": "https://solarsystem.nasa.gov/planets/saturn/overview/"
-  }
-,
+  },
   {
     "term": "Kerr Black Hole",
     "definition": "A solution to Einstein's field equations that describes a rotating, uncharged black hole. Unlike non-rotating (Schwarzschild) black holes, Kerr black holes possess angular momentum, leading to unique features such as frame dragging and an ergosphere.",
@@ -247,8 +248,8 @@
     "term": "NGC 1365",
     "definition": "A barred spiral galaxy located approximately 56 million light-years away in the constellation Fornax. It hosts a supermassive black hole at its center, which has been observed to spin at nearly the maximum rate allowed by general relativity.",
     "source": "https://www.nasa.gov/mission_pages/nustar/news/nustar20130227.html"
-  }
-,  {
+  },
+  {
     "term": "Synchronous Rotation",
     "definition": "A state in which an object's orbital period matches its rotational period, causing the same side to always face the object it orbits. Titan, like Earth's Moon, exhibits synchronous rotation with Saturn.",
     "source": "https://science.nasa.gov/saturn/moons/titan/facts/"
@@ -268,7 +269,7 @@
     "definition": "A European Space Agency lander that separated from NASA's Cassini spacecraft and descended through Titan's atmosphere, landing on its surface in January 2005. It provided the first direct data from Titan's surface.",
     "source": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
   },
-    {
+  {
     "term": "NGC 346",
     "definition": "A young, massive star cluster located within the Small Magellanic Cloud (SMC), approximately 210,000 light-years from Earth. NGC 346 is the most active star-forming region in the SMC, hosting thousands of young stars and embedded within the nebula N66.",
     "source": "https://science.nasa.gov/asset/hubble/hubble-spots-stellar-sculptors-in-ngc-346/"
@@ -297,8 +298,8 @@
     "term": "NIRCam",
     "definition": "The Near-Infrared Camera aboard the James Webb Space Telescope, capable of capturing high-resolution images in the near-infrared spectrum. NIRCam has been instrumental in studying star formation in regions like NGC 346.",
     "source": "https://www.nasa.gov/universe/nasas-webb-uncovers-star-formation-in-clusters-dusty-ribbons/"
-  }
-,  {
+  },
+  {
     "term": "MESSENGER",
     "definition": "A NASA spacecraft that became the first to orbit Mercury. Launched in 2004, it entered Mercury’s orbit in 2011 and conducted detailed mapping and analysis of the planet’s surface, atmosphere, and magnetic field before its controlled crash in 2015.",
     "source": "https://www.nasa.gov/mission_pages/messenger/main/index.html"
@@ -318,12 +319,12 @@
     "definition": "A 48-kilometer-wide impact crater on Mercury located near the northeastern rim of the Shakespeare Basin. It is named after Czech composer Leoš Janáček.",
     "source": "https://planetarynames.wr.usgs.gov/Feature/7379"
   },
-    {
+  {
     "term": "Galileo Galilei",
     "definition": "An Italian astronomer and physicist who, in 1610, was the first to observe Saturn’s rings using a telescope. He described them as 'ears' due to the limitations of his optical instrument.",
     "source": "https://solarsystem.nasa.gov/people/9/galileo-galilei"
   },
-    {
+  {
     "term": "NGC 3572",
     "definition": "A young open star cluster embedded in a glowing emission nebula located in the constellation Carina, about 9,000 light-years away. It contains numerous hot, massive stars that illuminate the surrounding gas and sculpt the surrounding interstellar material.",
     "source": "https://www.eso.org/public/images/eso1310a/"
@@ -338,7 +339,7 @@
     "definition": "Dense, comet-shaped pillars of gas and dust within the emission nebula IC 410 in the constellation Auriga. These 'tadpoles' are being shaped by stellar winds and radiation and are potential sites of new star formation.",
     "source": "https://apod.nasa.gov/apod/ap110126.html"
   },
-    {
+  {
     "term": "IC 418",
     "definition": "A planetary nebula approximately 2,000 light-years away in the constellation Lepus, known as the Spirograph Nebula due to its intricate filamentary patterns. It is the ejected outer shell of a dying low- to intermediate-mass star.",
     "source": "https://hubblesite.org/contents/media/images/2000/27/1075-Image.html"
@@ -368,7 +369,7 @@
     "definition": "An image in which colors are assigned to represent specific wavelengths of light—often outside the visible range—to highlight physical processes or chemical compositions in astronomical objects.",
     "source": "https://hubblesite.org/resource-gallery/learning-resources/astronomy-basics/false-color-images"
   },
-    {
+  {
     "term": "HiRISE",
     "definition": "HiRISE (High Resolution Imaging Science Experiment) is a powerful camera aboard NASA's Mars Reconnaissance Orbiter. It captures high-resolution images of the Martian surface, allowing scientists to observe features as small as a kitchen table, aiding in the selection of landing sites and the study of Mars' geology.",
     "source": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/science-instruments/"
@@ -382,7 +383,8 @@
     "term": "Carl Sagan Memorial Station",
     "definition": "The Carl Sagan Memorial Station is the name given to the Mars Pathfinder lander after its successful touchdown on Mars in 1997. Named in honor of the late astronomer Carl Sagan, the station deployed the Sojourner rover to explore the Martian surface.",
     "source": "https://science.nasa.gov/mission/mars-pathfinder/"
-  },  {
+  },
+  {
     "term": "M101",
     "definition": "Messier 101 (M101), also known as the Pinwheel Galaxy, is a face-on spiral galaxy approximately 25 million light-years away in the constellation Ursa Major. Spanning about 170,000 light-years, it is nearly twice the size of the Milky Way and is characterized by its grand design spiral structure.",
     "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-101/"
@@ -397,7 +399,7 @@
     "definition": "Ursa Major, Latin for 'Great Bear,' is a prominent constellation in the northern sky. It is the third-largest constellation and contains the Big Dipper asterism, which is often used as a navigational aid due to its proximity to Polaris, the North Star.",
     "source": "https://science.nasa.gov/asset/hubble/constellation-ursa-major/"
   },
-    {
+  {
     "term": "Galactic Center",
     "definition": "The Galactic Center is the rotational center of the Milky Way galaxy, located approximately 25,000 light-years from Earth in the direction of the constellation Sagittarius. It is a densely populated region containing a supermassive black hole known as Sagittarius A*, surrounded by a high concentration of stars, gas, and dust.",
     "source": "https://www.nasa.gov/missions/ixpe/milky-ways-central-black-hole-woke-up-200-years-ago-nasas-ixpe-finds/"
@@ -411,7 +413,8 @@
     "term": "Sagittarius",
     "definition": "Sagittarius is a constellation in the southern sky that lies in the direction of the center of the Milky Way galaxy. It is rich in deep-sky objects and is home to Sagittarius A*, the supermassive black hole at the Milky Way’s core.",
     "source": "https://www.nasa.gov/feature/goddard/2020/constellations-sagittarius/"
-  },  {
+  },
+  {
     "term": "Hubble's Variable Nebula",
     "definition": "Hubble's Variable Nebula, also known as NGC 2261, is a reflection nebula located approximately 2,500 light-years away in the constellation Monoceros. It is illuminated by the young variable star R Monocerotis and is notable for its changing appearance over short periods, believed to be caused by shadows cast by moving dust clouds near the star.",
     "source": "https://www.constellation-guide.com/hubbles-variable-nebula-ngc-2261/"
@@ -431,7 +434,7 @@
     "definition": "Monoceros is a faint constellation on the celestial equator, introduced in the 17th century by the Dutch cartographer Petrus Plancius. Its name means 'unicorn' in Greek, and it lies near prominent constellations such as Orion and Canis Major.",
     "source": "https://www.britannica.com/place/Monoceros-astronomy"
   },
-    {
+  {
     "term": "Thor's Helmet",
     "definition": "Thor's Helmet, also known as NGC 2359, is an emission nebula located approximately 15,000 light-years away in the constellation Canis Major. Spanning about 30 light-years, this helmet-shaped cosmic cloud is formed by the powerful stellar winds from a central Wolf-Rayet star, which sculpt the surrounding molecular cloud into a bubble-like structure.",
     "source": "https://apod.nasa.gov/apod/ap240109.html"
@@ -450,7 +453,8 @@
     "term": "Canis Major",
     "definition": "Canis Major, Latin for 'Greater Dog,' is a prominent constellation in the southern sky. It is home to Sirius, the brightest star visible from Earth, and contains several notable deep-sky objects, including the emission nebula NGC 2359, also known as Thor's Helmet.",
     "source": "https://science.nasa.gov/universe/stars/types/"
-  },  {
+  },
+  {
     "term": "Solargraph",
     "definition": "A solargraph is a long-exposure photograph that captures the Sun's path across the sky over extended periods, often weeks or months. Utilizing a simple pinhole camera, such as one made from an aluminum can lined with photographic paper, solargraphs record continuous solar trails, revealing the Sun's movement and seasonal changes.",
     "source": "https://apod.nasa.gov/apod/ap090626.html"
@@ -490,7 +494,7 @@
     "definition": "Barnard's Loop is a large emission nebula in the constellation Orion, forming a semicircular arc around the Orion Nebula. It is part of the Orion molecular cloud complex and is believed to have been formed by a supernova explosion approximately 2 million years ago.",
     "source": "https://www.constellation-guide.com/barnards-loop/"
   },
-    {
+  {
     "term": "Rho Ophiuchi",
     "definition": "Rho Ophiuchi is a binary star system embedded within a colorful nebula, part of a nearby star-forming region approximately 400 light-years away, characterized by vibrant clouds of gas and dust.",
     "source": "https://apod.nasa.gov/apod/ap190513.html"
@@ -515,7 +519,7 @@
     "definition": "Mordor Macula is the informal name for the dark reddish area near Charon's north pole, possibly resulting from the accumulation of tholins or other complex organic molecules.",
     "source": "https://www.jpl.nasa.gov/images/pia19968-charon-in-enhanced-color/"
   },
-    {
+  {
     "term": "Centaurus",
     "definition": "Centaurus is a prominent constellation in the southern sky, representing a centaur from Greek mythology. It contains notable celestial objects, including Alpha Centauri, the closest star system to the Sun, and Omega Centauri, the largest globular cluster in the Milky Way.",
     "source": "https://noirlab.edu/public/education/constellations/centaurus/"
@@ -550,7 +554,7 @@
     "definition": "An Einstein ring is a phenomenon where the light from a distant object, such as a galaxy or quasar, is bent into a ring shape by the gravitational field of a massive foreground object, like another galaxy. This effect is a consequence of Einstein's theory of general relativity.",
     "source": "https://hyperphysics.phy-astr.gsu.edu/hbase/Astro/einring.html"
   },
-      {
+  {
     "term": "Loop Quantum Cosmology",
     "definition": "Loop Quantum Cosmology (LQC) is a theoretical framework that applies principles of loop quantum gravity to cosmological settings. It suggests that the classical Big Bang singularity is replaced by a quantum bounce, implying that the universe underwent a prior contracting phase before expanding.",
     "source": "https://ui.adsabs.harvard.edu/abs/2021EPJC...81..975M/abstract"
@@ -615,7 +619,7 @@
     "definition": "The Parker Solar Probe is a NASA spacecraft launched in 2018 to study the Sun's outer atmosphere. It is designed to withstand extreme heat and radiation as it approaches within 3.8 million miles of the solar surface, providing unprecedented data on solar activity and space weather.",
     "source": "https://science.nasa.gov/blogs/parker-solar-probe/"
   },
-    {
+  {
     "term": "Juno",
     "definition": "Juno is a NASA space probe launched on August 5, 2011, to study Jupiter. It entered a highly elliptical polar orbit around Jupiter on July 4, 2016, allowing it to investigate the planet's atmosphere, magnetic field, and gravitational field while minimizing exposure to Jupiter's intense radiation belts.",
     "source": "https://www.jpl.nasa.gov/missions/juno/"
@@ -625,7 +629,7 @@
     "definition": "NGC 2566 is a barred spiral galaxy located approximately 76 million light-years away in the constellation Puppis. It features a prominent central bar and spiral arms, and its appearance from Earth resembles a cosmic eye due to its tilted orientation.",
     "source": "https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/"
   },
-    {
+  {
     "term": "Retrograde motion",
     "definition": "Retrograde motion is the apparent backward movement of a planet across the sky, as observed from Earth. This optical illusion occurs when Earth, traveling in its orbit, overtakes an outer planet like Mars, making the planet appear to reverse direction temporarily against the backdrop of stars.",
     "source": "https://apod.nasa.gov/apod/ap141028.html"
@@ -640,7 +644,7 @@
     "definition": "Herbig-Haro 24 (HH 24) is a Herbig-Haro object consisting of narrow jets of partially ionized gas ejected by a young star, colliding with nearby interstellar clouds. Located in the Orion B molecular cloud complex, HH 24 is approximately 1,300 light-years from Earth and is notable for its symmetrical, double-lobed jet structure.",
     "source": "https://science.nasa.gov/asset/hubble/herbig-haro-jet-hh-24/"
   },
-    {
+  {
     "term": "UGC 1810",
     "definition": "UGC 1810 is a spiral galaxy located approximately 300 million light-years away in the constellation Andromeda. It is part of the interacting galaxy pair known as Arp 273, where its disk has been tidally distorted into a rose-like shape due to gravitational interactions with its companion galaxy, UGC 1813.",
     "source": "https://science.nasa.gov/image-detail/a-rose-made-of-galaxies/"
@@ -690,7 +694,7 @@
     "definition": "A solar filament is a large, elongated cloud of cooler, dense solar material suspended above the Sun's surface by magnetic forces. These structures can stretch for hundreds of thousands of kilometers and are often visible as dark lines when viewed against the solar disk.",
     "source": "https://solarscience.msfc.nasa.gov/feature2.shtml"
   },
-    {
+  {
     "term": "Andromeda Galaxy",
     "definition": "The Andromeda Galaxy (M31) is the nearest major galaxy to the Milky Way, located about 2.5 million light-years away. It is a spiral galaxy similar in structure to our own.",
     "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
@@ -755,7 +759,7 @@
     "definition": "The Spitzer Space Telescope was an infrared space observatory launched by NASA in 2003, which operated until 2020, providing insights into the early universe, exoplanets, and more.",
     "source": "https://www.jpl.nasa.gov/missions/spitzer-space-telescope"
   },
-    {
+  {
     "term": "Perseverance",
     "definition": "Perseverance is NASA’s Mars 2020 rover, launched July 30, 2020, and landed in Jezero Crater on February 18, 2021. Its mission is to search for signs of ancient microbial life, characterize Mars’ geology, and collect samples for potential return to Earth.",
     "source": "https://science.nasa.gov/mission/mars-2020-perseverance/"
@@ -796,147 +800,153 @@
     "source": "https://noirlab.edu/public/programs/vera-c-rubin-observatory/"
   },
   {
-  "term": "NGC 3344",
-  "definition": "NGC 3344 is a weakly barred spiral galaxy located approximately 20 million light-years away in the constellation Leo Minor. Seen nearly face‑on, it exhibits a central bar, fragmented spiral arms, regions of young blue star formation, and outer stellar behavior suggesting past galactic interactions.",
-  "source": "https://sci.esa.int/web/hubble/-/59982-a-lonely-beauty-heic1803"
+    "term": "NGC 3344",
+    "definition": "NGC 3344 is a weakly barred spiral galaxy located approximately 20 million light-years away in the constellation Leo Minor. Seen nearly face‑on, it exhibits a central bar, fragmented spiral arms, regions of young blue star formation, and outer stellar behavior suggesting past galactic interactions.",
+    "source": "https://sci.esa.int/web/hubble/-/59982-a-lonely-beauty-heic1803"
   },
   {
-  "term": "The Moon",
-  "definition": "The Moon is Earth’s only natural satellite—a rocky, cratered body about one‑quarter the diameter of Earth, orbiting at an average distance of approximately 384,400 km. It influences tides, stabilizes Earth’s axial tilt, and was formed about 4.5 billion years ago following a collision between Earth and a Mars-sized object.",
-  "source": "https://science.nasa.gov/moon/"
+    "term": "The Moon",
+    "definition": "The Moon is Earth’s only natural satellite—a rocky, cratered body about one‑quarter the diameter of Earth, orbiting at an average distance of approximately 384,400 km. It influences tides, stabilizes Earth’s axial tilt, and was formed about 4.5 billion years ago following a collision between Earth and a Mars-sized object.",
+    "source": "https://science.nasa.gov/moon/"
   },
   {
-  "term": "Mars",
-  "definition": "Mars is the fourth planet from the Sun and the seventh largest in the Solar System. A cold, dusty desert world with a thin atmosphere (mostly CO₂), the planet features extinct volcanoes, deep canyons, polar ice caps, and seasons. Mars has two small moons (Phobos and Deimos), a day just over 24 hours long, and a year lasting about 687 Earth days. It is a prime focus of robotic exploration and studies about past water and habitability.",
-  "source": "https://science.nasa.gov/mars/facts/"
+    "term": "Mars",
+    "definition": "Mars is the fourth planet from the Sun and the seventh largest in the Solar System. A cold, dusty desert world with a thin atmosphere (mostly CO₂), the planet features extinct volcanoes, deep canyons, polar ice caps, and seasons. Mars has two small moons (Phobos and Deimos), a day just over 24 hours long, and a year lasting about 687 Earth days. It is a prime focus of robotic exploration and studies about past water and habitability.",
+    "source": "https://science.nasa.gov/mars/facts/"
   },
   {
-  "term": "Messier 109",
-  "definition": "Messier 109 (M109), also known as NGC 3992, is a barred spiral galaxy located roughly 60 million light‑years away in the constellation Ursa Major. It spans about 120,000 light‑years in diameter and is the brightest member of the M109 galaxy group. Notable features include a distinct central bar, spiral arms, and three possible satellite galaxies.",
-  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-109/"
-  },{
-  "term": "Phecda",
-  "definition": "Phecda (Gamma Ursae Majoris) is a white A0 Ve main-sequence star located about 83 light‑years from Earth. It marks the lower-left corner of the Big Dipper’s bowl in the constellation Ursa Major, is a member of the Ursa Major moving group, and is part of an astrometric binary system with a K‑type companion orbiting every ~20 years.",
-  "source": "https://noirlab.edu/public/education/constellations/ursa-major/"
+    "term": "Messier 109",
+    "definition": "Messier 109 (M109), also known as NGC 3992, is a barred spiral galaxy located roughly 60 million light‑years away in the constellation Ursa Major. It spans about 120,000 light‑years in diameter and is the brightest member of the M109 galaxy group. Notable features include a distinct central bar, spiral arms, and three possible satellite galaxies.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-109/"
   },
   {
-  "term": "Seagull Nebula",
-  "definition": "The Seagull Nebula (IC 2177) is an extensive emission and reflection nebula in the constellation Monoceros, spanning roughly 200–240 light‑years. Illuminated by embedded massive stars—such as HD 53367 at its head—it forms a shape resembling a seagull in flight and lies about 3,800 light‑years from Earth.",
-  "source": "https://www.nasa.gov/image-article/matter-of-perspective/"
-  },{
-  "term": "Messier 8",
-  "definition": "Messier 8 (M8), commonly known as the Lagoon Nebula, is a vast emission nebula and stellar nursery located about 5,200 light‑years away in the constellation Sagittarius. Spanning approximately 110 by 50 light‑years, it is ionized by embedded massive stars, creating bright, colorful gas clouds interspersed with dark dust lanes and pockets.",
-  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-8/"
+    "term": "Phecda",
+    "definition": "Phecda (Gamma Ursae Majoris) is a white A0 Ve main-sequence star located about 83 light‑years from Earth. It marks the lower-left corner of the Big Dipper’s bowl in the constellation Ursa Major, is a member of the Ursa Major moving group, and is part of an astrometric binary system with a K‑type companion orbiting every ~20 years.",
+    "source": "https://noirlab.edu/public/education/constellations/ursa-major/"
   },
   {
-  "term": "Messier 20",
-  "definition": "Messier 20, commonly known as the Trifid Nebula, is a composite nebula in the constellation Sagittarius located about 9,000 light‑years from Earth. It features three distinct components—an emission nebula, a reflection nebula, and dark dust lanes that divide it into three lobes—making it a prominent site of ongoing star formation.",
-  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-20/"
+    "term": "Seagull Nebula",
+    "definition": "The Seagull Nebula (IC 2177) is an extensive emission and reflection nebula in the constellation Monoceros, spanning roughly 200–240 light‑years. Illuminated by embedded massive stars—such as HD 53367 at its head—it forms a shape resembling a seagull in flight and lies about 3,800 light‑years from Earth.",
+    "source": "https://www.nasa.gov/image-article/matter-of-perspective/"
   },
   {
-  "term": "European Southern Observatory",
-  "definition": "The European Southern Observatory (ESO) is an intergovernmental organization founded in 1962 and supported by 16 member states and host country Chile. ESO designs, builds, and operates some of the world's most advanced ground-based astronomical observatories—such as La Silla, Paranal (home to the Very Large Telescope and other survey instruments), and the Atacama Large Millimeter/submillimeter Array (ALMA)—and is currently constructing the Extremely Large Telescope (ELT).",
-  "source": "https://www.eso.org/public/about-eso/"
+    "term": "Messier 8",
+    "definition": "Messier 8 (M8), commonly known as the Lagoon Nebula, is a vast emission nebula and stellar nursery located about 5,200 light‑years away in the constellation Sagittarius. Spanning approximately 110 by 50 light‑years, it is ionized by embedded massive stars, creating bright, colorful gas clouds interspersed with dark dust lanes and pockets.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-8/"
   },
   {
-  "term": "Messier 61",
-  "definition": "Messier 61 (M61), also known as NGC 4303, is a barred spiral galaxy located roughly 55 million light‑years away in the constellation Virgo. With a diameter of about 100,000 light‑years—comparable to the Milky Way—it is a starburst galaxy featuring intense star formation regions in its spiral arms and hosting at least six supernovae. It also contains a supermassive black hole at its core.",
-  "source": "https://science.nasa.gov/image-detail/messier-61-looks-straight-into-the-camera/"
+    "term": "Messier 20",
+    "definition": "Messier 20, commonly known as the Trifid Nebula, is a composite nebula in the constellation Sagittarius located about 9,000 light‑years from Earth. It features three distinct components—an emission nebula, a reflection nebula, and dark dust lanes that divide it into three lobes—making it a prominent site of ongoing star formation.",
+    "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-20/"
   },
   {
-  "term": "NEOWISE",
-  "definition": "NEOWISE (Near‑Earth Object Wide‑field Infrared Survey Explorer) is a NASA mission that repurposed the WISE spacecraft, initially launched in 2009, to detect and characterize asteroids and comets. Using infrared sensors operating at 3.4 and 4.6 µm wavelengths, NEOWISE has cataloged hundreds of thousands of minor planets—including Near‑Earth Objects—providing critical data on their sizes, orbits, and compositions.",
-  "source": "https://science.nasa.gov/mission/neowise/"
+    "term": "European Southern Observatory",
+    "definition": "The European Southern Observatory (ESO) is an intergovernmental organization founded in 1962 and supported by 16 member states and host country Chile. ESO designs, builds, and operates some of the world's most advanced ground-based astronomical observatories—such as La Silla, Paranal (home to the Very Large Telescope and other survey instruments), and the Atacama Large Millimeter/submillimeter Array (ALMA)—and is currently constructing the Extremely Large Telescope (ELT).",
+    "source": "https://www.eso.org/public/about-eso/"
   },
   {
-  "term": "Westerhout 5",
-  "definition": "Westerhout 5 (also known as the Soul Nebula, IC 1848) is a large H II emission nebula and star-forming region in Cassiopeia, located about 6,500–7,000 light‑years from Earth. It spans roughly 100 light‑years and contains cavities, pillars, and evaporating gaseous globules sculpted by the radiation and winds of massive young stars.",
-  "source": "https://photojournal.jpl.nasa.gov/catalog/PIA13112"
+    "term": "Messier 61",
+    "definition": "Messier 61 (M61), also known as NGC 4303, is a barred spiral galaxy located roughly 55 million light‑years away in the constellation Virgo. With a diameter of about 100,000 light‑years—comparable to the Milky Way—it is a starburst galaxy featuring intense star formation regions in its spiral arms and hosting at least six supernovae. It also contains a supermassive black hole at its core.",
+    "source": "https://science.nasa.gov/image-detail/messier-61-looks-straight-into-the-camera/"
   },
   {
-  "term": "Cassiopeia",
-  "definition": "Cassiopeia is a prominent northern constellation named after the vain queen of Greek mythology. Notable for its distinctive “W” asterism formed by five bright stars, it lies along the plane of the Milky Way and contains many deep-sky objects, including the supernova remnant Cassiopeia A and star‑forming regions such as IC 63.",
-  "source": "https://www.nasa.gov/image-article/constellation-cassiopeia"
+    "term": "NEOWISE",
+    "definition": "NEOWISE (Near‑Earth Object Wide‑field Infrared Survey Explorer) is a NASA mission that repurposed the WISE spacecraft, initially launched in 2009, to detect and characterize asteroids and comets. Using infrared sensors operating at 3.4 and 4.6 µm wavelengths, NEOWISE has cataloged hundreds of thousands of minor planets—including Near‑Earth Objects—providing critical data on their sizes, orbits, and compositions.",
+    "source": "https://science.nasa.gov/mission/neowise/"
   },
   {
-  "term": "Martian spherules",
-  "definition": "Martian spherules are small, rounded mineral concretions—typically millimeter-sized—found in rocks on Mars. Discovered by the Perseverance rover (and earlier by Opportunity), these spheres include gray iron‑rich “blueberries” and newer spherules with pinholes, indicating past groundwater activity or volcanic processes.",
-  "source": "https://science.nasa.gov/blog/shocking-spherules/"
+    "term": "Westerhout 5",
+    "definition": "Westerhout 5 (also known as the Soul Nebula, IC 1848) is a large H II emission nebula and star-forming region in Cassiopeia, located about 6,500–7,000 light‑years from Earth. It spans roughly 100 light‑years and contains cavities, pillars, and evaporating gaseous globules sculpted by the radiation and winds of massive young stars.",
+    "source": "https://photojournal.jpl.nasa.gov/catalog/PIA13112"
   },
   {
-  "term": "Opportunity",
-  "definition": "Opportunity was a NASA Mars rover, part of the Mars Exploration Rover mission, that landed in Meridiani Planum on January 25, 2004. Originally designed for a 90‑sol mission, it operated for nearly 15 years—more than 5,000 sols—traversing over 45 km and providing strong evidence that Mars once held liquid water. It ceased communications after a global dust storm in June 2018 and was declared complete in February 2019.",
-  "source": "https://science.nasa.gov/mission/mer-opportunity/"
+    "term": "Cassiopeia",
+    "definition": "Cassiopeia is a prominent northern constellation named after the vain queen of Greek mythology. Notable for its distinctive “W” asterism formed by five bright stars, it lies along the plane of the Milky Way and contains many deep-sky objects, including the supernova remnant Cassiopeia A and star‑forming regions such as IC 63.",
+    "source": "https://www.nasa.gov/image-article/constellation-cassiopeia"
   },
   {
-  "term": "NGC 3521",
-  "definition": "NGC 3521 is a flocculent (patchy-armed) spiral galaxy located in the constellation Leo, approximately 26–40 million light‑years from Earth. It spans about 50,000 light‑years and is viewed nearly face‑on. The galaxy features a soft, “woolly” appearance due to its discontinuous spiral arms, with regions of active star formation spread throughout.",
-  "source": "https://science.nasa.gov/image-detail/28456416878-a79dfd7560-o/"
+    "term": "Martian spherules",
+    "definition": "Martian spherules are small, rounded mineral concretions—typically millimeter-sized—found in rocks on Mars. Discovered by the Perseverance rover (and earlier by Opportunity), these spheres include gray iron‑rich “blueberries” and newer spherules with pinholes, indicating past groundwater activity or volcanic processes.",
+    "source": "https://science.nasa.gov/blog/shocking-spherules/"
   },
   {
-  "term": "International Space Station",
-  "definition": "The International Space Station (ISS) is a modular space laboratory in low Earth orbit, jointly operated by NASA, Roscosmos, ESA, JAXA, and CSA. Launched beginning in 1998, it has been continuously inhabited since November 2000 and supports cutting-edge research in microgravity, Earth observation, and space technology, while fostering international cooperation.",
-  "source": "https://www.nasa.gov/international-space-station/"
+    "term": "Opportunity",
+    "definition": "Opportunity was a NASA Mars rover, part of the Mars Exploration Rover mission, that landed in Meridiani Planum on January 25, 2004. Originally designed for a 90‑sol mission, it operated for nearly 15 years—more than 5,000 sols—traversing over 45 km and providing strong evidence that Mars once held liquid water. It ceased communications after a global dust storm in June 2018 and was declared complete in February 2019.",
+    "source": "https://science.nasa.gov/mission/mer-opportunity/"
   },
   {
-  "term": "Rosette Nebula",
-  "definition": "The Rosette Nebula (NGC 2237–39, 2244) is a large H II region and stellar nursery about 5,200 light‑years away in the constellation Monoceros. Spanning roughly 100 light‑years, it consists of a central cavity surrounded by ionized gas illuminated and sculpted by the young star cluster NGC 2244, with pillars, cavities, and ongoing star formation.",
-  "source": "https://science.nasa.gov/asset/hubble/rosette-nebula-context-image/"
+    "term": "NGC 3521",
+    "definition": "NGC 3521 is a flocculent (patchy-armed) spiral galaxy located in the constellation Leo, approximately 26–40 million light‑years from Earth. It spans about 50,000 light‑years and is viewed nearly face‑on. The galaxy features a soft, “woolly” appearance due to its discontinuous spiral arms, with regions of active star formation spread throughout.",
+    "source": "https://science.nasa.gov/image-detail/28456416878-a79dfd7560-o/"
   },
   {
-  "term": "Lunar Reconnaissance Orbiter",
-  "definition": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft launched on June 18, 2009. It operates in a low polar orbit around the Moon and is mapping the lunar surface in unprecedented detail, measuring topography, radiation, temperature, and resources. Its data help identify safe landing sites, locate water ice in shadowed regions, and support future human and robotic exploration.",
-  "source": "https://science.nasa.gov/mission/lro/"
+    "term": "International Space Station",
+    "definition": "The International Space Station (ISS) is a modular space laboratory in low Earth orbit, jointly operated by NASA, Roscosmos, ESA, JAXA, and CSA. Launched beginning in 1998, it has been continuously inhabited since November 2000 and supports cutting-edge research in microgravity, Earth observation, and space technology, while fostering international cooperation.",
+    "source": "https://www.nasa.gov/international-space-station/"
   },
   {
-  "term": "Mars Reconnaissance Orbiter",
-  "definition": "The Mars Reconnaissance Orbiter (MRO) is a NASA spacecraft launched in 2005 that has been orbiting Mars since 2006. It conducts high-resolution imaging and analysis of the planet’s surface, subsurface, and atmosphere, searching for signs of past water and identifying potential landing sites for future missions.",
-  "source": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/"
+    "term": "Rosette Nebula",
+    "definition": "The Rosette Nebula (NGC 2237–39, 2244) is a large H II region and stellar nursery about 5,200 light‑years away in the constellation Monoceros. Spanning roughly 100 light‑years, it consists of a central cavity surrounded by ionized gas illuminated and sculpted by the young star cluster NGC 2244, with pillars, cavities, and ongoing star formation.",
+    "source": "https://science.nasa.gov/asset/hubble/rosette-nebula-context-image/"
   },
   {
-  "term": "Tarantula Nebula",
-  "definition": "The Tarantula Nebula (also known as NGC 2070 or 30 Doradus) is the largest and most active star-forming region in the Local Group, located in the Large Magellanic Cloud about 160,000–170,000 light‑years away. Spanning roughly 600 light‑years, it hosts massive young star clusters like R136, contains some of the most massive stars known (up to ~200 M☉), and is shaped by intense radiation, stellar winds, and supernovae.",
-  "source": "https://science.nasa.gov/image-detail/24077659028-d39b9c4d04-o/"
+    "term": "Lunar Reconnaissance Orbiter",
+    "definition": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft launched on June 18, 2009. It operates in a low polar orbit around the Moon and is mapping the lunar surface in unprecedented detail, measuring topography, radiation, temperature, and resources. Its data help identify safe landing sites, locate water ice in shadowed regions, and support future human and robotic exploration.",
+    "source": "https://science.nasa.gov/mission/lro/"
   },
   {
-  "term": "Satellite galaxy",
-  "definition": "A satellite galaxy is a smaller galaxy, typically a dwarf, that is gravitationally bound and orbits a larger host galaxy. These companion galaxies may eventually be tidally disrupted or merge with their hosts, and often contain between a few thousand and a few billion stars.",
-  "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_s_decade_of_discoveries_unravelling_the_intricacies_of_our_galaxy"
+    "term": "Mars Reconnaissance Orbiter",
+    "definition": "The Mars Reconnaissance Orbiter (MRO) is a NASA spacecraft launched in 2005 that has been orbiting Mars since 2006. It conducts high-resolution imaging and analysis of the planet’s surface, subsurface, and atmosphere, searching for signs of past water and identifying potential landing sites for future missions.",
+    "source": "https://science.nasa.gov/mission/mars-reconnaissance-orbiter/"
   },
   {
-  "term": "Large Magellanic Cloud",
-  "definition": "The Large Magellanic Cloud (LMC) is a dwarf satellite galaxy of the Milky Way, located about 160,000–200,000 light‑years away in the southern constellations Dorado and Mensa. Roughly 10,000 light‑years across, it is rich in star-forming regions—such as the Tarantula Nebula—and contains billions of stars.",
-  "source": "https://science.nasa.gov/missions/hubble/large-magellanic-cloud/"
+    "term": "Tarantula Nebula",
+    "definition": "The Tarantula Nebula (also known as NGC 2070 or 30 Doradus) is the largest and most active star-forming region in the Local Group, located in the Large Magellanic Cloud about 160,000–170,000 light‑years away. Spanning roughly 600 light‑years, it hosts massive young star clusters like R136, contains some of the most massive stars known (up to ~200 M☉), and is shaped by intense radiation, stellar winds, and supernovae.",
+    "source": "https://science.nasa.gov/image-detail/24077659028-d39b9c4d04-o/"
   },
   {
-  "term": "NGC 4651",
-  "definition": "NGC 4651, nicknamed the “Umbrella Galaxy,” is a spiral galaxy located in the constellation Coma Berenices about 50–70 million light‑years away. It displays an umbrella-shaped tidal stellar stream, stretching ~100,000 light‑years from its disk, formed from the remains of a smaller galaxy it accreted.",
-  "source": "https://science.nasa.gov/missions/hubble/hubble-captures-a-cannibal-galaxy/"
+    "term": "Satellite galaxy",
+    "definition": "A satellite galaxy is a smaller galaxy, typically a dwarf, that is gravitationally bound and orbits a larger host galaxy. These companion galaxies may eventually be tidally disrupted or merge with their hosts, and often contain between a few thousand and a few billion stars.",
+    "source": "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_s_decade_of_discoveries_unravelling_the_intricacies_of_our_galaxy"
   },
   {
-  "term": "Polaris",
-  "definition": "Polaris, also known as the North Star, is a multiple-star system located nearly at the North Celestial Pole in the constellation Ursa Minor. Its brightest component, Polaris A, is a classical Cepheid variable supergiant approximately 430 light-years from Earth. The system appears nearly fixed in the sky, making it an important navigational reference.",
-  "source": "https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/"
+    "term": "Large Magellanic Cloud",
+    "definition": "The Large Magellanic Cloud (LMC) is a dwarf satellite galaxy of the Milky Way, located about 160,000–200,000 light‑years away in the southern constellations Dorado and Mensa. Roughly 10,000 light‑years across, it is rich in star-forming regions—such as the Tarantula Nebula—and contains billions of stars.",
+    "source": "https://science.nasa.gov/missions/hubble/large-magellanic-cloud/"
   },
   {
-  "term": "Ursa Minor",
-  "definition": "Ursa Minor, Latin for 'Little Bear', is a small northern circumpolar constellation best known for containing Polaris—the current North Star—at the end of the Little Dipper’s handle. It spans 256 square degrees, is visible all year from northern latitudes, and has been used for navigation due to its stable position near the north celestial pole.",
-  "source": "https://noirlab.edu/public/education/constellations/ursa-minor/"
+    "term": "NGC 4651",
+    "definition": "NGC 4651, nicknamed the “Umbrella Galaxy,” is a spiral galaxy located in the constellation Coma Berenices about 50–70 million light‑years away. It displays an umbrella-shaped tidal stellar stream, stretching ~100,000 light‑years from its disk, formed from the remains of a smaller galaxy it accreted.",
+    "source": "https://science.nasa.gov/missions/hubble/hubble-captures-a-cannibal-galaxy/"
   },
   {
-  "term": "The Sun",
-  "definition": "The Sun is a yellow dwarf star (G2V), about 4.6 billion years old, and the dominant gravitational force in the Solar System. It has a diameter of roughly 1.4 million kilometers and contains around 99.8% of the Solar System’s mass. Nuclear fusion in its core converts hydrogen into helium, producing energy that warms the planets. Above the core lie the radiative and convective zones, followed by the visible photosphere (~5,500 °C), the chromosphere, and the much hotter corona (~2 million °C).",
-  "source": "https://science.nasa.gov/sun/facts/"
+    "term": "Polaris",
+    "definition": "Polaris, also known as the North Star, is a multiple-star system located nearly at the North Celestial Pole in the constellation Ursa Minor. Its brightest component, Polaris A, is a classical Cepheid variable supergiant approximately 430 light-years from Earth. The system appears nearly fixed in the sky, making it an important navigational reference.",
+    "source": "https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/"
   },
   {
-  "term": "Apollo 16",
-  "definition": "Apollo 16 was NASA’s tenth crewed lunar landing mission and the fifth to land on the Moon. Launched on April 16, 1972, it touched down in the Descartes Highlands on April 21, carrying astronauts John Young and Charles Duke, with Ken Mattingly orbiting above. The mission’s objectives included geological fieldwork using the Lunar Roving Vehicle, deployment of surface experiments (ALSEP), and the return of nearly 96 kg of lunar samples. The mission concluded with a safe Earth splashdown on April 27, 1972.",
-  "source": "https://www.nasa.gov/missions/apollo/apollo-16-mission-details/"
+    "term": "Ursa Minor",
+    "definition": "Ursa Minor, Latin for 'Little Bear', is a small northern circumpolar constellation best known for containing Polaris—the current North Star—at the end of the Little Dipper’s handle. It spans 256 square degrees, is visible all year from northern latitudes, and has been used for navigation due to its stable position near the north celestial pole.",
+    "source": "https://noirlab.edu/public/education/constellations/ursa-minor/"
   },
   {
-  "term": "Black Hole",
-  "definition": "A black hole is an astronomical object whose gravity is so strong that nothing—even light—can escape from within its event horizon. It forms when a massive star’s core collapses or through other processes, and may have an accretion disk of infalling matter that emits radiation. Supermassive black holes at galaxy centers influence stellar orbits, and mergers produce gravitational waves.",
-  "source": "https://www.nasa.gov/universe/what-are-black-holes/"
+    "term": "The Sun",
+    "definition": "The Sun is a yellow dwarf star (G2V), about 4.6 billion years old, and the dominant gravitational force in the Solar System. It has a diameter of roughly 1.4 million kilometers and contains around 99.8% of the Solar System’s mass. Nuclear fusion in its core converts hydrogen into helium, producing energy that warms the planets. Above the core lie the radiative and convective zones, followed by the visible photosphere (~5,500 °C), the chromosphere, and the much hotter corona (~2 million °C).",
+    "source": "https://science.nasa.gov/sun/facts/"
+  },
+  {
+    "term": "Apollo 16",
+    "definition": "Apollo 16 was NASA’s tenth crewed lunar landing mission and the fifth to land on the Moon. Launched on April 16, 1972, it touched down in the Descartes Highlands on April 21, carrying astronauts John Young and Charles Duke, with Ken Mattingly orbiting above. The mission’s objectives included geological fieldwork using the Lunar Roving Vehicle, deployment of surface experiments (ALSEP), and the return of nearly 96 kg of lunar samples. The mission concluded with a safe Earth splashdown on April 27, 1972.",
+    "source": "https://www.nasa.gov/missions/apollo/apollo-16-mission-details/"
+  },
+  {
+    "term": "Black Hole",
+    "definition": "A black hole is an astronomical object whose gravity is so strong that nothing—even light—can escape from within its event horizon. It forms when a massive star’s core collapses or through other processes, and may have an accretion disk of infalling matter that emits radiation. Supermassive black holes at galaxy centers influence stellar orbits, and mergers produce gravitational waves.",
+    "source": "https://www.nasa.gov/universe/what-are-black-holes/"
+  },
+  {
+    "term": "Supernova",
+    "definition": "A supernova is the explosive death of a star, during which it rapidly ejects most of its mass in a brilliant burst of light. In core‑collapse supernovae (Types Ib, Ic, II), massive stars (≥ 8 solar masses) exhaust their nuclear fuel, collapse under gravity, and explode. In Type Ia supernovae, a white dwarf in a binary system undergoes runaway fusion after accreting mass. These events deliver heavy elements into space, leave behind neutron stars or black holes, and power typical shock‑front supernova remnants.",
+    "source": "https://heasarc.gsfc.nasa.gov/docs/snr.html"
   }
 ]
-  
