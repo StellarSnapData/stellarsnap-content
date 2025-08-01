@@ -948,5 +948,10 @@
     "term": "Supernova",
     "definition": "A supernova is the explosive death of a star, during which it rapidly ejects most of its mass in a brilliant burst of light. In core‑collapse supernovae (Types Ib, Ic, II), massive stars (≥ 8 solar masses) exhaust their nuclear fuel, collapse under gravity, and explode. In Type Ia supernovae, a white dwarf in a binary system undergoes runaway fusion after accreting mass. These events deliver heavy elements into space, leave behind neutron stars or black holes, and power typical shock‑front supernova remnants.",
     "source": "https://heasarc.gsfc.nasa.gov/docs/snr.html"
+  },
+  {
+    "term": "Nebula",
+    "definition": "A nebula is a giant cloud of gas (mostly hydrogen and helium) and cosmic dust situated between stars in the interstellar medium. Nebulae serve as sites of stellar birth and death—including emission nebulae that glow from ionized gas, reflection nebulae that scatter starlight, and dark nebulae that obscure background stars.",
+    "source": "https://science.nasa.gov/universe/decoding-nebulae/"
   }
 ]
