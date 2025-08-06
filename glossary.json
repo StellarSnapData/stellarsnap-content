@@ -953,5 +953,10 @@
     "term": "Nebula",
     "definition": "A nebula is a giant cloud of gas (mostly hydrogen and helium) and cosmic dust situated between stars in the interstellar medium. Nebulae serve as sites of stellar birth and death—including emission nebulae that glow from ionized gas, reflection nebulae that scatter starlight, and dark nebulae that obscure background stars.",
     "source": "https://science.nasa.gov/universe/decoding-nebulae/"
+  },
+  {
+    "term": "Perseid Meteor Shower",
+    "definition": "The Perseid Meteor Shower is a prolific annual meteor shower caused when Earth passes through the debris stream left by Comet 109P/Swift‑Tuttle. Active from mid‑July to late August, it peaks around August 12–13, producing up to ~50–100 meteors per hour under dark skies—many bright and fast enough to leave colorful wakes.",
+    "source": "https://science.nasa.gov/solar-system/meteors-meteorites/perseids/"
   }
 ]
